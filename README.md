@@ -38,10 +38,10 @@
 
 | Участник | Роль | GitHub | Основные обязанности |
 |----------|------|--------|---------------------|
-| **Старинцева Наталья** | 🎯 Team Lead, EDA Lead, Backend Developer | [@Starnatvl](https://github.com/Starnatvl) | Координация проекта, коммуникация с заказчиком, разработка API и интеграционного слоя, итоговая презентация |
-| **Кобзева Мария** | 📊 Data Scientist | [@Maria_Kob](https://github.com/Maria_Kob) | EDA, feature engineering, обработка данных, эксперименты с моделями, визуализация |
-| **Стрик Наталья** | 🔬 Data Scientist + QA | [@StrikNa](https://github.com/StrikNa) | Feature engineering, обучение классических моделей, балансировка классов, бэктестинг |
-| **Мюлинг Илья** | 🤖 ML Engineer | [@IluxaXP](https://github.com/IluxaXP) | Пайплайн обучения, подбор гиперпараметров, inference-скрипт, экспорт моделей (ONNX) |
+| **Старинцева Наталья** | 🎯 Team Lead, Backend Developer | [@Starnatvl](https://github.com/Starnatvl) | Координация проекта, коммуникация с заказчиком, разработка API и интеграционного слоя, итоговая презентация |
+| **Кобзева Мария** | 📊 Data Scientist, EDA Lead | [@Maria_Kob](https://github.com/Maria_Kob) | EDA, feature engineering, обработка данных, визуализация |
+| **Стрик Наталья** | 🔬 Data Scientist + QA | [@StrikNa](https://github.com/StrikNa) | Feature engineering, балансировка классов|
+| **Мюлинг Илья** | 🤖 ML Engineer | [@IluxaXP](https://github.com/IluxaXP) | Эксперименты с моделями, обучение классических моделей, , бэктестинг, пайплайн обучения, подбор гиперпараметров, inference-скрипт, экспорт моделей |
 
 ---
 
