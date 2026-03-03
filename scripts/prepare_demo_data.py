@@ -112,14 +112,21 @@ def main():
     print(f"📏 Самый длинный непрерывный отрезок: {len(continuous_df)} строк")
 
     # Берём первые max_rows строк из непрерывного отрезка
-    n_rows = min(len(continuous_df), args.max_rows)
-    demo_df = continuous_df.head(n_rows).copy()
+    demo_df = continuous_df.head(args.max_rows).copy()
 
-    # Оставляем только нужные колонки для мок-сервера
-    # В dataset_rework колонки: timestamp, symbol, rd_value, open, high, low, close, volume, signal_barrier
-    # Нам нужны: timestamp, open, high, low, close, volume, rd_value (symbol не нужен в JSON, т.к. будет в запросе)
+    # Переименовываем close_price -> close, если нужно
+    if "close_price" in demo_df.columns and "close" not in demo_df.columns:
+        demo_df.rename(columns={"close_price": "close"}, inplace=True)
+
+    # Оставляем только нужные колонки
     keep_cols = ["timestamp", "open", "high", "low", "close", "volume", "rd_value"]
-    demo_df = demo_df[keep_cols]
+    # Проверяем наличие колонок
+    available_cols = [c for c in keep_cols if c in demo_df.columns]
+    if len(available_cols) != len(keep_cols):
+        missing = set(keep_cols) - set(available_cols)
+        print(f"⚠️  Отсутствуют колонки: {missing}. Проверьте имена колонок в данных.")
+        sys.exit(1)
+    demo_df = demo_df[available_cols]
 
     # Сбрасываем индекс и преобразуем в список словарей
     demo_data = demo_df.to_dict(orient="records")
