@@ -1,0 +1,7 @@
+rd_mom_5
+rd_mom_1
+rd_zscore_30
+rd_mom_10
+rd_acceleration
+rd_regime
+rd_regime_transition

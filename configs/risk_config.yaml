@@ -1,0 +1,13 @@
+risk_management:
+  max_position_percentage: 0.02  # Размер позиции: 2% от депозита на сделку
+  max_simultaneous_positions: 3  # Максимум 3 открытых сделки одновременно
+  daily_loss_limit: 0.10         # Стоп-торги если потеряли 10% за день
+  
+  take_profit_percentage: 0.01   # Базовый TP 1% (может перекрываться сигналом)
+  stop_loss_percentage: 0.005    # Базовый SL 0.5%
+  
+  min_confidence_threshold: 0.70 # Входим в сделку только если модель уверена на 70%+
+  
+leverage:
+  default: 5
+  max: 10

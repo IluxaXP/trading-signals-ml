@@ -1,0 +1,3 @@
+is_weekend
+bb_position
+bb_width
