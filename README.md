@@ -115,9 +115,11 @@ cd trading-signals-ml
 ### 2️⃣ Запуск демо с реальными данными (локально)
 
 ### Создание и активация виртуального окружения
+```bash
 python3 -m venv venv
 source venv/bin/activate      # для Linux/macOS
 # или venv\Scripts\activate   # для Windows
+```
 
 #### Установка зависимостей Python
 ```bash
