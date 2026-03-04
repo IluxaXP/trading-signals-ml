@@ -21,7 +21,7 @@ const historicalData = rawData.map(item => ({
 }));
 
 // Переменная для хранения текущего индекса (имитация реального времени)
-let currentIndex = 0; // будем увеличивать при каждом запросе
+let currentIndex = 60; // будем увеличивать при каждом запросе
 
 // Эндпоинт для получения окна фичей
 app.get('/api/ml/ds/feature-windows', (req, res) => {
