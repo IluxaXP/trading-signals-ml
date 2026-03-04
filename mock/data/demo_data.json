@@ -6,7 +6,8 @@
     "low": 0.09905,
     "close": 0.09905,
     "volume": 0.0,
-    "rd_value": 0.0056096893
+    "rd_value": 0.0056096893,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770573540000,
@@ -15,7 +16,8 @@
     "low": 0.09905,
     "close": 0.09915,
     "volume": 55.1,
-    "rd_value": 0.016202224
+    "rd_value": 0.016202224,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770573600000,
@@ -24,7 +26,8 @@
     "low": 0.09906,
     "close": 0.09952,
     "volume": 5508.3,
-    "rd_value": 0.6114585
+    "rd_value": 0.6114585,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770573660000,
@@ -33,7 +36,8 @@
     "low": 0.09952,
     "close": 0.10098,
     "volume": 48118.8,
-    "rd_value": 0.88477665
+    "rd_value": 0.88477665,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770573720000,
@@ -42,7 +46,8 @@
     "low": 0.10039,
     "close": 0.10053,
     "volume": 39851.2,
-    "rd_value": 0.9637662
+    "rd_value": 0.9637662,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770573780000,
@@ -51,7 +56,8 @@
     "low": 0.10053,
     "close": 0.10089,
     "volume": 3344.4,
-    "rd_value": 0.90816164
+    "rd_value": 0.90816164,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770573840000,
@@ -60,7 +66,8 @@
     "low": 0.10087,
     "close": 0.10087,
     "volume": 0.0,
-    "rd_value": 0.9419002
+    "rd_value": 0.9419002,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770573900000,
@@ -69,7 +76,8 @@
     "low": 0.10104,
     "close": 0.10104,
     "volume": 1539.4,
-    "rd_value": 1.0839638
+    "rd_value": 1.0839638,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770573960000,
@@ -78,7 +86,8 @@
     "low": 0.10093,
     "close": 0.10093,
     "volume": 803.6,
-    "rd_value": 1.0488514
+    "rd_value": 1.0488514,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574020000,
@@ -87,7 +96,8 @@
     "low": 0.10113,
     "close": 0.10181,
     "volume": 10916.2,
-    "rd_value": 1.152217
+    "rd_value": 1.152217,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574080000,
@@ -96,7 +106,8 @@
     "low": 0.1017,
     "close": 0.10174,
     "volume": 1226.4,
-    "rd_value": 1.2123609
+    "rd_value": 1.2123609,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574140000,
@@ -105,7 +116,8 @@
     "low": 0.10182,
     "close": 0.10182,
     "volume": 0.0,
-    "rd_value": 1.2151701
+    "rd_value": 1.2151701,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574200000,
@@ -114,7 +126,8 @@
     "low": 0.10191,
     "close": 0.10252,
     "volume": 12453.9,
-    "rd_value": 1.3379383
+    "rd_value": 1.3379383,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574260000,
@@ -123,7 +136,8 @@
     "low": 0.10207,
     "close": 0.10215,
     "volume": 214.9,
-    "rd_value": 1.1867481
+    "rd_value": 1.1867481,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574320000,
@@ -132,7 +146,8 @@
     "low": 0.10151,
     "close": 0.10191,
     "volume": 242.6,
-    "rd_value": 1.1427658
+    "rd_value": 1.1427658,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574380000,
@@ -141,7 +156,8 @@
     "low": 0.10166,
     "close": 0.10189,
     "volume": 13576.8,
-    "rd_value": 1.159945
+    "rd_value": 1.159945,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574440000,
@@ -150,7 +166,8 @@
     "low": 0.10178,
     "close": 0.10198,
     "volume": 3111.3,
-    "rd_value": 1.2693092
+    "rd_value": 1.2693092,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574500000,
@@ -159,7 +176,8 @@
     "low": 0.10188,
     "close": 0.10225,
     "volume": 63101.9,
-    "rd_value": 1.2961022
+    "rd_value": 1.2961022,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574560000,
@@ -168,7 +186,8 @@
     "low": 0.10196,
     "close": 0.10218,
     "volume": 3457.8,
-    "rd_value": 1.2356441
+    "rd_value": 1.2356441,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574620000,
@@ -177,7 +196,8 @@
     "low": 0.10237,
     "close": 0.10257,
     "volume": 4221.4,
-    "rd_value": 1.3030096
+    "rd_value": 1.3030096,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574680000,
@@ -186,7 +206,8 @@
     "low": 0.10258,
     "close": 0.10287,
     "volume": 4913.1,
-    "rd_value": 1.4459811
+    "rd_value": 1.4459811,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574740000,
@@ -195,7 +216,8 @@
     "low": 0.1029,
     "close": 0.10307,
     "volume": 26502.8,
-    "rd_value": 1.4334433
+    "rd_value": 1.4334433,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574800000,
@@ -204,7 +226,8 @@
     "low": 0.10244,
     "close": 0.10257,
     "volume": 20580.8,
-    "rd_value": 1.2481757
+    "rd_value": 1.2481757,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574860000,
@@ -213,7 +236,8 @@
     "low": 0.10234,
     "close": 0.10246,
     "volume": 8298.1,
-    "rd_value": 1.171177
+    "rd_value": 1.171177,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574920000,
@@ -222,7 +246,8 @@
     "low": 0.1021,
     "close": 0.1021,
     "volume": 6275.5,
-    "rd_value": 1.115378
+    "rd_value": 1.115378,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770574980000,
@@ -231,7 +256,8 @@
     "low": 0.10225,
     "close": 0.10232,
     "volume": 6812.8,
-    "rd_value": 1.1983538
+    "rd_value": 1.1983538,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575040000,
@@ -240,7 +266,8 @@
     "low": 0.10276,
     "close": 0.10321,
     "volume": 48912.8,
-    "rd_value": 1.3781548
+    "rd_value": 1.3781548,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575100000,
@@ -249,7 +276,8 @@
     "low": 0.103,
     "close": 0.10329,
     "volume": 9562.8,
-    "rd_value": 1.2876157
+    "rd_value": 1.2876157,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575160000,
@@ -258,7 +286,8 @@
     "low": 0.10269,
     "close": 0.10275,
     "volume": 8785.9,
-    "rd_value": 1.1419178
+    "rd_value": 1.1419178,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575220000,
@@ -267,7 +296,8 @@
     "low": 0.10205,
     "close": 0.10209,
     "volume": 19628.9,
-    "rd_value": 0.95484525
+    "rd_value": 0.95484525,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575280000,
@@ -276,7 +306,8 @@
     "low": 0.10207,
     "close": 0.10231,
     "volume": 3012.1,
-    "rd_value": 0.94249713
+    "rd_value": 0.94249713,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575340000,
@@ -285,7 +316,8 @@
     "low": 0.10201,
     "close": 0.10238,
     "volume": 13018.0,
-    "rd_value": 0.98550206
+    "rd_value": 0.98550206,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575400000,
@@ -294,7 +326,8 @@
     "low": 0.10239,
     "close": 0.10245,
     "volume": 7917.2,
-    "rd_value": 0.8088621
+    "rd_value": 0.8088621,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575460000,
@@ -303,7 +336,8 @@
     "low": 0.10251,
     "close": 0.10254,
     "volume": 1955.8,
-    "rd_value": 0.88453066
+    "rd_value": 0.88453066,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575520000,
@@ -312,7 +346,8 @@
     "low": 0.10256,
     "close": 0.1028,
     "volume": 9086.8,
-    "rd_value": 0.90883154
+    "rd_value": 0.90883154,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575580000,
@@ -321,7 +356,8 @@
     "low": 0.1023,
     "close": 0.10256,
     "volume": 18228.4,
-    "rd_value": 0.8611172
+    "rd_value": 0.8611172,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575640000,
@@ -330,7 +366,8 @@
     "low": 0.10282,
     "close": 0.103,
     "volume": 2629.7,
-    "rd_value": 0.74503195
+    "rd_value": 0.74503195,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575700000,
@@ -339,7 +376,8 @@
     "low": 0.10212,
     "close": 0.10212,
     "volume": 828.4,
-    "rd_value": 0.5708642
+    "rd_value": 0.5708642,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575760000,
@@ -348,7 +386,8 @@
     "low": 0.10214,
     "close": 0.10236,
     "volume": 2368.6,
-    "rd_value": 0.5869785
+    "rd_value": 0.5869785,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575820000,
@@ -357,7 +396,8 @@
     "low": 0.10222,
     "close": 0.10259,
     "volume": 9198.5,
-    "rd_value": 0.68348587
+    "rd_value": 0.68348587,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575880000,
@@ -366,7 +406,8 @@
     "low": 0.10229,
     "close": 0.10261,
     "volume": 2713.0,
-    "rd_value": 0.6873106
+    "rd_value": 0.6873106,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770575940000,
@@ -375,7 +416,8 @@
     "low": 0.10259,
     "close": 0.10268,
     "volume": 1267.7,
-    "rd_value": 0.65923756
+    "rd_value": 0.65923756,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576000000,
@@ -384,7 +426,8 @@
     "low": 0.10222,
     "close": 0.10222,
     "volume": 389.3,
-    "rd_value": 0.51885164
+    "rd_value": 0.51885164,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576060000,
@@ -393,7 +436,8 @@
     "low": 0.10217,
     "close": 0.1022,
     "volume": 1062.7,
-    "rd_value": 0.41454765
+    "rd_value": 0.41454765,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576120000,
@@ -402,7 +446,8 @@
     "low": 0.10174,
     "close": 0.10174,
     "volume": 402.0,
-    "rd_value": 0.351641
+    "rd_value": 0.351641,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576180000,
@@ -411,7 +456,8 @@
     "low": 0.10188,
     "close": 0.1022,
     "volume": 9828.3,
-    "rd_value": 0.46881357
+    "rd_value": 0.46881357,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576240000,
@@ -420,7 +466,8 @@
     "low": 0.10221,
     "close": 0.10233,
     "volume": 1015.6,
-    "rd_value": 0.5586526
+    "rd_value": 0.5586526,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576300000,
@@ -429,7 +476,8 @@
     "low": 0.10247,
     "close": 0.10247,
     "volume": 103.5,
-    "rd_value": 0.6661699
+    "rd_value": 0.6661699,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576360000,
@@ -438,7 +486,8 @@
     "low": 0.10262,
     "close": 0.10268,
     "volume": 34.0,
-    "rd_value": 0.7176733
+    "rd_value": 0.7176733,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576420000,
@@ -447,7 +496,8 @@
     "low": 0.10276,
     "close": 0.10276,
     "volume": 0.0,
-    "rd_value": 0.70593995
+    "rd_value": 0.70593995,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576480000,
@@ -456,7 +506,8 @@
     "low": 0.10247,
     "close": 0.10264,
     "volume": 192.7,
-    "rd_value": 0.72392434
+    "rd_value": 0.72392434,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576540000,
@@ -465,7 +516,8 @@
     "low": 0.10289,
     "close": 0.10289,
     "volume": 752.7,
-    "rd_value": 0.7381043
+    "rd_value": 0.7381043,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576600000,
@@ -474,7 +526,8 @@
     "low": 0.1026,
     "close": 0.1026,
     "volume": 270.3,
-    "rd_value": 0.5973041
+    "rd_value": 0.5973041,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576660000,
@@ -483,7 +536,8 @@
     "low": 0.10243,
     "close": 0.10243,
     "volume": 759.3,
-    "rd_value": 0.58057
+    "rd_value": 0.58057,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576720000,
@@ -492,7 +546,8 @@
     "low": 0.10259,
     "close": 0.10259,
     "volume": 1036.2,
-    "rd_value": 0.5659938
+    "rd_value": 0.5659938,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576780000,
@@ -501,7 +556,8 @@
     "low": 0.10232,
     "close": 0.10232,
     "volume": 194.0,
-    "rd_value": 0.5437181
+    "rd_value": 0.5437181,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576840000,
@@ -510,7 +566,8 @@
     "low": 0.10257,
     "close": 0.10257,
     "volume": 320.8,
-    "rd_value": 0.5290209
+    "rd_value": 0.5290209,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576900000,
@@ -519,7 +576,8 @@
     "low": 0.10217,
     "close": 0.10217,
     "volume": 2240.6,
-    "rd_value": 0.39571828
+    "rd_value": 0.39571828,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770576960000,
@@ -528,7 +586,8 @@
     "low": 0.10229,
     "close": 0.10229,
     "volume": 0.0,
-    "rd_value": 0.37844682
+    "rd_value": 0.37844682,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577020000,
@@ -537,7 +596,8 @@
     "low": 0.1021,
     "close": 0.10229,
     "volume": 170.1,
-    "rd_value": 0.42394713
+    "rd_value": 0.42394713,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577080000,
@@ -546,7 +606,8 @@
     "low": 0.10249,
     "close": 0.1025,
     "volume": 1286.6,
-    "rd_value": 0.47408932
+    "rd_value": 0.47408932,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577140000,
@@ -555,7 +616,8 @@
     "low": 0.10245,
     "close": 0.10255,
     "volume": 4232.1,
-    "rd_value": 0.48418316
+    "rd_value": 0.48418316,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577200000,
@@ -564,7 +626,8 @@
     "low": 0.1022,
     "close": 0.1022,
     "volume": 1484.0,
-    "rd_value": 0.46856117
+    "rd_value": 0.46856117,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577260000,
@@ -573,7 +636,8 @@
     "low": 0.10197,
     "close": 0.10233,
     "volume": 3262.8,
-    "rd_value": 0.54925793
+    "rd_value": 0.54925793,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577320000,
@@ -582,7 +646,8 @@
     "low": 0.10279,
     "close": 0.103,
     "volume": 1390.5,
-    "rd_value": 0.814532
+    "rd_value": 0.814532,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577380000,
@@ -591,7 +656,8 @@
     "low": 0.10317,
     "close": 0.10317,
     "volume": 2155.2,
-    "rd_value": 0.78284055
+    "rd_value": 0.78284055,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577440000,
@@ -600,7 +666,8 @@
     "low": 0.10288,
     "close": 0.10296,
     "volume": 155.4,
-    "rd_value": 0.7240133
+    "rd_value": 0.7240133,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577500000,
@@ -609,7 +676,8 @@
     "low": 0.10296,
     "close": 0.10296,
     "volume": 0.0,
-    "rd_value": 0.6992538
+    "rd_value": 0.6992538,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577560000,
@@ -618,7 +686,8 @@
     "low": 0.10263,
     "close": 0.10263,
     "volume": 0.0,
-    "rd_value": 0.6689836
+    "rd_value": 0.6689836,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577620000,
@@ -627,7 +696,8 @@
     "low": 0.10279,
     "close": 0.10306,
     "volume": 15101.9,
-    "rd_value": 0.72945297
+    "rd_value": 0.72945297,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577680000,
@@ -636,7 +706,8 @@
     "low": 0.10272,
     "close": 0.10289,
     "volume": 5759.6,
-    "rd_value": 0.7176176
+    "rd_value": 0.7176176,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577740000,
@@ -645,7 +716,8 @@
     "low": 0.1029,
     "close": 0.10297,
     "volume": 1077.0,
-    "rd_value": 0.74264514
+    "rd_value": 0.74264514,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577800000,
@@ -654,7 +726,8 @@
     "low": 0.10252,
     "close": 0.10252,
     "volume": 3345.7,
-    "rd_value": 0.39242917
+    "rd_value": 0.39242917,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577860000,
@@ -663,7 +736,8 @@
     "low": 0.10197,
     "close": 0.10197,
     "volume": 515.2,
-    "rd_value": 0.2066737
+    "rd_value": 0.2066737,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577920000,
@@ -672,7 +746,8 @@
     "low": 0.10189,
     "close": 0.10189,
     "volume": 0.0,
-    "rd_value": 0.11814429
+    "rd_value": 0.11814429,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770577980000,
@@ -681,7 +756,8 @@
     "low": 0.10155,
     "close": 0.10177,
     "volume": 603.6,
-    "rd_value": 0.13808689
+    "rd_value": 0.13808689,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578040000,
@@ -690,7 +766,8 @@
     "low": 0.10173,
     "close": 0.1018,
     "volume": 3412.2,
-    "rd_value": 0.16759677
+    "rd_value": 0.16759677,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578100000,
@@ -699,7 +776,8 @@
     "low": 0.1017,
     "close": 0.10192,
     "volume": 925.7,
-    "rd_value": -0.2580881
+    "rd_value": -0.2580881,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578160000,
@@ -708,7 +786,8 @@
     "low": 0.10144,
     "close": 0.10144,
     "volume": 3795.1,
-    "rd_value": -0.3053546
+    "rd_value": -0.3053546,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578220000,
@@ -717,7 +796,8 @@
     "low": 0.10124,
     "close": 0.10124,
     "volume": 13691.2,
-    "rd_value": -0.3673043
+    "rd_value": -0.3673043,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578280000,
@@ -726,7 +806,8 @@
     "low": 0.10129,
     "close": 0.10129,
     "volume": 0.0,
-    "rd_value": -0.3810809
+    "rd_value": -0.3810809,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578340000,
@@ -735,7 +816,8 @@
     "low": 0.10137,
     "close": 0.10137,
     "volume": 496.2,
-    "rd_value": -0.3633781
+    "rd_value": -0.3633781,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578400000,
@@ -744,7 +826,8 @@
     "low": 0.10137,
     "close": 0.10137,
     "volume": 0.0,
-    "rd_value": -0.48816323
+    "rd_value": -0.48816323,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578460000,
@@ -753,7 +836,8 @@
     "low": 0.10121,
     "close": 0.10126,
     "volume": 107.3,
-    "rd_value": -0.5044636
+    "rd_value": -0.5044636,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578520000,
@@ -762,7 +846,8 @@
     "low": 0.10126,
     "close": 0.10126,
     "volume": 0.0,
-    "rd_value": -0.49013695
+    "rd_value": -0.49013695,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578580000,
@@ -771,7 +856,8 @@
     "low": 0.10106,
     "close": 0.10106,
     "volume": 3244.2,
-    "rd_value": -0.5621069
+    "rd_value": -0.5621069,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578640000,
@@ -780,7 +866,8 @@
     "low": 0.10102,
     "close": 0.10102,
     "volume": 0.0,
-    "rd_value": -0.5194038
+    "rd_value": -0.5194038,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578700000,
@@ -789,7 +876,8 @@
     "low": 0.10118,
     "close": 0.10118,
     "volume": 280.9,
-    "rd_value": -0.4304473
+    "rd_value": -0.4304473,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578760000,
@@ -798,7 +886,8 @@
     "low": 0.10111,
     "close": 0.10172,
     "volume": 5963.1,
-    "rd_value": -0.3705832
+    "rd_value": -0.3705832,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578820000,
@@ -807,7 +896,8 @@
     "low": 0.10143,
     "close": 0.10143,
     "volume": 592.6,
-    "rd_value": -0.3957667
+    "rd_value": -0.3957667,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578880000,
@@ -816,7 +906,8 @@
     "low": 0.10111,
     "close": 0.10122,
     "volume": 99.4,
-    "rd_value": -0.4234082
+    "rd_value": -0.4234082,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770578940000,
@@ -825,7 +916,8 @@
     "low": 0.10122,
     "close": 0.10122,
     "volume": 98.7,
-    "rd_value": -0.40050822
+    "rd_value": -0.40050822,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579000000,
@@ -834,7 +926,8 @@
     "low": 0.10122,
     "close": 0.10154,
     "volume": 842.8,
-    "rd_value": -0.04792196
+    "rd_value": -0.04792196,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579060000,
@@ -843,7 +936,8 @@
     "low": 0.10152,
     "close": 0.10163,
     "volume": 357.4,
-    "rd_value": -0.032047033
+    "rd_value": -0.032047033,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579120000,
@@ -852,7 +946,8 @@
     "low": 0.10125,
     "close": 0.10161,
     "volume": 1894.8,
-    "rd_value": -0.0145615265
+    "rd_value": -0.0145615265,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579180000,
@@ -861,7 +956,8 @@
     "low": 0.10143,
     "close": 0.10147,
     "volume": 12241.5,
-    "rd_value": -0.008955904
+    "rd_value": -0.008955904,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579240000,
@@ -870,7 +966,8 @@
     "low": 0.10118,
     "close": 0.10157,
     "volume": 5364.6,
-    "rd_value": -0.011515097
+    "rd_value": -0.011515097,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579300000,
@@ -879,7 +976,8 @@
     "low": 0.10166,
     "close": 0.10172,
     "volume": 2266.6,
-    "rd_value": 0.1850912
+    "rd_value": 0.1850912,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579360000,
@@ -888,7 +986,8 @@
     "low": 0.10163,
     "close": 0.10163,
     "volume": 79.9,
-    "rd_value": 0.14927232
+    "rd_value": 0.14927232,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579420000,
@@ -897,7 +996,8 @@
     "low": 0.10156,
     "close": 0.10191,
     "volume": 20803.5,
-    "rd_value": 0.21628058
+    "rd_value": 0.21628058,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579480000,
@@ -906,7 +1006,8 @@
     "low": 0.10191,
     "close": 0.10191,
     "volume": 0.0,
-    "rd_value": 0.26914105
+    "rd_value": 0.26914105,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579540000,
@@ -915,7 +1016,8 @@
     "low": 0.10196,
     "close": 0.10203,
     "volume": 590.4,
-    "rd_value": 0.29630974
+    "rd_value": 0.29630974,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579600000,
@@ -924,7 +1026,8 @@
     "low": 0.10189,
     "close": 0.10235,
     "volume": 5565.8,
-    "rd_value": 0.79342663
+    "rd_value": 0.79342663,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579660000,
@@ -933,7 +1036,8 @@
     "low": 0.10231,
     "close": 0.10266,
     "volume": 48136.5,
-    "rd_value": 1.2141966
+    "rd_value": 1.2141966,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579720000,
@@ -942,7 +1046,8 @@
     "low": 0.10397,
     "close": 0.1042,
     "volume": 15916.3,
-    "rd_value": 1.4420643
+    "rd_value": 1.4420643,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579780000,
@@ -951,7 +1056,8 @@
     "low": 0.10402,
     "close": 0.10433,
     "volume": 3573.5,
-    "rd_value": 1.4834756
+    "rd_value": 1.4834756,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579840000,
@@ -960,7 +1066,8 @@
     "low": 0.10387,
     "close": 0.10387,
     "volume": 440.0,
-    "rd_value": 1.4328766
+    "rd_value": 1.4328766,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579900000,
@@ -969,7 +1076,8 @@
     "low": 0.10412,
     "close": 0.10422,
     "volume": 4075.6,
-    "rd_value": 1.6155055
+    "rd_value": 1.6155055,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770579960000,
@@ -978,7 +1086,8 @@
     "low": 0.10389,
     "close": 0.10389,
     "volume": 442.6,
-    "rd_value": 1.533142
+    "rd_value": 1.533142,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580020000,
@@ -987,7 +1096,8 @@
     "low": 0.10377,
     "close": 0.10384,
     "volume": 2487.4,
-    "rd_value": 1.4884545
+    "rd_value": 1.4884545,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580080000,
@@ -996,7 +1106,8 @@
     "low": 0.10346,
     "close": 0.10346,
     "volume": 1011.2,
-    "rd_value": 1.416381
+    "rd_value": 1.416381,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580140000,
@@ -1005,7 +1116,8 @@
     "low": 0.10347,
     "close": 0.10351,
     "volume": 1769.9,
-    "rd_value": 1.2434804
+    "rd_value": 1.2434804,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580200000,
@@ -1014,7 +1126,8 @@
     "low": 0.10281,
     "close": 0.10302,
     "volume": 7750.3,
-    "rd_value": 1.0372784
+    "rd_value": 1.0372784,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580260000,
@@ -1023,7 +1136,8 @@
     "low": 0.10296,
     "close": 0.10306,
     "volume": 5663.9,
-    "rd_value": 1.1021898
+    "rd_value": 1.1021898,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580320000,
@@ -1032,7 +1146,8 @@
     "low": 0.10292,
     "close": 0.10292,
     "volume": 1402.3,
-    "rd_value": 1.1009566
+    "rd_value": 1.1009566,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580380000,
@@ -1041,7 +1156,8 @@
     "low": 0.10286,
     "close": 0.10286,
     "volume": 2282.0,
-    "rd_value": 1.06831
+    "rd_value": 1.06831,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580440000,
@@ -1050,7 +1166,8 @@
     "low": 0.10299,
     "close": 0.10305,
     "volume": 1055.3,
-    "rd_value": 1.1330156
+    "rd_value": 1.1330156,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580500000,
@@ -1059,7 +1176,8 @@
     "low": 0.10343,
     "close": 0.10343,
     "volume": 0.0,
-    "rd_value": 1.4383292
+    "rd_value": 1.4383292,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580560000,
@@ -1068,7 +1186,8 @@
     "low": 0.10362,
     "close": 0.10362,
     "volume": 2729.0,
-    "rd_value": 1.4402585
+    "rd_value": 1.4402585,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580620000,
@@ -1077,7 +1196,8 @@
     "low": 0.10347,
     "close": 0.10349,
     "volume": 620.9,
-    "rd_value": 1.3865057
+    "rd_value": 1.3865057,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580680000,
@@ -1086,7 +1206,8 @@
     "low": 0.10344,
     "close": 0.10356,
     "volume": 193.3,
-    "rd_value": 1.3943323
+    "rd_value": 1.3943323,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580740000,
@@ -1095,7 +1216,8 @@
     "low": 0.10352,
     "close": 0.10352,
     "volume": 1738.7,
-    "rd_value": 1.5000428
+    "rd_value": 1.5000428,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580800000,
@@ -1104,7 +1226,8 @@
     "low": 0.10337,
     "close": 0.10341,
     "volume": 13990.6,
-    "rd_value": 1.0956407
+    "rd_value": 1.0956407,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580860000,
@@ -1113,7 +1236,8 @@
     "low": 0.10338,
     "close": 0.10338,
     "volume": 1572.5,
-    "rd_value": 0.99711263
+    "rd_value": 0.99711263,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580920000,
@@ -1122,7 +1246,8 @@
     "low": 0.10333,
     "close": 0.10333,
     "volume": 3756.0,
-    "rd_value": 0.97936475
+    "rd_value": 0.97936475,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770580980000,
@@ -1131,7 +1256,8 @@
     "low": 0.10315,
     "close": 0.10333,
     "volume": 6965.0,
-    "rd_value": 0.8755531
+    "rd_value": 0.8755531,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581040000,
@@ -1140,7 +1266,8 @@
     "low": 0.10294,
     "close": 0.10295,
     "volume": 640.4,
-    "rd_value": 0.82918185
+    "rd_value": 0.82918185,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581100000,
@@ -1149,7 +1276,8 @@
     "low": 0.10294,
     "close": 0.10297,
     "volume": 72.8,
-    "rd_value": 0.59811807
+    "rd_value": 0.59811807,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581160000,
@@ -1158,7 +1286,8 @@
     "low": 0.10285,
     "close": 0.10285,
     "volume": 335.1,
-    "rd_value": 0.5405014
+    "rd_value": 0.5405014,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581220000,
@@ -1167,7 +1296,8 @@
     "low": 0.10263,
     "close": 0.10276,
     "volume": 1600.9,
-    "rd_value": 0.50130945
+    "rd_value": 0.50130945,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581280000,
@@ -1176,7 +1306,8 @@
     "low": 0.10276,
     "close": 0.10276,
     "volume": 0.0,
-    "rd_value": 0.53968835
+    "rd_value": 0.53968835,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581340000,
@@ -1185,7 +1316,8 @@
     "low": 0.10245,
     "close": 0.1026,
     "volume": 33810.4,
-    "rd_value": 0.4627892
+    "rd_value": 0.4627892,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581400000,
@@ -1194,7 +1326,8 @@
     "low": 0.10233,
     "close": 0.10246,
     "volume": 1414.3,
-    "rd_value": 0.4325753
+    "rd_value": 0.4325753,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581460000,
@@ -1203,7 +1336,8 @@
     "low": 0.10272,
     "close": 0.10272,
     "volume": 0.0,
-    "rd_value": 0.50110847
+    "rd_value": 0.50110847,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581520000,
@@ -1212,7 +1346,8 @@
     "low": 0.10258,
     "close": 0.10258,
     "volume": 1461.1,
-    "rd_value": 0.4622187
+    "rd_value": 0.4622187,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581580000,
@@ -1221,7 +1356,8 @@
     "low": 0.10251,
     "close": 0.10251,
     "volume": 0.0,
-    "rd_value": 0.48921487
+    "rd_value": 0.48921487,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581640000,
@@ -1230,7 +1366,8 @@
     "low": 0.1028,
     "close": 0.1028,
     "volume": 1909.6,
-    "rd_value": 0.5420782
+    "rd_value": 0.5420782,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581700000,
@@ -1239,7 +1376,8 @@
     "low": 0.10274,
     "close": 0.10274,
     "volume": 492.1,
-    "rd_value": 0.5648169
+    "rd_value": 0.5648169,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581760000,
@@ -1248,7 +1386,8 @@
     "low": 0.10269,
     "close": 0.10269,
     "volume": 0.0,
-    "rd_value": 0.5240561
+    "rd_value": 0.5240561,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581820000,
@@ -1257,7 +1396,8 @@
     "low": 0.10263,
     "close": 0.10313,
     "volume": 5377.9,
-    "rd_value": 0.68218154
+    "rd_value": 0.68218154,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581880000,
@@ -1266,7 +1406,8 @@
     "low": 0.1035,
     "close": 0.10352,
     "volume": 1411.0,
-    "rd_value": 0.8248012
+    "rd_value": 0.8248012,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770581940000,
@@ -1275,7 +1416,8 @@
     "low": 0.10332,
     "close": 0.10332,
     "volume": 866.3,
-    "rd_value": 0.74179083
+    "rd_value": 0.74179083,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582000000,
@@ -1284,7 +1426,8 @@
     "low": 0.10281,
     "close": 0.10281,
     "volume": 135.7,
-    "rd_value": 0.59770817
+    "rd_value": 0.59770817,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582060000,
@@ -1293,7 +1436,8 @@
     "low": 0.10281,
     "close": 0.10281,
     "volume": 0.0,
-    "rd_value": 0.5835827
+    "rd_value": 0.5835827,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582120000,
@@ -1302,7 +1446,8 @@
     "low": 0.103,
     "close": 0.103,
     "volume": 19.0,
-    "rd_value": 0.61628973
+    "rd_value": 0.61628973,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582180000,
@@ -1311,7 +1456,8 @@
     "low": 0.103,
     "close": 0.103,
     "volume": 0.0,
-    "rd_value": 0.6128397
+    "rd_value": 0.6128397,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582240000,
@@ -1320,7 +1466,8 @@
     "low": 0.103,
     "close": 0.103,
     "volume": 0.0,
-    "rd_value": 0.61122155
+    "rd_value": 0.61122155,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582300000,
@@ -1329,7 +1476,8 @@
     "low": 0.103,
     "close": 0.103,
     "volume": 0.0,
-    "rd_value": 0.5565021
+    "rd_value": 0.5565021,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582360000,
@@ -1338,7 +1486,8 @@
     "low": 0.10275,
     "close": 0.10305,
     "volume": 7262.3,
-    "rd_value": 0.60914385
+    "rd_value": 0.60914385,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582420000,
@@ -1347,7 +1496,8 @@
     "low": 0.10305,
     "close": 0.10305,
     "volume": 935.6,
-    "rd_value": 0.6578462
+    "rd_value": 0.6578462,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582480000,
@@ -1356,7 +1506,8 @@
     "low": 0.10276,
     "close": 0.10276,
     "volume": 6738.7,
-    "rd_value": 0.56246686
+    "rd_value": 0.56246686,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582540000,
@@ -1365,7 +1516,8 @@
     "low": 0.10272,
     "close": 0.1028,
     "volume": 22021.6,
-    "rd_value": 0.5306289
+    "rd_value": 0.5306289,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582600000,
@@ -1374,7 +1526,8 @@
     "low": 0.10276,
     "close": 0.103,
     "volume": 7184.0,
-    "rd_value": 0.6123459
+    "rd_value": 0.6123459,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582660000,
@@ -1383,7 +1536,8 @@
     "low": 0.10313,
     "close": 0.10313,
     "volume": 971.0,
-    "rd_value": 0.6510508
+    "rd_value": 0.6510508,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582720000,
@@ -1392,7 +1546,8 @@
     "low": 0.10296,
     "close": 0.10296,
     "volume": 1340.4,
-    "rd_value": 0.58618206
+    "rd_value": 0.58618206,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582780000,
@@ -1401,7 +1556,8 @@
     "low": 0.1028,
     "close": 0.1028,
     "volume": 2511.7,
-    "rd_value": 0.51814944
+    "rd_value": 0.51814944,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582840000,
@@ -1410,7 +1566,8 @@
     "low": 0.10275,
     "close": 0.10275,
     "volume": 988.8,
-    "rd_value": 0.454154
+    "rd_value": 0.454154,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582900000,
@@ -1419,7 +1576,8 @@
     "low": 0.10257,
     "close": 0.10257,
     "volume": 398.5,
-    "rd_value": 0.4414356
+    "rd_value": 0.4414356,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770582960000,
@@ -1428,7 +1586,8 @@
     "low": 0.10265,
     "close": 0.10265,
     "volume": 0.0,
-    "rd_value": 0.41100022
+    "rd_value": 0.41100022,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583020000,
@@ -1437,7 +1596,8 @@
     "low": 0.10265,
     "close": 0.10309,
     "volume": 5811.1,
-    "rd_value": 0.4796115
+    "rd_value": 0.4796115,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583080000,
@@ -1446,7 +1606,8 @@
     "low": 0.10286,
     "close": 0.10286,
     "volume": 118.2,
-    "rd_value": 0.5370155
+    "rd_value": 0.5370155,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583140000,
@@ -1455,7 +1616,8 @@
     "low": 0.10294,
     "close": 0.10294,
     "volume": 164.9,
-    "rd_value": 0.54104966
+    "rd_value": 0.54104966,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583200000,
@@ -1464,7 +1626,8 @@
     "low": 0.10278,
     "close": 0.10298,
     "volume": 2015.3,
-    "rd_value": 0.60572845
+    "rd_value": 0.60572845,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583260000,
@@ -1473,7 +1636,8 @@
     "low": 0.10298,
     "close": 0.10298,
     "volume": 0.0,
-    "rd_value": 0.69175965
+    "rd_value": 0.69175965,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583320000,
@@ -1482,7 +1646,8 @@
     "low": 0.10336,
     "close": 0.10345,
     "volume": 182.9,
-    "rd_value": 0.77637124
+    "rd_value": 0.77637124,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583380000,
@@ -1491,7 +1656,8 @@
     "low": 0.10334,
     "close": 0.10334,
     "volume": 0.0,
-    "rd_value": 0.7571378
+    "rd_value": 0.7571378,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583440000,
@@ -1500,7 +1666,8 @@
     "low": 0.10331,
     "close": 0.10331,
     "volume": 10.8,
-    "rd_value": 0.7622954
+    "rd_value": 0.7622954,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583500000,
@@ -1509,7 +1676,8 @@
     "low": 0.10334,
     "close": 0.10334,
     "volume": 92.4,
-    "rd_value": 0.7191238
+    "rd_value": 0.7191238,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583560000,
@@ -1518,7 +1686,8 @@
     "low": 0.10309,
     "close": 0.10323,
     "volume": 99.9,
-    "rd_value": 0.68501884
+    "rd_value": 0.68501884,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583620000,
@@ -1527,7 +1696,8 @@
     "low": 0.10317,
     "close": 0.10317,
     "volume": 971.0,
-    "rd_value": 0.6493294
+    "rd_value": 0.6493294,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583680000,
@@ -1536,7 +1706,8 @@
     "low": 0.10289,
     "close": 0.10307,
     "volume": 2636.9,
-    "rd_value": 0.63003314
+    "rd_value": 0.63003314,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583740000,
@@ -1545,7 +1716,8 @@
     "low": 0.10307,
     "close": 0.10307,
     "volume": 0.0,
-    "rd_value": 0.6494958
+    "rd_value": 0.6494958,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583800000,
@@ -1554,7 +1726,8 @@
     "low": 0.10306,
     "close": 0.10306,
     "volume": 0.0,
-    "rd_value": 0.5933859
+    "rd_value": 0.5933859,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583860000,
@@ -1563,7 +1736,8 @@
     "low": 0.10277,
     "close": 0.10306,
     "volume": 1708.0,
-    "rd_value": 0.6228131
+    "rd_value": 0.6228131,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583920000,
@@ -1572,7 +1746,8 @@
     "low": 0.10296,
     "close": 0.10298,
     "volume": 18025.4,
-    "rd_value": 0.6664542
+    "rd_value": 0.6664542,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770583980000,
@@ -1581,7 +1756,8 @@
     "low": 0.10318,
     "close": 0.10348,
     "volume": 5504.9,
-    "rd_value": 0.732315
+    "rd_value": 0.732315,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584040000,
@@ -1590,7 +1766,8 @@
     "low": 0.10328,
     "close": 0.10335,
     "volume": 6025.6,
-    "rd_value": 0.697173
+    "rd_value": 0.697173,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584100000,
@@ -1599,7 +1776,8 @@
     "low": 0.1031,
     "close": 0.10317,
     "volume": 216.3,
-    "rd_value": 0.61971956
+    "rd_value": 0.61971956,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584160000,
@@ -1608,7 +1786,8 @@
     "low": 0.10317,
     "close": 0.10317,
     "volume": 0.0,
-    "rd_value": 0.5815313
+    "rd_value": 0.5815313,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584220000,
@@ -1617,7 +1796,8 @@
     "low": 0.1029,
     "close": 0.1029,
     "volume": 0.0,
-    "rd_value": 0.54805624
+    "rd_value": 0.54805624,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584280000,
@@ -1626,7 +1806,8 @@
     "low": 0.103,
     "close": 0.103,
     "volume": 0.0,
-    "rd_value": 0.5668884
+    "rd_value": 0.5668884,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584340000,
@@ -1635,7 +1816,8 @@
     "low": 0.103,
     "close": 0.103,
     "volume": 0.0,
-    "rd_value": 0.5910129
+    "rd_value": 0.5910129,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584400000,
@@ -1644,7 +1826,8 @@
     "low": 0.10298,
     "close": 0.10298,
     "volume": 2892.5,
-    "rd_value": 0.1781008
+    "rd_value": 0.1781008,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584460000,
@@ -1653,7 +1836,8 @@
     "low": 0.10248,
     "close": 0.1026,
     "volume": 1404.0,
-    "rd_value": 0.17022899
+    "rd_value": 0.17022899,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584520000,
@@ -1662,7 +1846,8 @@
     "low": 0.1029,
     "close": 0.1029,
     "volume": 10385.1,
-    "rd_value": 0.24507192
+    "rd_value": 0.24507192,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584580000,
@@ -1671,7 +1856,8 @@
     "low": 0.10282,
     "close": 0.10282,
     "volume": 373.2,
-    "rd_value": 0.12272679
+    "rd_value": 0.12272679,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584640000,
@@ -1680,7 +1866,8 @@
     "low": 0.10247,
     "close": 0.10296,
     "volume": 4808.7,
-    "rd_value": 0.12414775
+    "rd_value": 0.12414775,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584700000,
@@ -1689,7 +1876,8 @@
     "low": 0.10282,
     "close": 0.10282,
     "volume": 203.1,
-    "rd_value": 0.116439104
+    "rd_value": 0.116439104,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584760000,
@@ -1698,7 +1886,8 @@
     "low": 0.1027,
     "close": 0.1027,
     "volume": 601.8,
-    "rd_value": 0.08702004
+    "rd_value": 0.08702004,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584820000,
@@ -1707,7 +1896,8 @@
     "low": 0.10268,
     "close": 0.10268,
     "volume": 146.0,
-    "rd_value": 0.04697494
+    "rd_value": 0.04697494,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584880000,
@@ -1716,7 +1906,8 @@
     "low": 0.1026,
     "close": 0.10266,
     "volume": 5313.7,
-    "rd_value": 0.05746635
+    "rd_value": 0.05746635,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770584940000,
@@ -1725,7 +1916,8 @@
     "low": 0.10256,
     "close": 0.10256,
     "volume": 975.0,
-    "rd_value": 0.049931258
+    "rd_value": 0.049931258,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585000000,
@@ -1734,7 +1926,8 @@
     "low": 0.10256,
     "close": 0.10256,
     "volume": 0.0,
-    "rd_value": 0.05552082
+    "rd_value": 0.05552082,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585060000,
@@ -1743,7 +1936,8 @@
     "low": 0.10279,
     "close": 0.10282,
     "volume": 1535.2,
-    "rd_value": 0.08754496
+    "rd_value": 0.08754496,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585120000,
@@ -1752,7 +1946,8 @@
     "low": 0.10269,
     "close": 0.10269,
     "volume": 0.0,
-    "rd_value": 0.060091376
+    "rd_value": 0.060091376,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585180000,
@@ -1761,7 +1956,8 @@
     "low": 0.10268,
     "close": 0.10268,
     "volume": 1067.1,
-    "rd_value": 0.094792694
+    "rd_value": 0.094792694,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585240000,
@@ -1770,7 +1966,8 @@
     "low": 0.10289,
     "close": 0.10289,
     "volume": 0.0,
-    "rd_value": 0.11853495
+    "rd_value": 0.11853495,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585300000,
@@ -1779,7 +1976,8 @@
     "low": 0.10282,
     "close": 0.10282,
     "volume": 0.0,
-    "rd_value": 0.031601954
+    "rd_value": 0.031601954,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585360000,
@@ -1788,7 +1986,8 @@
     "low": 0.10269,
     "close": 0.10269,
     "volume": 615.0,
-    "rd_value": -0.00047568345
+    "rd_value": -0.00047568345,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585420000,
@@ -1797,7 +1996,8 @@
     "low": 0.10263,
     "close": 0.10263,
     "volume": 0.0,
-    "rd_value": -0.01890871
+    "rd_value": -0.01890871,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585480000,
@@ -1806,7 +2006,8 @@
     "low": 0.10277,
     "close": 0.10286,
     "volume": 1779.0,
-    "rd_value": 0.052630216
+    "rd_value": 0.052630216,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585540000,
@@ -1815,7 +2016,8 @@
     "low": 0.10279,
     "close": 0.10279,
     "volume": 109.7,
-    "rd_value": -0.04335775
+    "rd_value": -0.04335775,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585600000,
@@ -1824,7 +2026,8 @@
     "low": 0.10236,
     "close": 0.10236,
     "volume": 1612.4,
-    "rd_value": -0.23992166
+    "rd_value": -0.23992166,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585660000,
@@ -1833,7 +2036,8 @@
     "low": 0.10226,
     "close": 0.10226,
     "volume": 609.1,
-    "rd_value": -0.2747285
+    "rd_value": -0.2747285,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585720000,
@@ -1842,7 +2046,8 @@
     "low": 0.10228,
     "close": 0.10233,
     "volume": 1568.7,
-    "rd_value": -0.25183955
+    "rd_value": -0.25183955,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585780000,
@@ -1851,7 +2056,8 @@
     "low": 0.10235,
     "close": 0.10235,
     "volume": 794.1,
-    "rd_value": -0.22546645
+    "rd_value": -0.22546645,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585840000,
@@ -1860,7 +2066,8 @@
     "low": 0.10229,
     "close": 0.10229,
     "volume": 978.0,
-    "rd_value": -0.2558546
+    "rd_value": -0.2558546,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585900000,
@@ -1869,7 +2076,8 @@
     "low": 0.10222,
     "close": 0.10222,
     "volume": 978.0,
-    "rd_value": -0.36593446
+    "rd_value": -0.36593446,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770585960000,
@@ -1878,7 +2086,8 @@
     "low": 0.10206,
     "close": 0.10206,
     "volume": 1248.3,
-    "rd_value": -0.41667452
+    "rd_value": -0.41667452,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586020000,
@@ -1887,7 +2096,8 @@
     "low": 0.10191,
     "close": 0.10197,
     "volume": 1578.8,
-    "rd_value": -0.44290575
+    "rd_value": -0.44290575,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586080000,
@@ -1896,7 +2106,8 @@
     "low": 0.10198,
     "close": 0.10198,
     "volume": 0.0,
-    "rd_value": -0.40877792
+    "rd_value": -0.40877792,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586140000,
@@ -1905,7 +2116,8 @@
     "low": 0.10219,
     "close": 0.10219,
     "volume": 0.0,
-    "rd_value": -0.39998803
+    "rd_value": -0.39998803,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586200000,
@@ -1914,7 +2126,8 @@
     "low": 0.10203,
     "close": 0.10203,
     "volume": 0.0,
-    "rd_value": -0.8994894
+    "rd_value": -0.8994894,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586260000,
@@ -1923,7 +2136,8 @@
     "low": 0.10184,
     "close": 0.10184,
     "volume": 1299.4,
-    "rd_value": -1.0011288
+    "rd_value": -1.0011288,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586320000,
@@ -1932,7 +2146,8 @@
     "low": 0.10061,
     "close": 0.10117,
     "volume": 171934.1,
-    "rd_value": -1.1850562
+    "rd_value": -1.1850562,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586380000,
@@ -1941,7 +2156,8 @@
     "low": 0.10102,
     "close": 0.10116,
     "volume": 2471.9,
-    "rd_value": -1.2269686
+    "rd_value": -1.2269686,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586440000,
@@ -1950,7 +2166,8 @@
     "low": 0.10097,
     "close": 0.10128,
     "volume": 2860.1,
-    "rd_value": -1.1850531
+    "rd_value": -1.1850531,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586500000,
@@ -1959,7 +2176,8 @@
     "low": 0.10084,
     "close": 0.10084,
     "volume": 12011.9,
-    "rd_value": -1.3478594
+    "rd_value": -1.3478594,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586560000,
@@ -1968,7 +2186,8 @@
     "low": 0.10104,
     "close": 0.10105,
     "volume": 4841.4,
-    "rd_value": -1.370033
+    "rd_value": -1.370033,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586620000,
@@ -1977,7 +2196,8 @@
     "low": 0.10101,
     "close": 0.10111,
     "volume": 1505.8,
-    "rd_value": -1.4101152
+    "rd_value": -1.4101152,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586680000,
@@ -1986,7 +2206,8 @@
     "low": 0.10071,
     "close": 0.10079,
     "volume": 3750.9,
-    "rd_value": -1.5166231
+    "rd_value": -1.5166231,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586740000,
@@ -1995,7 +2216,8 @@
     "low": 0.10047,
     "close": 0.10052,
     "volume": 2925.9,
-    "rd_value": -1.5875949
+    "rd_value": -1.5875949,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586800000,
@@ -2004,7 +2226,8 @@
     "low": 0.10044,
     "close": 0.10053,
     "volume": 1989.0,
-    "rd_value": -1.8064288
+    "rd_value": -1.8064288,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586860000,
@@ -2013,7 +2236,8 @@
     "low": 0.10026,
     "close": 0.1004,
     "volume": 8154.3,
-    "rd_value": -1.860888
+    "rd_value": -1.860888,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586920000,
@@ -2022,7 +2246,8 @@
     "low": 0.0996,
     "close": 0.09983,
     "volume": 37596.1,
-    "rd_value": -1.9853576
+    "rd_value": -1.9853576,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770586980000,
@@ -2031,7 +2256,8 @@
     "low": 0.09974,
     "close": 0.09991,
     "volume": 4603.6,
-    "rd_value": -2.0120952
+    "rd_value": -2.0120952,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587040000,
@@ -2040,7 +2266,8 @@
     "low": 0.09991,
     "close": 0.1,
     "volume": 1871.3,
-    "rd_value": -1.9658012
+    "rd_value": -1.9658012,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587100000,
@@ -2049,7 +2276,8 @@
     "low": 0.09996,
     "close": 0.1,
     "volume": 442.0,
-    "rd_value": -2.0433278
+    "rd_value": -2.0433278,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587160000,
@@ -2058,7 +2286,8 @@
     "low": 0.09993,
     "close": 0.10015,
     "volume": 2500.3,
-    "rd_value": -2.017141
+    "rd_value": -2.017141,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587220000,
@@ -2067,7 +2296,8 @@
     "low": 0.10001,
     "close": 0.10006,
     "volume": 1841.8,
-    "rd_value": -1.9991833
+    "rd_value": -1.9991833,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587280000,
@@ -2076,7 +2306,8 @@
     "low": 0.10004,
     "close": 0.10029,
     "volume": 3830.0,
-    "rd_value": -1.953385
+    "rd_value": -1.953385,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587340000,
@@ -2085,7 +2316,8 @@
     "low": 0.10025,
     "close": 0.10039,
     "volume": 2711.5,
-    "rd_value": -1.9050825
+    "rd_value": -1.9050825,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587400000,
@@ -2094,7 +2326,8 @@
     "low": 0.10021,
     "close": 0.10021,
     "volume": 568.5,
-    "rd_value": -1.9735514
+    "rd_value": -1.9735514,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587460000,
@@ -2103,7 +2336,8 @@
     "low": 0.10006,
     "close": 0.10007,
     "volume": 220.5,
-    "rd_value": -2.05864
+    "rd_value": -2.05864,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587520000,
@@ -2112,7 +2346,8 @@
     "low": 0.09975,
     "close": 0.0998,
     "volume": 3274.7,
-    "rd_value": -2.121778
+    "rd_value": -2.121778,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587580000,
@@ -2121,7 +2356,8 @@
     "low": 0.09966,
     "close": 0.09977,
     "volume": 3078.2,
-    "rd_value": -2.0972466
+    "rd_value": -2.0972466,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587640000,
@@ -2130,7 +2366,8 @@
     "low": 0.09986,
     "close": 0.09986,
     "volume": 671.9,
-    "rd_value": -2.0584023
+    "rd_value": -2.0584023,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587700000,
@@ -2139,7 +2376,8 @@
     "low": 0.09986,
     "close": 0.09993,
     "volume": 1514.2,
-    "rd_value": -2.019383
+    "rd_value": -2.019383,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587760000,
@@ -2148,7 +2386,8 @@
     "low": 0.0999,
     "close": 0.09999,
     "volume": 254.5,
-    "rd_value": -2.006855
+    "rd_value": -2.006855,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587820000,
@@ -2157,7 +2396,8 @@
     "low": 0.09984,
     "close": 0.09998,
     "volume": 4535.3,
-    "rd_value": -1.9880774
+    "rd_value": -1.9880774,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587880000,
@@ -2166,7 +2406,8 @@
     "low": 0.1,
     "close": 0.1,
     "volume": 1434.0,
-    "rd_value": -1.961269
+    "rd_value": -1.961269,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770587940000,
@@ -2175,7 +2416,8 @@
     "low": 0.1,
     "close": 0.10034,
     "volume": 8994.0,
-    "rd_value": -1.893085
+    "rd_value": -1.893085,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588000000,
@@ -2184,7 +2426,8 @@
     "low": 0.1003,
     "close": 0.1003,
     "volume": 2919.4,
-    "rd_value": -1.7574714
+    "rd_value": -1.7574714,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588060000,
@@ -2193,7 +2436,8 @@
     "low": 0.10029,
     "close": 0.10029,
     "volume": 3733.0,
-    "rd_value": -1.7557266
+    "rd_value": -1.7557266,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588120000,
@@ -2202,7 +2446,8 @@
     "low": 0.10009,
     "close": 0.10009,
     "volume": 1984.2,
-    "rd_value": -1.8261796
+    "rd_value": -1.8261796,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588180000,
@@ -2211,7 +2456,8 @@
     "low": 0.1002,
     "close": 0.1002,
     "volume": 0.0,
-    "rd_value": -1.822384
+    "rd_value": -1.822384,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588240000,
@@ -2220,7 +2466,8 @@
     "low": 0.10018,
     "close": 0.10029,
     "volume": 2849.6,
-    "rd_value": -1.772591
+    "rd_value": -1.772591,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588300000,
@@ -2229,7 +2476,8 @@
     "low": 0.10047,
     "close": 0.10047,
     "volume": 0.0,
-    "rd_value": -1.7113725
+    "rd_value": -1.7113725,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588360000,
@@ -2238,7 +2486,8 @@
     "low": 0.10041,
     "close": 0.10041,
     "volume": 0.0,
-    "rd_value": -1.699851
+    "rd_value": -1.699851,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588420000,
@@ -2247,7 +2496,8 @@
     "low": 0.10051,
     "close": 0.10062,
     "volume": 2258.4,
-    "rd_value": -1.6739409
+    "rd_value": -1.6739409,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588480000,
@@ -2256,7 +2506,8 @@
     "low": 0.10042,
     "close": 0.10042,
     "volume": 2520.4,
-    "rd_value": -1.6986899
+    "rd_value": -1.6986899,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588540000,
@@ -2265,7 +2516,8 @@
     "low": 0.10035,
     "close": 0.10035,
     "volume": 337.4,
-    "rd_value": -1.7368978
+    "rd_value": -1.7368978,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588600000,
@@ -2274,7 +2526,8 @@
     "low": 0.10028,
     "close": 0.10028,
     "volume": 0.0,
-    "rd_value": -1.7246825
+    "rd_value": -1.7246825,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588660000,
@@ -2283,7 +2536,8 @@
     "low": 0.10022,
     "close": 0.10022,
     "volume": 185.2,
-    "rd_value": -1.7437344
+    "rd_value": -1.7437344,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588720000,
@@ -2292,7 +2546,8 @@
     "low": 0.10022,
     "close": 0.10022,
     "volume": 0.0,
-    "rd_value": -1.7121567
+    "rd_value": -1.7121567,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588780000,
@@ -2301,7 +2556,8 @@
     "low": 0.10038,
     "close": 0.10042,
     "volume": 838.9,
-    "rd_value": -1.677093
+    "rd_value": -1.677093,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588840000,
@@ -2310,7 +2566,8 @@
     "low": 0.10038,
     "close": 0.10054,
     "volume": 4883.4,
-    "rd_value": -1.6078476
+    "rd_value": -1.6078476,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588900000,
@@ -2319,7 +2576,8 @@
     "low": 0.10056,
     "close": 0.10056,
     "volume": 1226.6,
-    "rd_value": -1.4658626
+    "rd_value": -1.4658626,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770588960000,
@@ -2328,7 +2586,8 @@
     "low": 0.10062,
     "close": 0.10062,
     "volume": 287.1,
-    "rd_value": -1.472058
+    "rd_value": -1.472058,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589020000,
@@ -2337,7 +2596,8 @@
     "low": 0.10062,
     "close": 0.10062,
     "volume": 0.0,
-    "rd_value": -1.4683017
+    "rd_value": -1.4683017,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589080000,
@@ -2346,7 +2606,8 @@
     "low": 0.10065,
     "close": 0.10084,
     "volume": 1057.2,
-    "rd_value": -1.4383677
+    "rd_value": -1.4383677,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589140000,
@@ -2355,7 +2616,8 @@
     "low": 0.10084,
     "close": 0.10084,
     "volume": 0.0,
-    "rd_value": -1.4410747
+    "rd_value": -1.4410747,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589200000,
@@ -2364,7 +2626,8 @@
     "low": 0.10069,
     "close": 0.10069,
     "volume": 0.0,
-    "rd_value": -1.5285524
+    "rd_value": -1.5285524,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589260000,
@@ -2373,7 +2636,8 @@
     "low": 0.1004,
     "close": 0.10058,
     "volume": 3000.3,
-    "rd_value": -1.5808418
+    "rd_value": -1.5808418,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589320000,
@@ -2382,7 +2646,8 @@
     "low": 0.10028,
     "close": 0.10028,
     "volume": 3235.8,
-    "rd_value": -1.6446997
+    "rd_value": -1.6446997,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589380000,
@@ -2391,7 +2656,8 @@
     "low": 0.10031,
     "close": 0.10033,
     "volume": 885.0,
-    "rd_value": -1.6640564
+    "rd_value": -1.6640564,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589440000,
@@ -2400,7 +2666,8 @@
     "low": 0.10023,
     "close": 0.10023,
     "volume": 0.0,
-    "rd_value": -1.6517203
+    "rd_value": -1.6517203,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589500000,
@@ -2409,7 +2676,8 @@
     "low": 0.10027,
     "close": 0.10027,
     "volume": 363.2,
-    "rd_value": -1.7254972
+    "rd_value": -1.7254972,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589560000,
@@ -2418,7 +2686,8 @@
     "low": 0.10019,
     "close": 0.10019,
     "volume": 0.0,
-    "rd_value": -1.7493333
+    "rd_value": -1.7493333,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589620000,
@@ -2427,7 +2696,8 @@
     "low": 0.10019,
     "close": 0.10019,
     "volume": 0.0,
-    "rd_value": -1.7468784
+    "rd_value": -1.7468784,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589680000,
@@ -2436,7 +2706,8 @@
     "low": 0.10016,
     "close": 0.10016,
     "volume": 2337.0,
-    "rd_value": -1.7498659
+    "rd_value": -1.7498659,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589740000,
@@ -2445,7 +2716,8 @@
     "low": 0.10016,
     "close": 0.10016,
     "volume": 0.0,
-    "rd_value": -1.7528523
+    "rd_value": -1.7528523,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589800000,
@@ -2454,7 +2726,8 @@
     "low": 0.10008,
     "close": 0.10008,
     "volume": 28.0,
-    "rd_value": -1.7491137
+    "rd_value": -1.7491137,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589860000,
@@ -2463,7 +2736,8 @@
     "low": 0.10034,
     "close": 0.10034,
     "volume": 0.0,
-    "rd_value": -1.7314061
+    "rd_value": -1.7314061,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589920000,
@@ -2472,7 +2746,8 @@
     "low": 0.10028,
     "close": 0.10045,
     "volume": 227.1,
-    "rd_value": -1.6956801
+    "rd_value": -1.6956801,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770589980000,
@@ -2481,7 +2756,8 @@
     "low": 0.10045,
     "close": 0.10045,
     "volume": 0.0,
-    "rd_value": -1.6627983
+    "rd_value": -1.6627983,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590040000,
@@ -2490,7 +2766,8 @@
     "low": 0.10025,
     "close": 0.10025,
     "volume": 249.0,
-    "rd_value": -1.6969697
+    "rd_value": -1.6969697,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590100000,
@@ -2499,7 +2776,8 @@
     "low": 0.10025,
     "close": 0.10025,
     "volume": 304.8,
-    "rd_value": -1.7749313
+    "rd_value": -1.7749313,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590160000,
@@ -2508,7 +2786,8 @@
     "low": 0.10014,
     "close": 0.10018,
     "volume": 165.0,
-    "rd_value": -1.8061202
+    "rd_value": -1.8061202,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590220000,
@@ -2517,7 +2796,8 @@
     "low": 0.09998,
     "close": 0.09998,
     "volume": 0.0,
-    "rd_value": -1.8381177
+    "rd_value": -1.8381177,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590280000,
@@ -2526,7 +2806,8 @@
     "low": 0.1,
     "close": 0.1,
     "volume": 0.0,
-    "rd_value": -1.8428733
+    "rd_value": -1.8428733,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590340000,
@@ -2535,7 +2816,8 @@
     "low": 0.1,
     "close": 0.1,
     "volume": 63.6,
-    "rd_value": -1.8476222
+    "rd_value": -1.8476222,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590400000,
@@ -2544,7 +2826,8 @@
     "low": 0.09996,
     "close": 0.09999,
     "volume": 56.9,
-    "rd_value": -1.8145288
+    "rd_value": -1.8145288,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590460000,
@@ -2553,7 +2836,8 @@
     "low": 0.10007,
     "close": 0.10007,
     "volume": 0.0,
-    "rd_value": -1.7958132
+    "rd_value": -1.7958132,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590520000,
@@ -2562,7 +2846,8 @@
     "low": 0.10007,
     "close": 0.10023,
     "volume": 1316.3,
-    "rd_value": -1.769022
+    "rd_value": -1.769022,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590580000,
@@ -2571,7 +2856,8 @@
     "low": 0.10014,
     "close": 0.10014,
     "volume": 532.5,
-    "rd_value": -1.7740076
+    "rd_value": -1.7740076,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590640000,
@@ -2580,7 +2866,8 @@
     "low": 0.10014,
     "close": 0.10018,
     "volume": 2177.0,
-    "rd_value": -1.73825
+    "rd_value": -1.73825,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590700000,
@@ -2589,7 +2876,8 @@
     "low": 0.10008,
     "close": 0.10008,
     "volume": 156.5,
-    "rd_value": -1.7031398
+    "rd_value": -1.7031398,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590760000,
@@ -2598,7 +2886,8 @@
     "low": 0.10027,
     "close": 0.10029,
     "volume": 2436.3,
-    "rd_value": -1.6847512
+    "rd_value": -1.6847512,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590820000,
@@ -2607,7 +2896,8 @@
     "low": 0.10027,
     "close": 0.10027,
     "volume": 0.0,
-    "rd_value": -1.7044563
+    "rd_value": -1.7044563,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590880000,
@@ -2616,7 +2906,8 @@
     "low": 0.1003,
     "close": 0.1003,
     "volume": 0.0,
-    "rd_value": -1.6733991
+    "rd_value": -1.6733991,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770590940000,
@@ -2625,7 +2916,8 @@
     "low": 0.1003,
     "close": 0.1003,
     "volume": 0.0,
-    "rd_value": -1.669615
+    "rd_value": -1.669615,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591000000,
@@ -2634,7 +2926,8 @@
     "low": 0.10031,
     "close": 0.10045,
     "volume": 531.0,
-    "rd_value": -1.6525477
+    "rd_value": -1.6525477,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591060000,
@@ -2643,7 +2936,8 @@
     "low": 0.10054,
     "close": 0.10054,
     "volume": 0.0,
-    "rd_value": -1.6398824
+    "rd_value": -1.6398824,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591120000,
@@ -2652,7 +2946,8 @@
     "low": 0.10037,
     "close": 0.10037,
     "volume": 0.0,
-    "rd_value": -1.6480947
+    "rd_value": -1.6480947,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591180000,
@@ -2661,7 +2956,8 @@
     "low": 0.10036,
     "close": 0.10049,
     "volume": 1201.3,
-    "rd_value": -1.6689667
+    "rd_value": -1.6689667,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591240000,
@@ -2670,7 +2966,8 @@
     "low": 0.09989,
     "close": 0.09999,
     "volume": 25316.0,
-    "rd_value": -1.7921333
+    "rd_value": -1.7921333,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591300000,
@@ -2679,7 +2976,8 @@
     "low": 0.09971,
     "close": 0.09972,
     "volume": 1680.4,
-    "rd_value": -1.9528308
+    "rd_value": -1.9528308,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591360000,
@@ -2688,7 +2986,8 @@
     "low": 0.09972,
     "close": 0.10017,
     "volume": 4258.0,
-    "rd_value": -1.8887308
+    "rd_value": -1.8887308,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591420000,
@@ -2697,7 +2996,8 @@
     "low": 0.09953,
     "close": 0.09956,
     "volume": 24842.3,
-    "rd_value": -1.919971
+    "rd_value": -1.919971,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591480000,
@@ -2706,7 +3006,8 @@
     "low": 0.09954,
     "close": 0.09972,
     "volume": 1563.8,
-    "rd_value": -1.9982392
+    "rd_value": -1.9982392,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591540000,
@@ -2715,7 +3016,8 @@
     "low": 0.09972,
     "close": 0.09972,
     "volume": 0.0,
-    "rd_value": -1.9503164
+    "rd_value": -1.9503164,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591600000,
@@ -2724,7 +3026,8 @@
     "low": 0.09978,
     "close": 0.09991,
     "volume": 336.2,
-    "rd_value": -1.460079
+    "rd_value": -1.460079,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591660000,
@@ -2733,7 +3036,8 @@
     "low": 0.1004,
     "close": 0.10049,
     "volume": 1342.0,
-    "rd_value": -1.3447887
+    "rd_value": -1.3447887,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591720000,
@@ -2742,7 +3046,8 @@
     "low": 0.1004,
     "close": 0.1004,
     "volume": 726.2,
-    "rd_value": -1.3359033
+    "rd_value": -1.3359033,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591780000,
@@ -2751,7 +3056,8 @@
     "low": 0.10019,
     "close": 0.10019,
     "volume": 6463.1,
-    "rd_value": -1.3080175
+    "rd_value": -1.3080175,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591840000,
@@ -2760,7 +3066,8 @@
     "low": 0.10062,
     "close": 0.101,
     "volume": 1896.5,
-    "rd_value": -1.146079
+    "rd_value": -1.146079,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591900000,
@@ -2769,7 +3076,8 @@
     "low": 0.10103,
     "close": 0.10103,
     "volume": 916.8,
-    "rd_value": -0.76557434
+    "rd_value": -0.76557434,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770591960000,
@@ -2778,7 +3086,8 @@
     "low": 0.1015,
     "close": 0.1015,
     "volume": 0.0,
-    "rd_value": -0.6299378
+    "rd_value": -0.6299378,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592020000,
@@ -2787,7 +3096,8 @@
     "low": 0.10156,
     "close": 0.10156,
     "volume": 1975.0,
-    "rd_value": -0.56724894
+    "rd_value": -0.56724894,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592080000,
@@ -2796,7 +3106,8 @@
     "low": 0.10142,
     "close": 0.10142,
     "volume": 2648.6,
-    "rd_value": -0.64616036
+    "rd_value": -0.64616036,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592140000,
@@ -2805,7 +3116,8 @@
     "low": 0.1012,
     "close": 0.10127,
     "volume": 1688.0,
-    "rd_value": -0.78646046
+    "rd_value": -0.78646046,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592200000,
@@ -2814,7 +3126,8 @@
     "low": 0.10055,
     "close": 0.10058,
     "volume": 13149.2,
-    "rd_value": -1.221244
+    "rd_value": -1.221244,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592260000,
@@ -2823,7 +3136,8 @@
     "low": 0.10039,
     "close": 0.1004,
     "volume": 195.5,
-    "rd_value": -1.391349
+    "rd_value": -1.391349,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592320000,
@@ -2832,7 +3146,8 @@
     "low": 0.10013,
     "close": 0.10018,
     "volume": 3687.7,
-    "rd_value": -1.4657508
+    "rd_value": -1.4657508,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592380000,
@@ -2841,7 +3156,8 @@
     "low": 0.09985,
     "close": 0.09989,
     "volume": 1259.5,
-    "rd_value": -1.5082024
+    "rd_value": -1.5082024,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592440000,
@@ -2850,7 +3166,8 @@
     "low": 0.09984,
     "close": 0.10026,
     "volume": 10688.9,
-    "rd_value": -1.4616721
+    "rd_value": -1.4616721,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592500000,
@@ -2859,7 +3176,8 @@
     "low": 0.09989,
     "close": 0.10013,
     "volume": 1714.5,
-    "rd_value": -1.7541703
+    "rd_value": -1.7541703,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592560000,
@@ -2868,7 +3186,8 @@
     "low": 0.09995,
     "close": 0.10001,
     "volume": 362.2,
-    "rd_value": -1.7867625
+    "rd_value": -1.7867625,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592620000,
@@ -2877,7 +3196,8 @@
     "low": 0.09994,
     "close": 0.1,
     "volume": 1123.1,
-    "rd_value": -1.8129163
+    "rd_value": -1.8129163,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592680000,
@@ -2886,7 +3206,8 @@
     "low": 0.09976,
     "close": 0.09999,
     "volume": 1159.3,
-    "rd_value": -1.8272089
+    "rd_value": -1.8272089,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592740000,
@@ -2895,7 +3216,8 @@
     "low": 0.0996,
     "close": 0.09966,
     "volume": 631.2,
-    "rd_value": -1.8813769
+    "rd_value": -1.8813769,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592800000,
@@ -2904,7 +3226,8 @@
     "low": 0.09968,
     "close": 0.09976,
     "volume": 598.6,
-    "rd_value": -2.0366242
+    "rd_value": -2.0366242,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592860000,
@@ -2913,7 +3236,8 @@
     "low": 0.0998,
     "close": 0.09985,
     "volume": 120.1,
-    "rd_value": -2.019963
+    "rd_value": -2.019963,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592920000,
@@ -2922,7 +3246,8 @@
     "low": 0.09959,
     "close": 0.09974,
     "volume": 770.0,
-    "rd_value": -2.0750291
+    "rd_value": -2.0750291,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770592980000,
@@ -2931,7 +3256,8 @@
     "low": 0.09914,
     "close": 0.09931,
     "volume": 4564.7,
-    "rd_value": -2.1916425
+    "rd_value": -2.1916425,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593040000,
@@ -2940,7 +3266,8 @@
     "low": 0.09911,
     "close": 0.09911,
     "volume": 2063.5,
-    "rd_value": -2.317009
+    "rd_value": -2.317009,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593100000,
@@ -2949,7 +3276,8 @@
     "low": 0.09874,
     "close": 0.09881,
     "volume": 3588.4,
-    "rd_value": -2.4170456
+    "rd_value": -2.4170456,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593160000,
@@ -2958,7 +3286,8 @@
     "low": 0.0991,
     "close": 0.09918,
     "volume": 105.5,
-    "rd_value": -2.3142037
+    "rd_value": -2.3142037,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593220000,
@@ -2967,7 +3296,8 @@
     "low": 0.0993,
     "close": 0.09934,
     "volume": 35.2,
-    "rd_value": -2.2842708
+    "rd_value": -2.2842708,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593280000,
@@ -2976,7 +3306,8 @@
     "low": 0.0991,
     "close": 0.0991,
     "volume": 496.6,
-    "rd_value": -2.3216012
+    "rd_value": -2.3216012,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593340000,
@@ -2985,7 +3316,8 @@
     "low": 0.09886,
     "close": 0.09886,
     "volume": 1993.5,
-    "rd_value": -2.3588364
+    "rd_value": -2.3588364,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593400000,
@@ -2994,7 +3326,8 @@
     "low": 0.09892,
     "close": 0.09923,
     "volume": 6815.4,
-    "rd_value": -2.2620451
+    "rd_value": -2.2620451,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593460000,
@@ -3003,7 +3336,8 @@
     "low": 0.09895,
     "close": 0.09922,
     "volume": 890.6,
-    "rd_value": -2.243825
+    "rd_value": -2.243825,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593520000,
@@ -3012,7 +3346,8 @@
     "low": 0.09916,
     "close": 0.09929,
     "volume": 328.6,
-    "rd_value": -2.1820776
+    "rd_value": -2.1820776,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593580000,
@@ -3021,7 +3356,8 @@
     "low": 0.09926,
     "close": 0.09935,
     "volume": 3113.5,
-    "rd_value": -2.0805523
+    "rd_value": -2.0805523,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593640000,
@@ -3030,7 +3366,8 @@
     "low": 0.09962,
     "close": 0.09976,
     "volume": 258.0,
-    "rd_value": -2.0447028
+    "rd_value": -2.0447028,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593700000,
@@ -3039,7 +3376,8 @@
     "low": 0.09948,
     "close": 0.09953,
     "volume": 1260.5,
-    "rd_value": -2.0982661
+    "rd_value": -2.0982661,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593760000,
@@ -3048,7 +3386,8 @@
     "low": 0.09922,
     "close": 0.09922,
     "volume": 83.3,
-    "rd_value": -2.1432285
+    "rd_value": -2.1432285,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593820000,
@@ -3057,7 +3396,8 @@
     "low": 0.09876,
     "close": 0.09903,
     "volume": 32989.7,
-    "rd_value": -2.2262268
+    "rd_value": -2.2262268,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593880000,
@@ -3066,7 +3406,8 @@
     "low": 0.09882,
     "close": 0.09926,
     "volume": 7556.2,
-    "rd_value": -2.2308822
+    "rd_value": -2.2308822,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770593940000,
@@ -3075,7 +3416,8 @@
     "low": 0.09916,
     "close": 0.09934,
     "volume": 1672.0,
-    "rd_value": -2.1710284
+    "rd_value": -2.1710284,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594000000,
@@ -3084,7 +3426,8 @@
     "low": 0.09929,
     "close": 0.09932,
     "volume": 2249.0,
-    "rd_value": -2.071973
+    "rd_value": -2.071973,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594060000,
@@ -3093,7 +3436,8 @@
     "low": 0.09932,
     "close": 0.09947,
     "volume": 365.5,
-    "rd_value": -2.0377831
+    "rd_value": -2.0377831,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594120000,
@@ -3102,7 +3446,8 @@
     "low": 0.09927,
     "close": 0.09927,
     "volume": 108.2,
-    "rd_value": -1.9882444
+    "rd_value": -1.9882444,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594180000,
@@ -3111,7 +3456,8 @@
     "low": 0.09968,
     "close": 0.09983,
     "volume": 2000.7,
-    "rd_value": -1.9006788
+    "rd_value": -1.9006788,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594240000,
@@ -3120,7 +3466,8 @@
     "low": 0.09948,
     "close": 0.09959,
     "volume": 2259.4,
-    "rd_value": -1.9178687
+    "rd_value": -1.9178687,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594300000,
@@ -3129,7 +3476,8 @@
     "low": 0.09969,
     "close": 0.09969,
     "volume": 0.0,
-    "rd_value": -1.5814717
+    "rd_value": -1.5814717,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594360000,
@@ -3138,7 +3486,8 @@
     "low": 0.09993,
     "close": 0.09996,
     "volume": 123.1,
-    "rd_value": -1.508754
+    "rd_value": -1.508754,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594420000,
@@ -3147,7 +3496,8 @@
     "low": 0.1,
     "close": 0.1,
     "volume": 485.0,
-    "rd_value": -1.4944109
+    "rd_value": -1.4944109,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594480000,
@@ -3156,7 +3506,8 @@
     "low": 0.09983,
     "close": 0.09987,
     "volume": 2717.6,
-    "rd_value": -1.5101079
+    "rd_value": -1.5101079,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594540000,
@@ -3165,7 +3516,8 @@
     "low": 0.10007,
     "close": 0.10016,
     "volume": 145.9,
-    "rd_value": -1.4239556
+    "rd_value": -1.4239556,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594600000,
@@ -3174,7 +3526,8 @@
     "low": 0.10029,
     "close": 0.10069,
     "volume": 31201.0,
-    "rd_value": -1.228526
+    "rd_value": -1.228526,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594660000,
@@ -3183,7 +3536,8 @@
     "low": 0.10038,
     "close": 0.1004,
     "volume": 1231.3,
-    "rd_value": -1.2519724
+    "rd_value": -1.2519724,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594720000,
@@ -3192,7 +3546,8 @@
     "low": 0.10042,
     "close": 0.10042,
     "volume": 0.0,
-    "rd_value": -1.2726313
+    "rd_value": -1.2726313,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594780000,
@@ -3201,7 +3556,8 @@
     "low": 0.10036,
     "close": 0.10036,
     "volume": 0.0,
-    "rd_value": -1.2777818
+    "rd_value": -1.2777818,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594840000,
@@ -3210,7 +3566,8 @@
     "low": 0.10017,
     "close": 0.10017,
     "volume": 4744.7,
-    "rd_value": -1.3238364
+    "rd_value": -1.3238364,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594900000,
@@ -3219,7 +3576,8 @@
     "low": 0.10005,
     "close": 0.10014,
     "volume": 1313.8,
-    "rd_value": -1.4780686
+    "rd_value": -1.4780686,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770594960000,
@@ -3228,7 +3586,8 @@
     "low": 0.09986,
     "close": 0.10019,
     "volume": 3565.8,
-    "rd_value": -1.4983621
+    "rd_value": -1.4983621,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595020000,
@@ -3237,7 +3596,8 @@
     "low": 0.09987,
     "close": 0.09992,
     "volume": 285.0,
-    "rd_value": -1.5058755
+    "rd_value": -1.5058755,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595080000,
@@ -3246,7 +3606,8 @@
     "low": 0.09998,
     "close": 0.10002,
     "volume": 4643.8,
-    "rd_value": -1.4788163
+    "rd_value": -1.4788163,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595140000,
@@ -3255,7 +3616,8 @@
     "low": 0.10002,
     "close": 0.10002,
     "volume": 0.0,
-    "rd_value": -1.4718403
+    "rd_value": -1.4718403,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595200000,
@@ -3264,7 +3626,8 @@
     "low": 0.09957,
     "close": 0.09957,
     "volume": 2516.6,
-    "rd_value": -1.7714992
+    "rd_value": -1.7714992,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595260000,
@@ -3273,7 +3636,8 @@
     "low": 0.09953,
     "close": 0.0996,
     "volume": 1375.8,
-    "rd_value": -1.8125786
+    "rd_value": -1.8125786,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595320000,
@@ -3282,7 +3646,8 @@
     "low": 0.09958,
     "close": 0.09959,
     "volume": 730.9,
-    "rd_value": -1.8726585
+    "rd_value": -1.8726585,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595380000,
@@ -3291,7 +3656,8 @@
     "low": 0.09926,
     "close": 0.09937,
     "volume": 1450.4,
-    "rd_value": -1.9562416
+    "rd_value": -1.9562416,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595440000,
@@ -3300,7 +3666,8 @@
     "low": 0.09914,
     "close": 0.09914,
     "volume": 79.6,
-    "rd_value": -1.9741173
+    "rd_value": -1.9741173,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595500000,
@@ -3309,7 +3676,8 @@
     "low": 0.09924,
     "close": 0.09944,
     "volume": 383.9,
-    "rd_value": -2.0062337
+    "rd_value": -2.0062337,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595560000,
@@ -3318,7 +3686,8 @@
     "low": 0.09938,
     "close": 0.09938,
     "volume": 65.6,
-    "rd_value": -1.9787267
+    "rd_value": -1.9787267,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595620000,
@@ -3327,7 +3696,8 @@
     "low": 0.09938,
     "close": 0.0994,
     "volume": 275.9,
-    "rd_value": -2.0058892
+    "rd_value": -2.0058892,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595680000,
@@ -3336,7 +3706,8 @@
     "low": 0.09897,
     "close": 0.09918,
     "volume": 5396.0,
-    "rd_value": -2.0502784
+    "rd_value": -2.0502784,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595740000,
@@ -3345,7 +3716,8 @@
     "low": 0.09917,
     "close": 0.09934,
     "volume": 1758.5,
-    "rd_value": -2.0408702
+    "rd_value": -2.0408702,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595800000,
@@ -3354,7 +3726,8 @@
     "low": 0.09917,
     "close": 0.09917,
     "volume": 106.0,
-    "rd_value": -2.0367768
+    "rd_value": -2.0367768,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595860000,
@@ -3363,7 +3736,8 @@
     "low": 0.09917,
     "close": 0.0992,
     "volume": 524.3,
-    "rd_value": -2.0601552
+    "rd_value": -2.0601552,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595920000,
@@ -3372,7 +3746,8 @@
     "low": 0.09912,
     "close": 0.09912,
     "volume": 127.2,
-    "rd_value": -2.0698285
+    "rd_value": -2.0698285,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770595980000,
@@ -3381,7 +3756,8 @@
     "low": 0.09912,
     "close": 0.09938,
     "volume": 159.3,
-    "rd_value": -2.0348804
+    "rd_value": -2.0348804,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596040000,
@@ -3390,7 +3766,8 @@
     "low": 0.09928,
     "close": 0.09928,
     "volume": 3.4,
-    "rd_value": -2.0036657
+    "rd_value": -2.0036657,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596100000,
@@ -3399,7 +3776,8 @@
     "low": 0.09928,
     "close": 0.09945,
     "volume": 640.6,
-    "rd_value": -1.9639356
+    "rd_value": -1.9639356,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596160000,
@@ -3408,7 +3786,8 @@
     "low": 0.09932,
     "close": 0.09932,
     "volume": 13.2,
-    "rd_value": -1.9547269
+    "rd_value": -1.9547269,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596220000,
@@ -3417,7 +3796,8 @@
     "low": 0.09917,
     "close": 0.09917,
     "volume": 321.3,
-    "rd_value": -2.0111015
+    "rd_value": -2.0111015,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596280000,
@@ -3426,7 +3806,8 @@
     "low": 0.09923,
     "close": 0.09958,
     "volume": 1552.0,
-    "rd_value": -1.9562563
+    "rd_value": -1.9562563,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596340000,
@@ -3435,7 +3816,8 @@
     "low": 0.09957,
     "close": 0.09957,
     "volume": 179.5,
-    "rd_value": -1.8924451
+    "rd_value": -1.8924451,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596400000,
@@ -3444,7 +3826,8 @@
     "low": 0.09952,
     "close": 0.09961,
     "volume": 1254.4,
-    "rd_value": -1.7562575
+    "rd_value": -1.7562575,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596460000,
@@ -3453,7 +3836,8 @@
     "low": 0.09975,
     "close": 0.09982,
     "volume": 820.2,
-    "rd_value": -1.7054436
+    "rd_value": -1.7054436,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596520000,
@@ -3462,7 +3846,8 @@
     "low": 0.09972,
     "close": 0.09997,
     "volume": 858.9,
-    "rd_value": -1.677527
+    "rd_value": -1.677527,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596580000,
@@ -3471,7 +3856,8 @@
     "low": 0.09997,
     "close": 0.09997,
     "volume": 0.0,
-    "rd_value": -1.6396646
+    "rd_value": -1.6396646,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596640000,
@@ -3480,7 +3866,8 @@
     "low": 0.09973,
     "close": 0.09973,
     "volume": 10.3,
-    "rd_value": -1.6711196
+    "rd_value": -1.6711196,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596700000,
@@ -3489,7 +3876,8 @@
     "low": 0.09985,
     "close": 0.09985,
     "volume": 0.0,
-    "rd_value": -1.7605793
+    "rd_value": -1.7605793,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596760000,
@@ -3498,7 +3886,8 @@
     "low": 0.09962,
     "close": 0.09962,
     "volume": 700.6,
-    "rd_value": -1.8848529
+    "rd_value": -1.8848529,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596820000,
@@ -3507,7 +3896,8 @@
     "low": 0.09909,
     "close": 0.09909,
     "volume": 762.2,
-    "rd_value": -2.0115647
+    "rd_value": -2.0115647,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596880000,
@@ -3516,7 +3906,8 @@
     "low": 0.09918,
     "close": 0.0992,
     "volume": 398.6,
-    "rd_value": -2.0004168
+    "rd_value": -2.0004168,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770596940000,
@@ -3525,7 +3916,8 @@
     "low": 0.09908,
     "close": 0.09908,
     "volume": 807.2,
-    "rd_value": -2.0312097
+    "rd_value": -2.0312097,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597000000,
@@ -3534,7 +3926,8 @@
     "low": 0.09896,
     "close": 0.09913,
     "volume": 222.8,
-    "rd_value": -2.1398842
+    "rd_value": -2.1398842,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597060000,
@@ -3543,7 +3936,8 @@
     "low": 0.09912,
     "close": 0.09912,
     "volume": 1515.3,
-    "rd_value": -2.1141524
+    "rd_value": -2.1141524,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597120000,
@@ -3552,7 +3946,8 @@
     "low": 0.09912,
     "close": 0.09931,
     "volume": 187.0,
-    "rd_value": -2.1094453
+    "rd_value": -2.1094453,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597180000,
@@ -3561,7 +3956,8 @@
     "low": 0.0992,
     "close": 0.0992,
     "volume": 0.0,
-    "rd_value": -2.0837946
+    "rd_value": -2.0837946,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597240000,
@@ -3570,7 +3966,8 @@
     "low": 0.0993,
     "close": 0.09932,
     "volume": 183.5,
-    "rd_value": -2.0609431
+    "rd_value": -2.0609431,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597300000,
@@ -3579,7 +3976,8 @@
     "low": 0.09932,
     "close": 0.09932,
     "volume": 0.0,
-    "rd_value": -2.0908453
+    "rd_value": -2.0908453,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597360000,
@@ -3588,7 +3986,8 @@
     "low": 0.09911,
     "close": 0.09911,
     "volume": 5.3,
-    "rd_value": -2.1272693
+    "rd_value": -2.1272693,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597420000,
@@ -3597,7 +3996,8 @@
     "low": 0.099,
     "close": 0.099,
     "volume": 141.5,
-    "rd_value": -2.1654367
+    "rd_value": -2.1654367,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597480000,
@@ -3606,7 +4006,8 @@
     "low": 0.09879,
     "close": 0.09898,
     "volume": 220.9,
-    "rd_value": -2.2162826
+    "rd_value": -2.2162826,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597540000,
@@ -3615,7 +4016,8 @@
     "low": 0.09885,
     "close": 0.09885,
     "volume": 0.0,
-    "rd_value": -2.2360215
+    "rd_value": -2.2360215,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597600000,
@@ -3624,7 +4026,8 @@
     "low": 0.09885,
     "close": 0.09897,
     "volume": 1.6,
-    "rd_value": -2.295317
+    "rd_value": -2.295317,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597660000,
@@ -3633,7 +4036,8 @@
     "low": 0.09875,
     "close": 0.09875,
     "volume": 777.3,
-    "rd_value": -2.2858431
+    "rd_value": -2.2858431,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597720000,
@@ -3642,7 +4046,8 @@
     "low": 0.09896,
     "close": 0.09896,
     "volume": 0.0,
-    "rd_value": -2.2818673
+    "rd_value": -2.2818673,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597780000,
@@ -3651,7 +4056,8 @@
     "low": 0.09874,
     "close": 0.09894,
     "volume": 1259.9,
-    "rd_value": -2.2979672
+    "rd_value": -2.2979672,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597840000,
@@ -3660,7 +4066,8 @@
     "low": 0.09881,
     "close": 0.09881,
     "volume": 0.0,
-    "rd_value": -2.2976213
+    "rd_value": -2.2976213,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597900000,
@@ -3669,7 +4076,8 @@
     "low": 0.09881,
     "close": 0.09889,
     "volume": 326.5,
-    "rd_value": -2.1976428
+    "rd_value": -2.1976428,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770597960000,
@@ -3678,7 +4086,8 @@
     "low": 0.09889,
     "close": 0.099,
     "volume": 360.0,
-    "rd_value": -2.160865
+    "rd_value": -2.160865,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598020000,
@@ -3687,7 +4096,8 @@
     "low": 0.099,
     "close": 0.09902,
     "volume": 377.6,
-    "rd_value": -2.135121
+    "rd_value": -2.135121,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598080000,
@@ -3696,7 +4106,8 @@
     "low": 0.09902,
     "close": 0.09902,
     "volume": 0.0,
-    "rd_value": -2.1112647
+    "rd_value": -2.1112647,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598140000,
@@ -3705,7 +4116,8 @@
     "low": 0.09912,
     "close": 0.09912,
     "volume": 324.0,
-    "rd_value": -2.091116
+    "rd_value": -2.091116,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598200000,
@@ -3714,7 +4126,8 @@
     "low": 0.09912,
     "close": 0.09912,
     "volume": 0.0,
-    "rd_value": -1.9977949
+    "rd_value": -1.9977949,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598260000,
@@ -3723,7 +4136,8 @@
     "low": 0.09912,
     "close": 0.09926,
     "volume": 228.4,
-    "rd_value": -1.9704055
+    "rd_value": -1.9704055,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598320000,
@@ -3732,7 +4146,8 @@
     "low": 0.09926,
     "close": 0.09946,
     "volume": 1484.9,
-    "rd_value": -1.8919905
+    "rd_value": -1.8919905,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598380000,
@@ -3741,7 +4156,8 @@
     "low": 0.09923,
     "close": 0.09923,
     "volume": 3501.2,
-    "rd_value": -1.8958728
+    "rd_value": -1.8958728,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598440000,
@@ -3750,7 +4166,8 @@
     "low": 0.09923,
     "close": 0.09923,
     "volume": 0.0,
-    "rd_value": -1.9508471
+    "rd_value": -1.9508471,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598500000,
@@ -3759,7 +4176,8 @@
     "low": 0.09923,
     "close": 0.09932,
     "volume": 57.0,
-    "rd_value": -1.9412569
+    "rd_value": -1.9412569,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598560000,
@@ -3768,7 +4186,8 @@
     "low": 0.09932,
     "close": 0.09932,
     "volume": 0.0,
-    "rd_value": -1.9760846
+    "rd_value": -1.9760846,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598620000,
@@ -3777,7 +4196,8 @@
     "low": 0.09905,
     "close": 0.09924,
     "volume": 4714.2,
-    "rd_value": -1.9852862
+    "rd_value": -1.9852862,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598680000,
@@ -3786,7 +4206,8 @@
     "low": 0.09924,
     "close": 0.09924,
     "volume": 0.0,
-    "rd_value": -1.9488397
+    "rd_value": -1.9488397,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598740000,
@@ -3795,7 +4216,8 @@
     "low": 0.09924,
     "close": 0.09924,
     "volume": 0.0,
-    "rd_value": -1.9471602
+    "rd_value": -1.9471602,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598800000,
@@ -3804,7 +4226,8 @@
     "low": 0.09924,
     "close": 0.0993,
     "volume": 5099.8,
-    "rd_value": -1.7606112
+    "rd_value": -1.7606112,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598860000,
@@ -3813,7 +4236,8 @@
     "low": 0.09934,
     "close": 0.09934,
     "volume": 2471.6,
-    "rd_value": -1.7353227
+    "rd_value": -1.7353227,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598920000,
@@ -3822,7 +4246,8 @@
     "low": 0.0994,
     "close": 0.0994,
     "volume": 0.0,
-    "rd_value": -1.6571515
+    "rd_value": -1.6571515,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770598980000,
@@ -3831,7 +4256,8 @@
     "low": 0.09957,
     "close": 0.09961,
     "volume": 10960.1,
-    "rd_value": -1.6403182
+    "rd_value": -1.6403182,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599040000,
@@ -3840,7 +4266,8 @@
     "low": 0.09966,
     "close": 0.09966,
     "volume": 0.0,
-    "rd_value": -1.6381316
+    "rd_value": -1.6381316,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599100000,
@@ -3849,7 +4276,8 @@
     "low": 0.09939,
     "close": 0.09939,
     "volume": 122.0,
-    "rd_value": -1.7788113
+    "rd_value": -1.7788113,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599160000,
@@ -3858,7 +4286,8 @@
     "low": 0.09898,
     "close": 0.09917,
     "volume": 936.7,
-    "rd_value": -1.8886553
+    "rd_value": -1.8886553,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599220000,
@@ -3867,7 +4296,8 @@
     "low": 0.09902,
     "close": 0.09902,
     "volume": 2249.3,
-    "rd_value": -1.8768314
+    "rd_value": -1.8768314,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599280000,
@@ -3876,7 +4306,8 @@
     "low": 0.09911,
     "close": 0.09911,
     "volume": 0.0,
-    "rd_value": -1.8294274
+    "rd_value": -1.8294274,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599340000,
@@ -3885,7 +4316,8 @@
     "low": 0.09928,
     "close": 0.09932,
     "volume": 86.5,
-    "rd_value": -1.7848698
+    "rd_value": -1.7848698,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599400000,
@@ -3894,7 +4326,8 @@
     "low": 0.09932,
     "close": 0.09932,
     "volume": 511.1,
-    "rd_value": -1.8107787
+    "rd_value": -1.8107787,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599460000,
@@ -3903,7 +4336,8 @@
     "low": 0.09932,
     "close": 0.09932,
     "volume": 0.0,
-    "rd_value": -1.8257252
+    "rd_value": -1.8257252,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599520000,
@@ -3912,7 +4346,8 @@
     "low": 0.09932,
     "close": 0.09934,
     "volume": 1079.0,
-    "rd_value": -1.8095926
+    "rd_value": -1.8095926,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599580000,
@@ -3921,7 +4356,8 @@
     "low": 0.09928,
     "close": 0.09928,
     "volume": 1986.6,
-    "rd_value": -1.8263767
+    "rd_value": -1.8263767,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599640000,
@@ -3930,7 +4366,8 @@
     "low": 0.09912,
     "close": 0.09912,
     "volume": 711.1,
-    "rd_value": -1.865048
+    "rd_value": -1.865048,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599700000,
@@ -3939,7 +4376,8 @@
     "low": 0.09907,
     "close": 0.09907,
     "volume": 2163.6,
-    "rd_value": -1.8305084
+    "rd_value": -1.8305084,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599760000,
@@ -3948,7 +4386,8 @@
     "low": 0.09902,
     "close": 0.09902,
     "volume": 1299.5,
-    "rd_value": -1.8590221
+    "rd_value": -1.8590221,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599820000,
@@ -3957,7 +4396,8 @@
     "low": 0.09909,
     "close": 0.09909,
     "volume": 0.0,
-    "rd_value": -1.8052665
+    "rd_value": -1.8052665,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599880000,
@@ -3966,7 +4406,8 @@
     "low": 0.09933,
     "close": 0.09942,
     "volume": 613.2,
-    "rd_value": -1.7351862
+    "rd_value": -1.7351862,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770599940000,
@@ -3975,7 +4416,8 @@
     "low": 0.09942,
     "close": 0.09942,
     "volume": 0.0,
-    "rd_value": -1.7273803
+    "rd_value": -1.7273803,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600000000,
@@ -3984,7 +4426,8 @@
     "low": 0.09945,
     "close": 0.09949,
     "volume": 660.2,
-    "rd_value": -1.593766
+    "rd_value": -1.593766,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600060000,
@@ -3993,7 +4436,8 @@
     "low": 0.09941,
     "close": 0.09945,
     "volume": 707.3,
-    "rd_value": -1.5787265
+    "rd_value": -1.5787265,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600120000,
@@ -4002,7 +4446,8 @@
     "low": 0.09961,
     "close": 0.10004,
     "volume": 5222.8,
-    "rd_value": -1.454998
+    "rd_value": -1.454998,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600180000,
@@ -4011,7 +4456,8 @@
     "low": 0.10002,
     "close": 0.10002,
     "volume": 0.0,
-    "rd_value": -1.3918409
+    "rd_value": -1.3918409,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600240000,
@@ -4020,7 +4466,8 @@
     "low": 0.09967,
     "close": 0.09967,
     "volume": 32.1,
-    "rd_value": -1.4859778
+    "rd_value": -1.4859778,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600300000,
@@ -4029,7 +4476,8 @@
     "low": 0.09956,
     "close": 0.0998,
     "volume": 256.9,
-    "rd_value": -1.4562249
+    "rd_value": -1.4562249,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600360000,
@@ -4038,7 +4486,8 @@
     "low": 0.09985,
     "close": 0.09986,
     "volume": 562.7,
-    "rd_value": -1.4040005
+    "rd_value": -1.4040005,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600420000,
@@ -4047,7 +4496,8 @@
     "low": 0.09984,
     "close": 0.09984,
     "volume": 0.0,
-    "rd_value": -1.4396135
+    "rd_value": -1.4396135,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600480000,
@@ -4056,7 +4506,8 @@
     "low": 0.09984,
     "close": 0.09984,
     "volume": 0.0,
-    "rd_value": -1.4760668
+    "rd_value": -1.4760668,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600540000,
@@ -4065,7 +4516,8 @@
     "low": 0.09962,
     "close": 0.09963,
     "volume": 645.3,
-    "rd_value": -1.5316365
+    "rd_value": -1.5316365,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600600000,
@@ -4074,7 +4526,8 @@
     "low": 0.09947,
     "close": 0.09947,
     "volume": 111.1,
-    "rd_value": -1.6771125
+    "rd_value": -1.6771125,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600660000,
@@ -4083,7 +4536,8 @@
     "low": 0.09964,
     "close": 0.09964,
     "volume": 0.0,
-    "rd_value": -1.6548834
+    "rd_value": -1.6548834,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600720000,
@@ -4092,7 +4546,8 @@
     "low": 0.09961,
     "close": 0.09961,
     "volume": 901.7,
-    "rd_value": -1.6582946
+    "rd_value": -1.6582946,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600780000,
@@ -4101,7 +4556,8 @@
     "low": 0.09961,
     "close": 0.09964,
     "volume": 2697.0,
-    "rd_value": -1.6772392
+    "rd_value": -1.6772392,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600840000,
@@ -4110,7 +4566,8 @@
     "low": 0.0995,
     "close": 0.09966,
     "volume": 812.1,
-    "rd_value": -1.7107716
+    "rd_value": -1.7107716,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600900000,
@@ -4119,7 +4576,8 @@
     "low": 0.0993,
     "close": 0.0993,
     "volume": 347.8,
-    "rd_value": -1.8652385
+    "rd_value": -1.8652385,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770600960000,
@@ -4128,7 +4586,8 @@
     "low": 0.09914,
     "close": 0.09916,
     "volume": 977.9,
-    "rd_value": -1.9278537
+    "rd_value": -1.9278537,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601020000,
@@ -4137,7 +4596,8 @@
     "low": 0.09887,
     "close": 0.09887,
     "volume": 8034.4,
-    "rd_value": -1.9748036
+    "rd_value": -1.9748036,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601080000,
@@ -4146,7 +4606,8 @@
     "low": 0.09886,
     "close": 0.09902,
     "volume": 3414.3,
-    "rd_value": -1.9988061
+    "rd_value": -1.9988061,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601140000,
@@ -4155,7 +4616,8 @@
     "low": 0.09891,
     "close": 0.09891,
     "volume": 801.3,
-    "rd_value": -2.0053928
+    "rd_value": -2.0053928,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601200000,
@@ -4164,7 +4626,8 @@
     "low": 0.09868,
     "close": 0.09868,
     "volume": 2847.3,
-    "rd_value": -2.2222397
+    "rd_value": -2.2222397,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601260000,
@@ -4173,7 +4636,8 @@
     "low": 0.09868,
     "close": 0.09874,
     "volume": 170.7,
-    "rd_value": -2.2451625
+    "rd_value": -2.2451625,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601320000,
@@ -4182,7 +4646,8 @@
     "low": 0.09808,
     "close": 0.09825,
     "volume": 50740.8,
-    "rd_value": -2.362229
+    "rd_value": -2.362229,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601380000,
@@ -4191,7 +4656,8 @@
     "low": 0.09817,
     "close": 0.09846,
     "volume": 1837.8,
-    "rd_value": -2.3931081
+    "rd_value": -2.3931081,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601440000,
@@ -4200,7 +4666,8 @@
     "low": 0.09833,
     "close": 0.09839,
     "volume": 853.7,
-    "rd_value": -2.33522
+    "rd_value": -2.33522,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601500000,
@@ -4209,7 +4676,8 @@
     "low": 0.09854,
     "close": 0.09854,
     "volume": 0.0,
-    "rd_value": -2.2675333
+    "rd_value": -2.2675333,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601560000,
@@ -4218,7 +4686,8 @@
     "low": 0.09845,
     "close": 0.09851,
     "volume": 3147.3,
-    "rd_value": -2.277519
+    "rd_value": -2.277519,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601620000,
@@ -4227,7 +4696,8 @@
     "low": 0.09838,
     "close": 0.09838,
     "volume": 1926.1,
-    "rd_value": -2.2179725
+    "rd_value": -2.2179725,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601680000,
@@ -4236,7 +4706,8 @@
     "low": 0.09863,
     "close": 0.09863,
     "volume": 189.2,
-    "rd_value": -2.2161758
+    "rd_value": -2.2161758,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601740000,
@@ -4245,7 +4716,8 @@
     "low": 0.09845,
     "close": 0.09845,
     "volume": 526.7,
-    "rd_value": -2.2674446
+    "rd_value": -2.2674446,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601800000,
@@ -4254,7 +4726,8 @@
     "low": 0.09845,
     "close": 0.09861,
     "volume": 2144.7,
-    "rd_value": -2.0162416
+    "rd_value": -2.0162416,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601860000,
@@ -4263,7 +4736,8 @@
     "low": 0.09921,
     "close": 0.09921,
     "volume": 1429.0,
-    "rd_value": -1.8966054
+    "rd_value": -1.8966054,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601920000,
@@ -4272,7 +4746,8 @@
     "low": 0.0992,
     "close": 0.09928,
     "volume": 2235.1,
-    "rd_value": -1.8540617
+    "rd_value": -1.8540617,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770601980000,
@@ -4281,7 +4756,8 @@
     "low": 0.09939,
     "close": 0.09949,
     "volume": 992.1,
-    "rd_value": -1.8234999
+    "rd_value": -1.8234999,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602040000,
@@ -4290,7 +4766,8 @@
     "low": 0.0993,
     "close": 0.09938,
     "volume": 2989.2,
-    "rd_value": -1.836005
+    "rd_value": -1.836005,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602100000,
@@ -4299,7 +4776,8 @@
     "low": 0.09938,
     "close": 0.09938,
     "volume": 0.0,
-    "rd_value": -1.7248882
+    "rd_value": -1.7248882,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602160000,
@@ -4308,7 +4786,8 @@
     "low": 0.09938,
     "close": 0.09943,
     "volume": 327.0,
-    "rd_value": -1.7428964
+    "rd_value": -1.7428964,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602220000,
@@ -4317,7 +4796,8 @@
     "low": 0.09901,
     "close": 0.09901,
     "volume": 2026.3,
-    "rd_value": -1.8139462
+    "rd_value": -1.8139462,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602280000,
@@ -4326,7 +4806,8 @@
     "low": 0.09901,
     "close": 0.09906,
     "volume": 934.9,
-    "rd_value": -1.8198862
+    "rd_value": -1.8198862,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602340000,
@@ -4335,7 +4816,8 @@
     "low": 0.09921,
     "close": 0.09921,
     "volume": 0.0,
-    "rd_value": -1.7818899
+    "rd_value": -1.7818899,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602400000,
@@ -4344,7 +4826,8 @@
     "low": 0.09906,
     "close": 0.09906,
     "volume": 1789.7,
-    "rd_value": -1.7428676
+    "rd_value": -1.7428676,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602460000,
@@ -4353,7 +4836,8 @@
     "low": 0.09906,
     "close": 0.09906,
     "volume": 0.0,
-    "rd_value": -1.7744553
+    "rd_value": -1.7744553,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602520000,
@@ -4362,7 +4846,8 @@
     "low": 0.09906,
     "close": 0.0991,
     "volume": 297.3,
-    "rd_value": -1.7876792
+    "rd_value": -1.7876792,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602580000,
@@ -4371,7 +4856,8 @@
     "low": 0.09893,
     "close": 0.09895,
     "volume": 84.6,
-    "rd_value": -1.7917273
+    "rd_value": -1.7917273,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602640000,
@@ -4380,7 +4866,8 @@
     "low": 0.099,
     "close": 0.099,
     "volume": 12.2,
-    "rd_value": -1.7728869
+    "rd_value": -1.7728869,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602700000,
@@ -4389,7 +4876,8 @@
     "low": 0.09903,
     "close": 0.09903,
     "volume": 1075.0,
-    "rd_value": -1.8103982
+    "rd_value": -1.8103982,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602760000,
@@ -4398,7 +4886,8 @@
     "low": 0.09878,
     "close": 0.09878,
     "volume": 1545.2,
-    "rd_value": -1.8464708
+    "rd_value": -1.8464708,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602820000,
@@ -4407,7 +4896,8 @@
     "low": 0.09883,
     "close": 0.0989,
     "volume": 1862.4,
-    "rd_value": -1.8504356
+    "rd_value": -1.8504356,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602880000,
@@ -4416,7 +4906,8 @@
     "low": 0.09878,
     "close": 0.09893,
     "volume": 3352.6,
-    "rd_value": -1.8049577
+    "rd_value": -1.8049577,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770602940000,
@@ -4425,7 +4916,8 @@
     "low": 0.09914,
     "close": 0.09919,
     "volume": 1733.3,
-    "rd_value": -1.7366807
+    "rd_value": -1.7366807,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603000000,
@@ -4434,7 +4926,8 @@
     "low": 0.09891,
     "close": 0.09906,
     "volume": 2755.1,
-    "rd_value": -1.7935395
+    "rd_value": -1.7935395,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603060000,
@@ -4443,7 +4936,8 @@
     "low": 0.09906,
     "close": 0.09908,
     "volume": 604.8,
-    "rd_value": -1.774757
+    "rd_value": -1.774757,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603120000,
@@ -4452,7 +4946,8 @@
     "low": 0.09899,
     "close": 0.09899,
     "volume": 238.2,
-    "rd_value": -1.7935557
+    "rd_value": -1.7935557,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603180000,
@@ -4461,7 +4956,8 @@
     "low": 0.09893,
     "close": 0.09893,
     "volume": 2028.3,
-    "rd_value": -1.82331
+    "rd_value": -1.82331,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603240000,
@@ -4470,7 +4966,8 @@
     "low": 0.09888,
     "close": 0.0989,
     "volume": 2302.8,
-    "rd_value": -1.8319488
+    "rd_value": -1.8319488,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603300000,
@@ -4479,7 +4976,8 @@
     "low": 0.0989,
     "close": 0.09898,
     "volume": 1598.3,
-    "rd_value": -1.773769
+    "rd_value": -1.773769,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603360000,
@@ -4488,7 +4986,8 @@
     "low": 0.09902,
     "close": 0.09902,
     "volume": 0.0,
-    "rd_value": -1.7558925
+    "rd_value": -1.7558925,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603420000,
@@ -4497,7 +4996,8 @@
     "low": 0.09902,
     "close": 0.09902,
     "volume": 1310.4,
-    "rd_value": -1.7536222
+    "rd_value": -1.7536222,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603480000,
@@ -4506,7 +5006,8 @@
     "low": 0.09902,
     "close": 0.09902,
     "volume": 0.0,
-    "rd_value": -1.730293
+    "rd_value": -1.730293,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603540000,
@@ -4515,7 +5016,8 @@
     "low": 0.09902,
     "close": 0.09902,
     "volume": 1748.1,
-    "rd_value": -1.7180016
+    "rd_value": -1.7180016,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603600000,
@@ -4524,7 +5026,8 @@
     "low": 0.09911,
     "close": 0.09915,
     "volume": 959.4,
-    "rd_value": -1.6850307
+    "rd_value": -1.6850307,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603660000,
@@ -4533,7 +5036,8 @@
     "low": 0.09905,
     "close": 0.09905,
     "volume": 974.3,
-    "rd_value": -1.7039436
+    "rd_value": -1.7039436,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603720000,
@@ -4542,7 +5046,8 @@
     "low": 0.09905,
     "close": 0.09913,
     "volume": 794.2,
-    "rd_value": -1.7136633
+    "rd_value": -1.7136633,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603780000,
@@ -4551,7 +5056,8 @@
     "low": 0.09893,
     "close": 0.09893,
     "volume": 1964.9,
-    "rd_value": -1.7361926
+    "rd_value": -1.7361926,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603840000,
@@ -4560,7 +5066,8 @@
     "low": 0.09899,
     "close": 0.09912,
     "volume": 1333.2,
-    "rd_value": -1.7220379
+    "rd_value": -1.7220379,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603900000,
@@ -4569,7 +5076,8 @@
     "low": 0.09906,
     "close": 0.09906,
     "volume": 0.0,
-    "rd_value": -1.7327487
+    "rd_value": -1.7327487,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770603960000,
@@ -4578,7 +5086,8 @@
     "low": 0.09899,
     "close": 0.09899,
     "volume": 190.6,
-    "rd_value": -1.7442774
+    "rd_value": -1.7442774,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604020000,
@@ -4587,7 +5096,8 @@
     "low": 0.09898,
     "close": 0.09898,
     "volume": 1819.1,
-    "rd_value": -1.746625
+    "rd_value": -1.746625,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604080000,
@@ -4596,7 +5106,8 @@
     "low": 0.09889,
     "close": 0.09894,
     "volume": 1012.0,
-    "rd_value": -1.7462221
+    "rd_value": -1.7462221,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604140000,
@@ -4605,7 +5116,8 @@
     "low": 0.09904,
     "close": 0.09904,
     "volume": 1473.5,
-    "rd_value": -1.7155846
+    "rd_value": -1.7155846,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604200000,
@@ -4614,7 +5126,8 @@
     "low": 0.09904,
     "close": 0.09918,
     "volume": 3206.8,
-    "rd_value": -1.5250518
+    "rd_value": -1.5250518,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604260000,
@@ -4623,7 +5136,8 @@
     "low": 0.09915,
     "close": 0.09915,
     "volume": 840.1,
-    "rd_value": -1.5183524
+    "rd_value": -1.5183524,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604320000,
@@ -4632,7 +5146,8 @@
     "low": 0.09913,
     "close": 0.09915,
     "volume": 1662.3,
-    "rd_value": -1.5226645
+    "rd_value": -1.5226645,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604380000,
@@ -4641,7 +5156,8 @@
     "low": 0.09906,
     "close": 0.09906,
     "volume": 1173.8,
-    "rd_value": -1.5544641
+    "rd_value": -1.5544641,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604440000,
@@ -4650,7 +5166,8 @@
     "low": 0.09896,
     "close": 0.09908,
     "volume": 650.8,
-    "rd_value": -1.5642127
+    "rd_value": -1.5642127,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604500000,
@@ -4659,7 +5176,8 @@
     "low": 0.09901,
     "close": 0.09901,
     "volume": 656.5,
-    "rd_value": -1.4122636
+    "rd_value": -1.4122636,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604560000,
@@ -4668,7 +5186,8 @@
     "low": 0.09917,
     "close": 0.0993,
     "volume": 307.7,
-    "rd_value": -1.3799077
+    "rd_value": -1.3799077,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604620000,
@@ -4677,7 +5196,8 @@
     "low": 0.09916,
     "close": 0.09916,
     "volume": 0.0,
-    "rd_value": -1.3540292
+    "rd_value": -1.3540292,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604680000,
@@ -4686,7 +5206,8 @@
     "low": 0.09938,
     "close": 0.09969,
     "volume": 2058.6,
-    "rd_value": -1.245707
+    "rd_value": -1.245707,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604740000,
@@ -4695,7 +5216,8 @@
     "low": 0.0997,
     "close": 0.09986,
     "volume": 4096.7,
-    "rd_value": -1.1586684
+    "rd_value": -1.1586684,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604800000,
@@ -4704,7 +5226,8 @@
     "low": 0.09978,
     "close": 0.09978,
     "volume": 538.4,
-    "rd_value": -0.94657326
+    "rd_value": -0.94657326,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604860000,
@@ -4713,7 +5236,8 @@
     "low": 0.0998,
     "close": 0.10045,
     "volume": 16332.4,
-    "rd_value": -0.83313817
+    "rd_value": -0.83313817,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604920000,
@@ -4722,7 +5246,8 @@
     "low": 0.10022,
     "close": 0.10051,
     "volume": 12064.9,
-    "rd_value": -0.7446651
+    "rd_value": -0.7446651,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770604980000,
@@ -4731,7 +5256,8 @@
     "low": 0.10024,
     "close": 0.10024,
     "volume": 290.2,
-    "rd_value": -0.74527323
+    "rd_value": -0.74527323,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605040000,
@@ -4740,7 +5266,8 @@
     "low": 0.10024,
     "close": 0.10024,
     "volume": 0.0,
-    "rd_value": -0.79629725
+    "rd_value": -0.79629725,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605100000,
@@ -4749,7 +5276,8 @@
     "low": 0.10012,
     "close": 0.10012,
     "volume": 5026.1,
-    "rd_value": -0.80015177
+    "rd_value": -0.80015177,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605160000,
@@ -4758,7 +5286,8 @@
     "low": 0.10005,
     "close": 0.10005,
     "volume": 823.6,
-    "rd_value": -0.8409648
+    "rd_value": -0.8409648,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605220000,
@@ -4767,7 +5296,8 @@
     "low": 0.10001,
     "close": 0.10001,
     "volume": 406.6,
-    "rd_value": -0.8606192
+    "rd_value": -0.8606192,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605280000,
@@ -4776,7 +5306,8 @@
     "low": 0.10001,
     "close": 0.1001,
     "volume": 108.6,
-    "rd_value": -0.8554868
+    "rd_value": -0.8554868,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605340000,
@@ -4785,7 +5316,8 @@
     "low": 0.09986,
     "close": 0.09986,
     "volume": 2634.1,
-    "rd_value": -0.89070183
+    "rd_value": -0.89070183,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605400000,
@@ -4794,7 +5326,8 @@
     "low": 0.09986,
     "close": 0.09986,
     "volume": 0.0,
-    "rd_value": -0.9874403
+    "rd_value": -0.9874403,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605460000,
@@ -4803,7 +5336,8 @@
     "low": 0.09986,
     "close": 0.09986,
     "volume": 2698.8,
-    "rd_value": -0.9849597
+    "rd_value": -0.9849597,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605520000,
@@ -4812,7 +5346,8 @@
     "low": 0.09986,
     "close": 0.09986,
     "volume": 0.0,
-    "rd_value": -0.991653
+    "rd_value": -0.991653,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605580000,
@@ -4821,7 +5356,8 @@
     "low": 0.09963,
     "close": 0.09963,
     "volume": 2698.8,
-    "rd_value": -0.9983355
+    "rd_value": -0.9983355,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605640000,
@@ -4830,7 +5366,8 @@
     "low": 0.09979,
     "close": 0.09979,
     "volume": 599.8,
-    "rd_value": -0.98667
+    "rd_value": -0.98667,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605700000,
@@ -4839,7 +5376,8 @@
     "low": 0.09979,
     "close": 0.09979,
     "volume": 0.0,
-    "rd_value": -1.0379025
+    "rd_value": -1.0379025,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605760000,
@@ -4848,7 +5386,8 @@
     "low": 0.09957,
     "close": 0.09966,
     "volume": 540.4,
-    "rd_value": -1.0693121
+    "rd_value": -1.0693121,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605820000,
@@ -4857,7 +5396,8 @@
     "low": 0.09966,
     "close": 0.09972,
     "volume": 2347.6,
-    "rd_value": -1.0731593
+    "rd_value": -1.0731593,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605880000,
@@ -4866,7 +5406,8 @@
     "low": 0.09963,
     "close": 0.09963,
     "volume": 2123.5,
-    "rd_value": -1.0779182
+    "rd_value": -1.0779182,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770605940000,
@@ -4875,7 +5416,8 @@
     "low": 0.09963,
     "close": 0.09963,
     "volume": 0.0,
-    "rd_value": -1.0936733
+    "rd_value": -1.0936733,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606000000,
@@ -4884,7 +5426,8 @@
     "low": 0.09963,
     "close": 0.09983,
     "volume": 557.6,
-    "rd_value": -0.9266974
+    "rd_value": -0.9266974,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606060000,
@@ -4893,7 +5436,8 @@
     "low": 0.09983,
     "close": 0.09983,
     "volume": 0.0,
-    "rd_value": -0.924155
+    "rd_value": -0.924155,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606120000,
@@ -4902,7 +5446,8 @@
     "low": 0.09943,
     "close": 0.09958,
     "volume": 19619.8,
-    "rd_value": -0.978474
+    "rd_value": -0.978474,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606180000,
@@ -4911,7 +5456,8 @@
     "low": 0.09947,
     "close": 0.09947,
     "volume": 5030.5,
-    "rd_value": -0.98776335
+    "rd_value": -0.98776335,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606240000,
@@ -4920,7 +5466,8 @@
     "low": 0.09951,
     "close": 0.09983,
     "volume": 6009.3,
-    "rd_value": -0.94384754
+    "rd_value": -0.94384754,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606300000,
@@ -4929,7 +5476,8 @@
     "low": 0.09966,
     "close": 0.09966,
     "volume": 4386.3,
-    "rd_value": -0.8579081
+    "rd_value": -0.8579081,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606360000,
@@ -4938,7 +5486,8 @@
     "low": 0.09978,
     "close": 0.09979,
     "volume": 4685.4,
-    "rd_value": -0.8159676
+    "rd_value": -0.8159676,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606420000,
@@ -4947,7 +5496,8 @@
     "low": 0.09984,
     "close": 0.09984,
     "volume": 639.1,
-    "rd_value": -0.80987006
+    "rd_value": -0.80987006,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606480000,
@@ -4956,7 +5506,8 @@
     "low": 0.09984,
     "close": 0.09995,
     "volume": 6026.2,
-    "rd_value": -0.81570715
+    "rd_value": -0.81570715,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606540000,
@@ -4965,7 +5516,8 @@
     "low": 0.09988,
     "close": 0.09992,
     "volume": 432.6,
-    "rd_value": -0.80044043
+    "rd_value": -0.80044043,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606600000,
@@ -4974,7 +5526,8 @@
     "low": 0.09995,
     "close": 0.10012,
     "volume": 3275.8,
-    "rd_value": -0.6717064
+    "rd_value": -0.6717064,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606660000,
@@ -4983,7 +5536,8 @@
     "low": 0.10026,
     "close": 0.10026,
     "volume": 1085.1,
-    "rd_value": -0.65568084
+    "rd_value": -0.65568084,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606720000,
@@ -4992,7 +5546,8 @@
     "low": 0.10008,
     "close": 0.10014,
     "volume": 5490.8,
-    "rd_value": -0.6727033
+    "rd_value": -0.6727033,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606780000,
@@ -5001,7 +5556,8 @@
     "low": 0.10014,
     "close": 0.10014,
     "volume": 0.0,
-    "rd_value": -0.66126317
+    "rd_value": -0.66126317,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606840000,
@@ -5010,7 +5566,8 @@
     "low": 0.09995,
     "close": 0.09995,
     "volume": 625.6,
-    "rd_value": -0.695705
+    "rd_value": -0.695705,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606900000,
@@ -5019,7 +5576,8 @@
     "low": 0.09994,
     "close": 0.09995,
     "volume": 1549.5,
-    "rd_value": -0.69359535
+    "rd_value": -0.69359535,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770606960000,
@@ -5028,7 +5586,8 @@
     "low": 0.09995,
     "close": 0.10005,
     "volume": 1873.5,
-    "rd_value": -0.6261018
+    "rd_value": -0.6261018,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607020000,
@@ -5037,7 +5596,8 @@
     "low": 0.10019,
     "close": 0.10019,
     "volume": 6049.9,
-    "rd_value": -0.5981695
+    "rd_value": -0.5981695,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607080000,
@@ -5046,7 +5606,8 @@
     "low": 0.10007,
     "close": 0.10012,
     "volume": 1258.7,
-    "rd_value": -0.62532324
+    "rd_value": -0.62532324,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607140000,
@@ -5055,7 +5616,8 @@
     "low": 0.10002,
     "close": 0.10002,
     "volume": 638.5,
-    "rd_value": -0.65059584
+    "rd_value": -0.65059584,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607200000,
@@ -5064,7 +5626,8 @@
     "low": 0.10002,
     "close": 0.10002,
     "volume": 0.0,
-    "rd_value": -0.6850474
+    "rd_value": -0.6850474,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607260000,
@@ -5073,7 +5636,8 @@
     "low": 0.09998,
     "close": 0.10013,
     "volume": 1808.8,
-    "rd_value": -0.65978783
+    "rd_value": -0.65978783,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607320000,
@@ -5082,7 +5646,8 @@
     "low": 0.09995,
     "close": 0.10015,
     "volume": 6845.0,
-    "rd_value": -0.6630102
+    "rd_value": -0.6630102,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607380000,
@@ -5091,7 +5656,8 @@
     "low": 0.09994,
     "close": 0.09997,
     "volume": 770.0,
-    "rd_value": -0.69650036
+    "rd_value": -0.69650036,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607440000,
@@ -5100,7 +5666,8 @@
     "low": 0.09991,
     "close": 0.09991,
     "volume": 0.0,
-    "rd_value": -0.7161734
+    "rd_value": -0.7161734,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607500000,
@@ -5109,7 +5676,8 @@
     "low": 0.09991,
     "close": 0.09993,
     "volume": 1613.1,
-    "rd_value": -0.7522456
+    "rd_value": -0.7522456,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607560000,
@@ -5118,7 +5686,8 @@
     "low": 0.09992,
     "close": 0.09992,
     "volume": 567.9,
-    "rd_value": -0.74987835
+    "rd_value": -0.74987835,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607620000,
@@ -5127,7 +5696,8 @@
     "low": 0.09969,
     "close": 0.09969,
     "volume": 3012.4,
-    "rd_value": -0.79430455
+    "rd_value": -0.79430455,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607680000,
@@ -5136,7 +5706,8 @@
     "low": 0.09969,
     "close": 0.09987,
     "volume": 2349.2,
-    "rd_value": -0.8028762
+    "rd_value": -0.8028762,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607740000,
@@ -5145,7 +5716,8 @@
     "low": 0.09987,
     "close": 0.09989,
     "volume": 1173.7,
-    "rd_value": -0.76556146
+    "rd_value": -0.76556146,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607800000,
@@ -5154,7 +5726,8 @@
     "low": 0.09989,
     "close": 0.09996,
     "volume": 2025.0,
-    "rd_value": -0.39071202
+    "rd_value": -0.39071202,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607860000,
@@ -5163,7 +5736,8 @@
     "low": 0.09997,
     "close": 0.10042,
     "volume": 8176.7,
-    "rd_value": -0.26725134
+    "rd_value": -0.26725134,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607920000,
@@ -5172,7 +5746,8 @@
     "low": 0.10044,
     "close": 0.10048,
     "volume": 424.8,
-    "rd_value": -0.09629452
+    "rd_value": -0.09629452,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770607980000,
@@ -5181,7 +5756,8 @@
     "low": 0.10094,
     "close": 0.10094,
     "volume": 0.0,
-    "rd_value": -0.039400868
+    "rd_value": -0.039400868,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608040000,
@@ -5190,7 +5766,8 @@
     "low": 0.10083,
     "close": 0.10093,
     "volume": 224.1,
-    "rd_value": 0.0036319678
+    "rd_value": 0.0036319678,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608100000,
@@ -5199,7 +5776,8 @@
     "low": 0.10102,
     "close": 0.10111,
     "volume": 1380.9,
-    "rd_value": 0.24930874
+    "rd_value": 0.24930874,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608160000,
@@ -5208,7 +5786,8 @@
     "low": 0.10113,
     "close": 0.10113,
     "volume": 132.4,
-    "rd_value": 0.26834005
+    "rd_value": 0.26834005,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608220000,
@@ -5217,7 +5796,8 @@
     "low": 0.10113,
     "close": 0.10113,
     "volume": 925.6,
-    "rd_value": 0.2735769
+    "rd_value": 0.2735769,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608280000,
@@ -5226,7 +5806,8 @@
     "low": 0.10124,
     "close": 0.10124,
     "volume": 0.0,
-    "rd_value": 0.30999824
+    "rd_value": 0.30999824,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608340000,
@@ -5235,7 +5816,8 @@
     "low": 0.10133,
     "close": 0.10137,
     "volume": 344.1,
-    "rd_value": 0.34543923
+    "rd_value": 0.34543923,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608400000,
@@ -5244,7 +5826,8 @@
     "low": 0.1014,
     "close": 0.1014,
     "volume": 0.0,
-    "rd_value": 0.42599115
+    "rd_value": 0.42599115,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608460000,
@@ -5253,7 +5836,8 @@
     "low": 0.1013,
     "close": 0.1013,
     "volume": 523.0,
-    "rd_value": 0.4347716
+    "rd_value": 0.4347716,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608520000,
@@ -5262,7 +5846,8 @@
     "low": 0.10129,
     "close": 0.10129,
     "volume": 602.4,
-    "rd_value": 0.42518917
+    "rd_value": 0.42518917,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608580000,
@@ -5271,7 +5856,8 @@
     "low": 0.10129,
     "close": 0.1014,
     "volume": 1464.7,
-    "rd_value": 0.47617286
+    "rd_value": 0.47617286,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608640000,
@@ -5280,7 +5866,8 @@
     "low": 0.10149,
     "close": 0.10149,
     "volume": 1997.1,
-    "rd_value": 0.50138164
+    "rd_value": 0.50138164,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608700000,
@@ -5289,7 +5876,8 @@
     "low": 0.10148,
     "close": 0.10148,
     "volume": 716.1,
-    "rd_value": 0.62453824
+    "rd_value": 0.62453824,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608760000,
@@ -5298,7 +5886,8 @@
     "low": 0.10145,
     "close": 0.10145,
     "volume": 0.0,
-    "rd_value": 0.5745343
+    "rd_value": 0.5745343,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608820000,
@@ -5307,7 +5896,8 @@
     "low": 0.10128,
     "close": 0.10128,
     "volume": 0.0,
-    "rd_value": 0.56498164
+    "rd_value": 0.56498164,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608880000,
@@ -5316,7 +5906,8 @@
     "low": 0.1014,
     "close": 0.10146,
     "volume": 301.9,
-    "rd_value": 0.62333107
+    "rd_value": 0.62333107,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770608940000,
@@ -5325,7 +5916,8 @@
     "low": 0.10159,
     "close": 0.1016,
     "volume": 500.0,
-    "rd_value": 0.6577295
+    "rd_value": 0.6577295,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609000000,
@@ -5334,7 +5926,8 @@
     "low": 0.1016,
     "close": 0.10161,
     "volume": 122.4,
-    "rd_value": 0.8884064
+    "rd_value": 0.8884064,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609060000,
@@ -5343,7 +5936,8 @@
     "low": 0.10199,
     "close": 0.10203,
     "volume": 3128.0,
-    "rd_value": 0.99410254
+    "rd_value": 0.99410254,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609120000,
@@ -5352,7 +5946,8 @@
     "low": 0.10233,
     "close": 0.10247,
     "volume": 1576.1,
-    "rd_value": 0.96018714
+    "rd_value": 0.96018714,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609180000,
@@ -5361,7 +5956,8 @@
     "low": 0.10172,
     "close": 0.10205,
     "volume": 4724.4,
-    "rd_value": 0.86028796
+    "rd_value": 0.86028796,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609240000,
@@ -5370,7 +5966,8 @@
     "low": 0.10173,
     "close": 0.10173,
     "volume": 0.0,
-    "rd_value": 0.8504547
+    "rd_value": 0.8504547,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609300000,
@@ -5379,7 +5976,8 @@
     "low": 0.10189,
     "close": 0.10189,
     "volume": 0.0,
-    "rd_value": 0.75386614
+    "rd_value": 0.75386614,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609360000,
@@ -5388,7 +5986,8 @@
     "low": 0.1017,
     "close": 0.1017,
     "volume": 102.8,
-    "rd_value": 0.6945156
+    "rd_value": 0.6945156,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609420000,
@@ -5397,7 +5996,8 @@
     "low": 0.10139,
     "close": 0.10148,
     "volume": 6212.2,
-    "rd_value": 0.5985773
+    "rd_value": 0.5985773,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609480000,
@@ -5406,7 +6006,8 @@
     "low": 0.1013,
     "close": 0.1013,
     "volume": 1001.8,
-    "rd_value": 0.5844363
+    "rd_value": 0.5844363,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609540000,
@@ -5415,7 +6016,8 @@
     "low": 0.10142,
     "close": 0.10142,
     "volume": 0.0,
-    "rd_value": 0.60517454
+    "rd_value": 0.60517454,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609600000,
@@ -5424,7 +6026,8 @@
     "low": 0.10135,
     "close": 0.10135,
     "volume": 409.9,
-    "rd_value": 0.22439247
+    "rd_value": 0.22439247,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609660000,
@@ -5433,7 +6036,8 @@
     "low": 0.10128,
     "close": 0.10128,
     "volume": 0.0,
-    "rd_value": 0.15893532
+    "rd_value": 0.15893532,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609720000,
@@ -5442,7 +6046,8 @@
     "low": 0.10091,
     "close": 0.10094,
     "volume": 1869.4,
-    "rd_value": 0.09725649
+    "rd_value": 0.09725649,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609780000,
@@ -5451,7 +6056,8 @@
     "low": 0.10098,
     "close": 0.10106,
     "volume": 699.9,
-    "rd_value": 0.11089281
+    "rd_value": 0.11089281,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609840000,
@@ -5460,7 +6066,8 @@
     "low": 0.10088,
     "close": 0.10088,
     "volume": 1657.8,
-    "rd_value": 0.037370026
+    "rd_value": 0.037370026,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609900000,
@@ -5469,7 +6076,8 @@
     "low": 0.10058,
     "close": 0.10081,
     "volume": 7641.1,
-    "rd_value": -0.0779317
+    "rd_value": -0.0779317,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770609960000,
@@ -5478,7 +6086,8 @@
     "low": 0.1008,
     "close": 0.1008,
     "volume": 1226.4,
-    "rd_value": -0.032955937
+    "rd_value": -0.032955937,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610020000,
@@ -5487,7 +6096,8 @@
     "low": 0.10077,
     "close": 0.10077,
     "volume": 2932.4,
-    "rd_value": -0.039419208
+    "rd_value": -0.039419208,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610080000,
@@ -5496,7 +6106,8 @@
     "low": 0.10077,
     "close": 0.10077,
     "volume": 0.0,
-    "rd_value": -0.06329944
+    "rd_value": -0.06329944,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610140000,
@@ -5505,7 +6116,8 @@
     "low": 0.10077,
     "close": 0.10077,
     "volume": 0.0,
-    "rd_value": -0.06329237
+    "rd_value": -0.06329237,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610200000,
@@ -5514,7 +6126,8 @@
     "low": 0.10077,
     "close": 0.10077,
     "volume": 0.0,
-    "rd_value": -0.0823175
+    "rd_value": -0.0823175,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610260000,
@@ -5523,7 +6136,8 @@
     "low": 0.10072,
     "close": 0.10072,
     "volume": 49.6,
-    "rd_value": -0.09148298
+    "rd_value": -0.09148298,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610320000,
@@ -5532,7 +6146,8 @@
     "low": 0.10068,
     "close": 0.10068,
     "volume": 1209.7,
-    "rd_value": -0.13365485
+    "rd_value": -0.13365485,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610380000,
@@ -5541,7 +6156,8 @@
     "low": 0.1006,
     "close": 0.1006,
     "volume": 0.0,
-    "rd_value": -0.14457193
+    "rd_value": -0.14457193,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610440000,
@@ -5550,7 +6166,8 @@
     "low": 0.1006,
     "close": 0.1006,
     "volume": 0.0,
-    "rd_value": -0.1444644
+    "rd_value": -0.1444644,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610500000,
@@ -5559,7 +6176,8 @@
     "low": 0.1006,
     "close": 0.10089,
     "volume": 634.5,
-    "rd_value": -0.12710045
+    "rd_value": -0.12710045,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610560000,
@@ -5568,7 +6186,8 @@
     "low": 0.10079,
     "close": 0.10079,
     "volume": 6740.1,
-    "rd_value": -0.10231293
+    "rd_value": -0.10231293,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610620000,
@@ -5577,7 +6196,8 @@
     "low": 0.10078,
     "close": 0.10078,
     "volume": 0.0,
-    "rd_value": -0.11150438
+    "rd_value": -0.11150438,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610680000,
@@ -5586,7 +6206,8 @@
     "low": 0.1006,
     "close": 0.10085,
     "volume": 231.9,
-    "rd_value": -0.11242558
+    "rd_value": -0.11242558,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610740000,
@@ -5595,7 +6216,8 @@
     "low": 0.10083,
     "close": 0.10083,
     "volume": 0.0,
-    "rd_value": -0.095917046
+    "rd_value": -0.095917046,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610800000,
@@ -5604,7 +6226,8 @@
     "low": 0.10083,
     "close": 0.10087,
     "volume": 501.0,
-    "rd_value": -0.056008242
+    "rd_value": -0.056008242,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610860000,
@@ -5613,7 +6236,8 @@
     "low": 0.10087,
     "close": 0.10087,
     "volume": 0.0,
-    "rd_value": -0.05054808
+    "rd_value": -0.05054808,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610920000,
@@ -5622,7 +6246,8 @@
     "low": 0.10083,
     "close": 0.10083,
     "volume": 522.0,
-    "rd_value": -0.057938483
+    "rd_value": -0.057938483,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770610980000,
@@ -5631,7 +6256,8 @@
     "low": 0.10083,
     "close": 0.10083,
     "volume": 0.0,
-    "rd_value": -0.06531701
+    "rd_value": -0.06531701,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611040000,
@@ -5640,7 +6266,8 @@
     "low": 0.10083,
     "close": 0.10083,
     "volume": 0.0,
-    "rd_value": -0.065345466
+    "rd_value": -0.065345466,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611100000,
@@ -5649,7 +6276,8 @@
     "low": 0.10083,
     "close": 0.10083,
     "volume": 0.0,
-    "rd_value": -0.15678552
+    "rd_value": -0.15678552,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611160000,
@@ -5658,7 +6286,8 @@
     "low": 0.1006,
     "close": 0.1006,
     "volume": 0.0,
-    "rd_value": -0.2127017
+    "rd_value": -0.2127017,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611220000,
@@ -5667,7 +6296,8 @@
     "low": 0.10059,
     "close": 0.10059,
     "volume": 0.0,
-    "rd_value": -0.2024844
+    "rd_value": -0.2024844,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611280000,
@@ -5676,7 +6306,8 @@
     "low": 0.10059,
     "close": 0.10059,
     "volume": 0.0,
-    "rd_value": -0.20237371
+    "rd_value": -0.20237371,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611340000,
@@ -5685,7 +6316,8 @@
     "low": 0.10059,
     "close": 0.10059,
     "volume": 0.0,
-    "rd_value": -0.20226337
+    "rd_value": -0.20226337,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611400000,
@@ -5694,7 +6326,8 @@
     "low": 0.10039,
     "close": 0.10039,
     "volume": 1505.3,
-    "rd_value": -0.39507973
+    "rd_value": -0.39507973,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611460000,
@@ -5703,7 +6336,8 @@
     "low": 0.1004,
     "close": 0.1004,
     "volume": 219.3,
-    "rd_value": -0.45088235
+    "rd_value": -0.45088235,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611520000,
@@ -5712,7 +6346,8 @@
     "low": 0.10018,
     "close": 0.10018,
     "volume": 1059.6,
-    "rd_value": -0.50017744
+    "rd_value": -0.50017744,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611580000,
@@ -5721,7 +6356,8 @@
     "low": 0.10018,
     "close": 0.10018,
     "volume": 304.7,
-    "rd_value": -0.53105
+    "rd_value": -0.53105,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611640000,
@@ -5730,7 +6366,8 @@
     "low": 0.10012,
     "close": 0.10012,
     "volume": 0.0,
-    "rd_value": -0.5279332
+    "rd_value": -0.5279332,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611700000,
@@ -5739,7 +6376,8 @@
     "low": 0.10015,
     "close": 0.10015,
     "volume": 0.0,
-    "rd_value": -0.6170181
+    "rd_value": -0.6170181,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611760000,
@@ -5748,7 +6386,8 @@
     "low": 0.10007,
     "close": 0.10007,
     "volume": 0.0,
-    "rd_value": -0.64874727
+    "rd_value": -0.64874727,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611820000,
@@ -5757,7 +6396,8 @@
     "low": 0.09998,
     "close": 0.09998,
     "volume": 0.0,
-    "rd_value": -0.66391546
+    "rd_value": -0.66391546,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611880000,
@@ -5766,7 +6406,8 @@
     "low": 0.09998,
     "close": 0.09998,
     "volume": 0.0,
-    "rd_value": -0.66346526
+    "rd_value": -0.66346526,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770611940000,
@@ -5775,7 +6416,8 @@
     "low": 0.09995,
     "close": 0.09995,
     "volume": 232.2,
-    "rd_value": -0.6419155
+    "rd_value": -0.6419155,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612000000,
@@ -5784,7 +6426,8 @@
     "low": 0.09983,
     "close": 0.09983,
     "volume": 5599.6,
-    "rd_value": -0.6676871
+    "rd_value": -0.6676871,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612060000,
@@ -5793,7 +6436,8 @@
     "low": 0.09987,
     "close": 0.09987,
     "volume": 839.8,
-    "rd_value": -0.6938682
+    "rd_value": -0.6938682,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612120000,
@@ -5802,7 +6446,8 @@
     "low": 0.09987,
     "close": 0.09994,
     "volume": 101.0,
-    "rd_value": -0.70808333
+    "rd_value": -0.70808333,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612180000,
@@ -5811,7 +6456,8 @@
     "low": 0.09994,
     "close": 0.09994,
     "volume": 0.0,
-    "rd_value": -0.6947533
+    "rd_value": -0.6947533,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612240000,
@@ -5820,7 +6466,8 @@
     "low": 0.09994,
     "close": 0.10003,
     "volume": 3847.5,
-    "rd_value": -0.67318654
+    "rd_value": -0.67318654,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612300000,
@@ -5829,7 +6476,8 @@
     "low": 0.10003,
     "close": 0.10003,
     "volume": 0.0,
-    "rd_value": -0.67444783
+    "rd_value": -0.67444783,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612360000,
@@ -5838,7 +6486,8 @@
     "low": 0.10003,
     "close": 0.10003,
     "volume": 0.0,
-    "rd_value": -0.6465107
+    "rd_value": -0.6465107,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612420000,
@@ -5847,7 +6496,8 @@
     "low": 0.10018,
     "close": 0.10024,
     "volume": 5000.0,
-    "rd_value": -0.607606
+    "rd_value": -0.607606,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612480000,
@@ -5856,7 +6506,8 @@
     "low": 0.1002,
     "close": 0.1002,
     "volume": 957.1,
-    "rd_value": -0.60362685
+    "rd_value": -0.60362685,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612540000,
@@ -5865,7 +6516,8 @@
     "low": 0.1002,
     "close": 0.1002,
     "volume": 0.0,
-    "rd_value": -0.6106647
+    "rd_value": -0.6106647,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612600000,
@@ -5874,7 +6526,8 @@
     "low": 0.10013,
     "close": 0.10013,
     "volume": 64.7,
-    "rd_value": -0.6556169
+    "rd_value": -0.6556169,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612660000,
@@ -5883,7 +6536,8 @@
     "low": 0.09998,
     "close": 0.09998,
     "volume": 1464.2,
-    "rd_value": -0.69565886
+    "rd_value": -0.69565886,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612720000,
@@ -5892,7 +6546,8 @@
     "low": 0.09998,
     "close": 0.09998,
     "volume": 0.0,
-    "rd_value": -0.72279555
+    "rd_value": -0.72279555,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612780000,
@@ -5901,7 +6556,8 @@
     "low": 0.09998,
     "close": 0.09998,
     "volume": 0.0,
-    "rd_value": -0.716859
+    "rd_value": -0.716859,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612840000,
@@ -5910,7 +6566,8 @@
     "low": 0.09991,
     "close": 0.09991,
     "volume": 768.1,
-    "rd_value": -0.74580115
+    "rd_value": -0.74580115,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612900000,
@@ -5919,7 +6576,8 @@
     "low": 0.09982,
     "close": 0.09982,
     "volume": 0.0,
-    "rd_value": -0.82527256
+    "rd_value": -0.82527256,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770612960000,
@@ -5928,7 +6586,8 @@
     "low": 0.09982,
     "close": 0.09982,
     "volume": 0.0,
-    "rd_value": -0.82475805
+    "rd_value": -0.82475805,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613020000,
@@ -5937,7 +6596,8 @@
     "low": 0.09982,
     "close": 0.09982,
     "volume": 0.0,
-    "rd_value": -0.81323314
+    "rd_value": -0.81323314,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613080000,
@@ -5946,7 +6606,8 @@
     "low": 0.09988,
     "close": 0.09988,
     "volume": 0.0,
-    "rd_value": -0.801726
+    "rd_value": -0.801726,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613140000,
@@ -5955,7 +6616,8 @@
     "low": 0.09988,
     "close": 0.09988,
     "volume": 0.0,
-    "rd_value": -0.80124867
+    "rd_value": -0.80124867,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613200000,
@@ -5964,7 +6626,8 @@
     "low": 0.09988,
     "close": 0.09993,
     "volume": 399.5,
-    "rd_value": -0.9345065
+    "rd_value": -0.9345065,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613260000,
@@ -5973,7 +6636,8 @@
     "low": 0.09993,
     "close": 0.09993,
     "volume": 0.0,
-    "rd_value": -0.9670968
+    "rd_value": -0.9670968,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613320000,
@@ -5982,7 +6646,8 @@
     "low": 0.09962,
     "close": 0.09962,
     "volume": 5010.2,
-    "rd_value": -1.0207481
+    "rd_value": -1.0207481,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613380000,
@@ -5991,7 +6656,8 @@
     "low": 0.09955,
     "close": 0.09955,
     "volume": 1659.2,
-    "rd_value": -1.050461
+    "rd_value": -1.050461,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613440000,
@@ -6000,7 +6666,8 @@
     "low": 0.09955,
     "close": 0.09955,
     "volume": 0.0,
-    "rd_value": -1.071872
+    "rd_value": -1.071872,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613500000,
@@ -6009,7 +6676,8 @@
     "low": 0.09955,
     "close": 0.09955,
     "volume": 0.0,
-    "rd_value": -1.1047779
+    "rd_value": -1.1047779,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613560000,
@@ -6018,7 +6686,8 @@
     "low": 0.09955,
     "close": 0.09967,
     "volume": 263.7,
-    "rd_value": -1.0821066
+    "rd_value": -1.0821066,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613620000,
@@ -6027,7 +6696,8 @@
     "low": 0.09967,
     "close": 0.09976,
     "volume": 94.2,
-    "rd_value": -1.0429481
+    "rd_value": -1.0429481,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613680000,
@@ -6036,7 +6706,8 @@
     "low": 0.09966,
     "close": 0.09966,
     "volume": 3603.9,
-    "rd_value": -1.0442317
+    "rd_value": -1.0442317,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613740000,
@@ -6045,7 +6716,8 @@
     "low": 0.09966,
     "close": 0.09966,
     "volume": 0.0,
-    "rd_value": -1.0620356
+    "rd_value": -1.0620356,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613800000,
@@ -6054,7 +6726,8 @@
     "low": 0.09956,
     "close": 0.09956,
     "volume": 3946.0,
-    "rd_value": -1.0748972
+    "rd_value": -1.0748972,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613860000,
@@ -6063,7 +6736,8 @@
     "low": 0.09962,
     "close": 0.09962,
     "volume": 0.0,
-    "rd_value": -1.0761378
+    "rd_value": -1.0761378,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613920000,
@@ -6072,7 +6746,8 @@
     "low": 0.09962,
     "close": 0.09962,
     "volume": 0.0,
-    "rd_value": -1.0755417
+    "rd_value": -1.0755417,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770613980000,
@@ -6081,7 +6756,8 @@
     "low": 0.0996,
     "close": 0.0996,
     "volume": 706.0,
-    "rd_value": -1.0786191
+    "rd_value": -1.0786191,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614040000,
@@ -6090,7 +6766,8 @@
     "low": 0.0996,
     "close": 0.0996,
     "volume": 0.0,
-    "rd_value": -1.081693
+    "rd_value": -1.081693,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614100000,
@@ -6099,7 +6776,8 @@
     "low": 0.0996,
     "close": 0.0996,
     "volume": 0.0,
-    "rd_value": -1.1173987
+    "rd_value": -1.1173987,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614160000,
@@ -6108,7 +6786,8 @@
     "low": 0.09948,
     "close": 0.09948,
     "volume": 0.0,
-    "rd_value": -1.1020799
+    "rd_value": -1.1020799,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614220000,
@@ -6117,7 +6796,8 @@
     "low": 0.09968,
     "close": 0.09979,
     "volume": 321.1,
-    "rd_value": -1.0445561
+    "rd_value": -1.0445561,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614280000,
@@ -6126,7 +6806,8 @@
     "low": 0.09979,
     "close": 0.09979,
     "volume": 0.0,
-    "rd_value": -1.0339332
+    "rd_value": -1.0339332,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614340000,
@@ -6135,7 +6816,8 @@
     "low": 0.09972,
     "close": 0.09972,
     "volume": 0.0,
-    "rd_value": -1.0802431
+    "rd_value": -1.0802431,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614400000,
@@ -6144,7 +6826,8 @@
     "low": 0.09955,
     "close": 0.09966,
     "volume": 371.0,
-    "rd_value": -1.0545915
+    "rd_value": -1.0545915,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614460000,
@@ -6153,7 +6836,8 @@
     "low": 0.09966,
     "close": 0.09977,
     "volume": 1646.3,
-    "rd_value": -1.0301546
+    "rd_value": -1.0301546,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614520000,
@@ -6162,7 +6846,8 @@
     "low": 0.09967,
     "close": 0.09967,
     "volume": 0.0,
-    "rd_value": -1.0443118
+    "rd_value": -1.0443118,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614580000,
@@ -6171,7 +6856,8 @@
     "low": 0.09967,
     "close": 0.09986,
     "volume": 659.8,
-    "rd_value": -1.0189723
+    "rd_value": -1.0189723,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614640000,
@@ -6180,7 +6866,8 @@
     "low": 0.09975,
     "close": 0.09975,
     "volume": 0.0,
-    "rd_value": -1.0138674
+    "rd_value": -1.0138674,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614700000,
@@ -6189,7 +6876,8 @@
     "low": 0.09975,
     "close": 0.09975,
     "volume": 0.0,
-    "rd_value": -0.9958613
+    "rd_value": -0.9958613,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614760000,
@@ -6198,7 +6886,8 @@
     "low": 0.09975,
     "close": 0.09975,
     "volume": 0.0,
-    "rd_value": -0.99902886
+    "rd_value": -0.99902886,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614820000,
@@ -6207,7 +6896,8 @@
     "low": 0.09973,
     "close": 0.09973,
     "volume": 0.0,
-    "rd_value": -1.0021927
+    "rd_value": -1.0021927,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614880000,
@@ -6216,7 +6906,8 @@
     "low": 0.09973,
     "close": 0.09973,
     "volume": 0.0,
-    "rd_value": -1.0053529
+    "rd_value": -1.0053529,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770614940000,
@@ -6225,7 +6916,8 @@
     "low": 0.09971,
     "close": 0.09971,
     "volume": 0.0,
-    "rd_value": -1.0085094
+    "rd_value": -1.0085094,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615000000,
@@ -6234,7 +6926,8 @@
     "low": 0.09971,
     "close": 0.0999,
     "volume": 1254.1,
-    "rd_value": -0.9139824
+    "rd_value": -0.9139824,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615060000,
@@ -6243,7 +6936,8 @@
     "low": 0.10001,
     "close": 0.10001,
     "volume": 0.0,
-    "rd_value": -0.85845035
+    "rd_value": -0.85845035,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615120000,
@@ -6252,7 +6946,8 @@
     "low": 0.09985,
     "close": 0.09985,
     "volume": 333.3,
-    "rd_value": -0.88747144
+    "rd_value": -0.88747144,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615180000,
@@ -6261,7 +6956,8 @@
     "low": 0.09985,
     "close": 0.09985,
     "volume": 0.0,
-    "rd_value": -0.92471635
+    "rd_value": -0.92471635,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615240000,
@@ -6270,7 +6966,8 @@
     "low": 0.09981,
     "close": 0.09981,
     "volume": 0.0,
-    "rd_value": -0.926099
+    "rd_value": -0.926099,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615300000,
@@ -6279,7 +6976,8 @@
     "low": 0.09975,
     "close": 0.09982,
     "volume": 1178.7,
-    "rd_value": -0.9419865
+    "rd_value": -0.9419865,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615360000,
@@ -6288,7 +6986,8 @@
     "low": 0.0998,
     "close": 0.0998,
     "volume": 0.0,
-    "rd_value": -0.93968195
+    "rd_value": -0.93968195,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615420000,
@@ -6297,7 +6996,8 @@
     "low": 0.0998,
     "close": 0.0998,
     "volume": 0.0,
-    "rd_value": -0.93921787
+    "rd_value": -0.93921787,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615480000,
@@ -6306,7 +7006,8 @@
     "low": 0.0998,
     "close": 0.0998,
     "volume": 0.0,
-    "rd_value": -0.9295723
+    "rd_value": -0.9295723,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615540000,
@@ -6315,7 +7016,8 @@
     "low": 0.09972,
     "close": 0.09972,
     "volume": 2.3,
-    "rd_value": -0.94381636
+    "rd_value": -0.94381636,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615600000,
@@ -6324,7 +7026,8 @@
     "low": 0.09969,
     "close": 0.09969,
     "volume": 878.8,
-    "rd_value": -0.99869096
+    "rd_value": -0.99869096,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615660000,
@@ -6333,7 +7036,8 @@
     "low": 0.09969,
     "close": 0.09969,
     "volume": 0.0,
-    "rd_value": -1.0018568
+    "rd_value": -1.0018568,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615720000,
@@ -6342,7 +7046,8 @@
     "low": 0.09965,
     "close": 0.09965,
     "volume": 1009.0,
-    "rd_value": -0.99859065
+    "rd_value": -0.99859065,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615780000,
@@ -6351,7 +7056,8 @@
     "low": 0.09973,
     "close": 0.09973,
     "volume": 0.0,
-    "rd_value": -0.99165624
+    "rd_value": -0.99165624,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615840000,
@@ -6360,7 +7066,8 @@
     "low": 0.09971,
     "close": 0.09971,
     "volume": 0.0,
-    "rd_value": -1.0113648
+    "rd_value": -1.0113648,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615900000,
@@ -6369,7 +7076,8 @@
     "low": 0.0995,
     "close": 0.0995,
     "volume": 347.7,
-    "rd_value": -1.1097856
+    "rd_value": -1.1097856,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770615960000,
@@ -6378,7 +7086,8 @@
     "low": 0.0995,
     "close": 0.0995,
     "volume": 0.0,
-    "rd_value": -1.1367714
+    "rd_value": -1.1367714,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616020000,
@@ -6387,7 +7096,8 @@
     "low": 0.09942,
     "close": 0.09942,
     "volume": 1258.9,
-    "rd_value": -1.1508636
+    "rd_value": -1.1508636,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616080000,
@@ -6396,7 +7106,8 @@
     "low": 0.09942,
     "close": 0.09942,
     "volume": 0.0,
-    "rd_value": -1.1686115
+    "rd_value": -1.1686115,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616140000,
@@ -6405,7 +7116,8 @@
     "low": 0.09931,
     "close": 0.09931,
     "volume": 5000.0,
-    "rd_value": -1.193684
+    "rd_value": -1.193684,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616200000,
@@ -6414,7 +7126,8 @@
     "low": 0.09928,
     "close": 0.0995,
     "volume": 1079.4,
-    "rd_value": -1.1353029
+    "rd_value": -1.1353029,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616260000,
@@ -6423,7 +7136,8 @@
     "low": 0.0995,
     "close": 0.09967,
     "volume": 1530.8,
-    "rd_value": -1.0630094
+    "rd_value": -1.0630094,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616320000,
@@ -6432,7 +7146,8 @@
     "low": 0.09967,
     "close": 0.09967,
     "volume": 0.0,
-    "rd_value": -1.0101031
+    "rd_value": -1.0101031,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616380000,
@@ -6441,7 +7156,8 @@
     "low": 0.09975,
     "close": 0.09978,
     "volume": 100.7,
-    "rd_value": -0.995847
+    "rd_value": -0.995847,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616440000,
@@ -6450,7 +7166,8 @@
     "low": 0.09977,
     "close": 0.09978,
     "volume": 1253.6,
-    "rd_value": -0.9687515
+    "rd_value": -0.9687515,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616500000,
@@ -6459,7 +7176,8 @@
     "low": 0.09972,
     "close": 0.09972,
     "volume": 109.0,
-    "rd_value": -0.8994459
+    "rd_value": -0.8994459,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616560000,
@@ -6468,7 +7186,8 @@
     "low": 0.09972,
     "close": 0.09972,
     "volume": 0.0,
-    "rd_value": -0.93208086
+    "rd_value": -0.93208086,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616620000,
@@ -6477,7 +7196,8 @@
     "low": 0.09972,
     "close": 0.09972,
     "volume": 0.0,
-    "rd_value": -0.9316039
+    "rd_value": -0.9316039,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616680000,
@@ -6486,7 +7206,8 @@
     "low": 0.09972,
     "close": 0.09972,
     "volume": 0.0,
-    "rd_value": -0.9311283
+    "rd_value": -0.9311283,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616740000,
@@ -6495,7 +7216,8 @@
     "low": 0.09972,
     "close": 0.09972,
     "volume": 0.0,
-    "rd_value": -0.89942163
+    "rd_value": -0.89942163,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616800000,
@@ -6504,7 +7226,8 @@
     "low": 0.09965,
     "close": 0.09966,
     "volume": 11452.9,
-    "rd_value": -1.1543736
+    "rd_value": -1.1543736,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616860000,
@@ -6513,7 +7236,8 @@
     "low": 0.0992,
     "close": 0.09946,
     "volume": 2355.0,
-    "rd_value": -1.2558646
+    "rd_value": -1.2558646,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616920000,
@@ -6522,7 +7246,8 @@
     "low": 0.09933,
     "close": 0.09933,
     "volume": 198.0,
-    "rd_value": -1.3195573
+    "rd_value": -1.3195573,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770616980000,
@@ -6531,7 +7256,8 @@
     "low": 0.09908,
     "close": 0.09908,
     "volume": 28798.7,
-    "rd_value": -1.3078359
+    "rd_value": -1.3078359,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617040000,
@@ -6540,7 +7266,8 @@
     "low": 0.09921,
     "close": 0.09921,
     "volume": 637.9,
-    "rd_value": -1.3264477
+    "rd_value": -1.3264477,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617100000,
@@ -6549,7 +7276,8 @@
     "low": 0.09921,
     "close": 0.09928,
     "volume": 441.2,
-    "rd_value": -1.3829137
+    "rd_value": -1.3829137,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617160000,
@@ -6558,7 +7286,8 @@
     "low": 0.09914,
     "close": 0.09915,
     "volume": 1283.8,
-    "rd_value": -1.3932431
+    "rd_value": -1.3932431,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617220000,
@@ -6567,7 +7296,8 @@
     "low": 0.09924,
     "close": 0.09929,
     "volume": 333.3,
-    "rd_value": -1.380591
+    "rd_value": -1.380591,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617280000,
@@ -6576,7 +7306,8 @@
     "low": 0.09924,
     "close": 0.09925,
     "volume": 72.6,
-    "rd_value": -1.3716317
+    "rd_value": -1.3716317,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617340000,
@@ -6585,7 +7316,8 @@
     "low": 0.09931,
     "close": 0.09931,
     "volume": 0.0,
-    "rd_value": -1.3700354
+    "rd_value": -1.3700354,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617400000,
@@ -6594,7 +7326,8 @@
     "low": 0.0991,
     "close": 0.0991,
     "volume": 513.4,
-    "rd_value": -1.4143753
+    "rd_value": -1.4143753,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617460000,
@@ -6603,7 +7336,8 @@
     "low": 0.0991,
     "close": 0.09936,
     "volume": 3307.3,
-    "rd_value": -1.3943585
+    "rd_value": -1.3943585,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617520000,
@@ -6612,7 +7346,8 @@
     "low": 0.09936,
     "close": 0.09936,
     "volume": 0.0,
-    "rd_value": -1.3458847
+    "rd_value": -1.3458847,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617580000,
@@ -6621,7 +7356,8 @@
     "low": 0.09918,
     "close": 0.09918,
     "volume": 2761.1,
-    "rd_value": -1.3957931
+    "rd_value": -1.3957931,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617640000,
@@ -6630,7 +7366,8 @@
     "low": 0.09909,
     "close": 0.09909,
     "volume": 0.0,
-    "rd_value": -1.4438
+    "rd_value": -1.4438,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617700000,
@@ -6639,7 +7376,8 @@
     "low": 0.09909,
     "close": 0.09909,
     "volume": 0.0,
-    "rd_value": -1.7142649
+    "rd_value": -1.7142649,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617760000,
@@ -6648,7 +7386,8 @@
     "low": 0.09883,
     "close": 0.09887,
     "volume": 8094.8,
-    "rd_value": -1.7686514
+    "rd_value": -1.7686514,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617820000,
@@ -6657,7 +7396,8 @@
     "low": 0.09888,
     "close": 0.09888,
     "volume": 0.0,
-    "rd_value": -1.7972386
+    "rd_value": -1.7972386,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617880000,
@@ -6666,7 +7406,8 @@
     "low": 0.09863,
     "close": 0.09874,
     "volume": 4297.0,
-    "rd_value": -1.8882813
+    "rd_value": -1.8882813,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770617940000,
@@ -6675,7 +7416,8 @@
     "low": 0.09809,
     "close": 0.09866,
     "volume": 30803.4,
-    "rd_value": -1.952559
+    "rd_value": -1.952559,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618000000,
@@ -6684,7 +7426,8 @@
     "low": 0.09835,
     "close": 0.09838,
     "volume": 1294.0,
-    "rd_value": -2.1412792
+    "rd_value": -2.1412792,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618060000,
@@ -6693,7 +7436,8 @@
     "low": 0.09803,
     "close": 0.09837,
     "volume": 12357.6,
-    "rd_value": -2.1465545
+    "rd_value": -2.1465545,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618120000,
@@ -6702,7 +7446,8 @@
     "low": 0.09833,
     "close": 0.09846,
     "volume": 2655.2,
-    "rd_value": -2.0727818
+    "rd_value": -2.0727818,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618180000,
@@ -6711,7 +7456,8 @@
     "low": 0.0982,
     "close": 0.09828,
     "volume": 7240.1,
-    "rd_value": -2.0937734
+    "rd_value": -2.0937734,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618240000,
@@ -6720,7 +7466,8 @@
     "low": 0.09822,
     "close": 0.09832,
     "volume": 1206.6,
-    "rd_value": -2.0899231
+    "rd_value": -2.0899231,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618300000,
@@ -6729,7 +7476,8 @@
     "low": 0.09843,
     "close": 0.0986,
     "volume": 285.7,
-    "rd_value": -1.9843924
+    "rd_value": -1.9843924,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618360000,
@@ -6738,7 +7486,8 @@
     "low": 0.09847,
     "close": 0.09847,
     "volume": 767.2,
-    "rd_value": -1.9833848
+    "rd_value": -1.9833848,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618420000,
@@ -6747,7 +7496,8 @@
     "low": 0.09832,
     "close": 0.09832,
     "volume": 44.3,
-    "rd_value": -2.012715
+    "rd_value": -2.012715,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618480000,
@@ -6756,7 +7506,8 @@
     "low": 0.09843,
     "close": 0.09851,
     "volume": 2291.2,
-    "rd_value": -1.9942081
+    "rd_value": -1.9942081,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618540000,
@@ -6765,7 +7516,8 @@
     "low": 0.09851,
     "close": 0.09851,
     "volume": 0.0,
-    "rd_value": -1.9784833
+    "rd_value": -1.9784833,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618600000,
@@ -6774,7 +7526,8 @@
     "low": 0.09836,
     "close": 0.09836,
     "volume": 3358.8,
-    "rd_value": -2.018077
+    "rd_value": -2.018077,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618660000,
@@ -6783,7 +7536,8 @@
     "low": 0.09833,
     "close": 0.09833,
     "volume": 250.7,
-    "rd_value": -2.0363622
+    "rd_value": -2.0363622,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618720000,
@@ -6792,7 +7546,8 @@
     "low": 0.09836,
     "close": 0.09836,
     "volume": 0.0,
-    "rd_value": -2.0481906
+    "rd_value": -2.0481906,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618780000,
@@ -6801,7 +7556,8 @@
     "low": 0.09831,
     "close": 0.0984,
     "volume": 651.4,
-    "rd_value": -2.0498922
+    "rd_value": -2.0498922,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618840000,
@@ -6810,7 +7566,8 @@
     "low": 0.09832,
     "close": 0.09832,
     "volume": 0.0,
-    "rd_value": -2.0607877
+    "rd_value": -2.0607877,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618900000,
@@ -6819,7 +7576,8 @@
     "low": 0.09832,
     "close": 0.09832,
     "volume": 0.0,
-    "rd_value": -2.0065207
+    "rd_value": -2.0065207,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770618960000,
@@ -6828,7 +7586,8 @@
     "low": 0.09827,
     "close": 0.09827,
     "volume": 2593.2,
-    "rd_value": -2.0146604
+    "rd_value": -2.0146604,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619020000,
@@ -6837,7 +7596,8 @@
     "low": 0.09827,
     "close": 0.09827,
     "volume": 0.0,
-    "rd_value": -1.9988837
+    "rd_value": -1.9988837,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619080000,
@@ -6846,7 +7606,8 @@
     "low": 0.09845,
     "close": 0.09871,
     "volume": 23548.8,
-    "rd_value": -1.9169201
+    "rd_value": -1.9169201,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619140000,
@@ -6855,7 +7616,8 @@
     "low": 0.09871,
     "close": 0.09871,
     "volume": 163.0,
-    "rd_value": -1.8571286
+    "rd_value": -1.8571286,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619200000,
@@ -6864,7 +7626,8 @@
     "low": 0.09871,
     "close": 0.09871,
     "volume": 5443.0,
-    "rd_value": -1.7768444
+    "rd_value": -1.7768444,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619260000,
@@ -6873,7 +7636,8 @@
     "low": 0.09866,
     "close": 0.09866,
     "volume": 1429.4,
-    "rd_value": -1.7934573
+    "rd_value": -1.7934573,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619320000,
@@ -6882,7 +7646,8 @@
     "low": 0.09866,
     "close": 0.09868,
     "volume": 3004.5,
-    "rd_value": -1.7530329
+    "rd_value": -1.7530329,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619380000,
@@ -6891,7 +7656,8 @@
     "low": 0.09891,
     "close": 0.09891,
     "volume": 0.0,
-    "rd_value": -1.71174
+    "rd_value": -1.71174,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619440000,
@@ -6900,7 +7666,8 @@
     "low": 0.09874,
     "close": 0.09876,
     "volume": 2786.8,
-    "rd_value": -1.7403952
+    "rd_value": -1.7403952,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619500000,
@@ -6909,7 +7676,8 @@
     "low": 0.09876,
     "close": 0.09879,
     "volume": 490.2,
-    "rd_value": -1.7091197
+    "rd_value": -1.7091197,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619560000,
@@ -6918,7 +7686,8 @@
     "low": 0.09885,
     "close": 0.09885,
     "volume": 0.0,
-    "rd_value": -1.694508
+    "rd_value": -1.694508,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619620000,
@@ -6927,7 +7696,8 @@
     "low": 0.09869,
     "close": 0.09869,
     "volume": 588.9,
-    "rd_value": -1.7295818
+    "rd_value": -1.7295818,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619680000,
@@ -6936,7 +7706,8 @@
     "low": 0.09867,
     "close": 0.09867,
     "volume": 0.0,
-    "rd_value": -1.7590953
+    "rd_value": -1.7590953,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619740000,
@@ -6945,7 +7716,8 @@
     "low": 0.09867,
     "close": 0.09879,
     "volume": 506.9,
-    "rd_value": -1.7361453
+    "rd_value": -1.7361453,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619800000,
@@ -6954,7 +7726,8 @@
     "low": 0.09879,
     "close": 0.09879,
     "volume": 0.0,
-    "rd_value": -1.66356
+    "rd_value": -1.66356,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619860000,
@@ -6963,7 +7736,8 @@
     "low": 0.0989,
     "close": 0.09891,
     "volume": 1018.4,
-    "rd_value": -1.6379317
+    "rd_value": -1.6379317,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619920000,
@@ -6972,7 +7746,8 @@
     "low": 0.09884,
     "close": 0.09892,
     "volume": 2489.0,
-    "rd_value": -1.631653
+    "rd_value": -1.631653,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770619980000,
@@ -6981,7 +7756,8 @@
     "low": 0.0989,
     "close": 0.09894,
     "volume": 1252.4,
-    "rd_value": -1.6226231
+    "rd_value": -1.6226231,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620040000,
@@ -6990,7 +7766,8 @@
     "low": 0.09894,
     "close": 0.09894,
     "volume": 0.0,
-    "rd_value": -1.6237242
+    "rd_value": -1.6237242,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620100000,
@@ -6999,7 +7776,8 @@
     "low": 0.09885,
     "close": 0.09888,
     "volume": 4542.2,
-    "rd_value": -1.618145
+    "rd_value": -1.618145,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620160000,
@@ -7008,7 +7786,8 @@
     "low": 0.09888,
     "close": 0.09895,
     "volume": 2456.3,
-    "rd_value": -1.6174009
+    "rd_value": -1.6174009,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620220000,
@@ -7017,7 +7796,8 @@
     "low": 0.0989,
     "close": 0.0989,
     "volume": 429.9,
-    "rd_value": -1.6332179
+    "rd_value": -1.6332179,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620280000,
@@ -7026,7 +7806,8 @@
     "low": 0.09881,
     "close": 0.09883,
     "volume": 70.8,
-    "rd_value": -1.6434969
+    "rd_value": -1.6434969,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620340000,
@@ -7035,7 +7816,8 @@
     "low": 0.09879,
     "close": 0.09879,
     "volume": 70.9,
-    "rd_value": -1.6464044
+    "rd_value": -1.6464044,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620400000,
@@ -7044,7 +7826,8 @@
     "low": 0.09879,
     "close": 0.09882,
     "volume": 734.9,
-    "rd_value": -1.7199092
+    "rd_value": -1.7199092,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620460000,
@@ -7053,7 +7836,8 @@
     "low": 0.09877,
     "close": 0.09877,
     "volume": 667.6,
-    "rd_value": -1.720967
+    "rd_value": -1.720967,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620520000,
@@ -7062,7 +7846,8 @@
     "low": 0.09877,
     "close": 0.09877,
     "volume": 0.0,
-    "rd_value": -1.7367457
+    "rd_value": -1.7367457,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620580000,
@@ -7071,7 +7856,8 @@
     "low": 0.09862,
     "close": 0.09879,
     "volume": 5038.9,
-    "rd_value": -1.7460657
+    "rd_value": -1.7460657,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620640000,
@@ -7080,7 +7866,8 @@
     "low": 0.09879,
     "close": 0.09884,
     "volume": 104.6,
-    "rd_value": -1.7185711
+    "rd_value": -1.7185711,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620700000,
@@ -7089,7 +7876,8 @@
     "low": 0.09877,
     "close": 0.09877,
     "volume": 603.9,
-    "rd_value": -1.7591518
+    "rd_value": -1.7591518,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620760000,
@@ -7098,7 +7886,8 @@
     "low": 0.09848,
     "close": 0.09867,
     "volume": 1109.3,
-    "rd_value": -1.7086099
+    "rd_value": -1.7086099,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620820000,
@@ -7107,7 +7896,8 @@
     "low": 0.09907,
     "close": 0.09915,
     "volume": 807.3,
-    "rd_value": -1.5918772
+    "rd_value": -1.5918772,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620880000,
@@ -7116,7 +7906,8 @@
     "low": 0.09907,
     "close": 0.09907,
     "volume": 0.0,
-    "rd_value": -1.6298783
+    "rd_value": -1.6298783,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770620940000,
@@ -7125,7 +7916,8 @@
     "low": 0.0989,
     "close": 0.09899,
     "volume": 887.2,
-    "rd_value": -1.643909
+    "rd_value": -1.643909,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621000000,
@@ -7134,7 +7926,8 @@
     "low": 0.09899,
     "close": 0.09904,
     "volume": 1584.9,
-    "rd_value": -1.5757996
+    "rd_value": -1.5757996,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621060000,
@@ -7143,7 +7936,8 @@
     "low": 0.09903,
     "close": 0.09903,
     "volume": 684.9,
-    "rd_value": -1.5686855
+    "rd_value": -1.5686855,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621120000,
@@ -7152,7 +7946,8 @@
     "low": 0.09892,
     "close": 0.09892,
     "volume": 79.4,
-    "rd_value": -1.5919496
+    "rd_value": -1.5919496,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621180000,
@@ -7161,7 +7956,8 @@
     "low": 0.09873,
     "close": 0.09873,
     "volume": 2190.2,
-    "rd_value": -1.6372737
+    "rd_value": -1.6372737,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621240000,
@@ -7170,7 +7966,8 @@
     "low": 0.09883,
     "close": 0.09894,
     "volume": 1103.9,
-    "rd_value": -1.5987966
+    "rd_value": -1.5987966,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621300000,
@@ -7179,7 +7976,8 @@
     "low": 0.09895,
     "close": 0.09895,
     "volume": 3251.2,
-    "rd_value": -1.560229
+    "rd_value": -1.560229,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621360000,
@@ -7188,7 +7986,8 @@
     "low": 0.09895,
     "close": 0.09895,
     "volume": 0.0,
-    "rd_value": -1.6092557
+    "rd_value": -1.6092557,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621420000,
@@ -7197,7 +7996,8 @@
     "low": 0.09878,
     "close": 0.09878,
     "volume": 1685.0,
-    "rd_value": -1.639818
+    "rd_value": -1.639818,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621480000,
@@ -7206,7 +8006,8 @@
     "low": 0.09878,
     "close": 0.09878,
     "volume": 0.0,
-    "rd_value": -1.6408925
+    "rd_value": -1.6408925,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621540000,
@@ -7215,7 +8016,8 @@
     "low": 0.09875,
     "close": 0.0991,
     "volume": 3722.5,
-    "rd_value": -1.5738568
+    "rd_value": -1.5738568,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621600000,
@@ -7224,7 +8026,8 @@
     "low": 0.09911,
     "close": 0.09916,
     "volume": 634.8,
-    "rd_value": -1.4885257
+    "rd_value": -1.4885257,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621660000,
@@ -7233,7 +8036,8 @@
     "low": 0.09916,
     "close": 0.09945,
     "volume": 1115.8,
-    "rd_value": -1.4437395
+    "rd_value": -1.4437395,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621720000,
@@ -7242,7 +8046,8 @@
     "low": 0.09922,
     "close": 0.09922,
     "volume": 92.5,
-    "rd_value": -1.4855297
+    "rd_value": -1.4855297,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621780000,
@@ -7251,7 +8056,8 @@
     "low": 0.09886,
     "close": 0.09886,
     "volume": 2143.7,
-    "rd_value": -1.556726
+    "rd_value": -1.556726,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621840000,
@@ -7260,7 +8066,8 @@
     "low": 0.09886,
     "close": 0.09894,
     "volume": 62.1,
-    "rd_value": -1.5726097
+    "rd_value": -1.5726097,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621900000,
@@ -7269,7 +8076,8 @@
     "low": 0.09878,
     "close": 0.09878,
     "volume": 2393.4,
-    "rd_value": -1.713488
+    "rd_value": -1.713488,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770621960000,
@@ -7278,7 +8086,8 @@
     "low": 0.09862,
     "close": 0.09862,
     "volume": 159.3,
-    "rd_value": -1.7716829
+    "rd_value": -1.7716829,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622020000,
@@ -7287,7 +8096,8 @@
     "low": 0.09855,
     "close": 0.09855,
     "volume": 2147.2,
-    "rd_value": -1.8132408
+    "rd_value": -1.8132408,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622080000,
@@ -7296,7 +8106,8 @@
     "low": 0.09855,
     "close": 0.09855,
     "volume": 653.1,
-    "rd_value": -1.8252928
+    "rd_value": -1.8252928,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622140000,
@@ -7305,7 +8116,8 @@
     "low": 0.09836,
     "close": 0.09836,
     "volume": 2179.3,
-    "rd_value": -1.8594265
+    "rd_value": -1.8594265,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622200000,
@@ -7314,7 +8126,8 @@
     "low": 0.09836,
     "close": 0.09836,
     "volume": 0.0,
-    "rd_value": -2.0775151
+    "rd_value": -2.0775151,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622260000,
@@ -7323,7 +8136,8 @@
     "low": 0.09823,
     "close": 0.09823,
     "volume": 4097.5,
-    "rd_value": -2.099606
+    "rd_value": -2.099606,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622320000,
@@ -7332,7 +8146,8 @@
     "low": 0.09824,
     "close": 0.09856,
     "volume": 8221.4,
-    "rd_value": -2.06367
+    "rd_value": -2.06367,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622380000,
@@ -7341,7 +8156,8 @@
     "low": 0.0984,
     "close": 0.0984,
     "volume": 751.2,
-    "rd_value": -2.0342212
+    "rd_value": -2.0342212,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622440000,
@@ -7350,7 +8166,8 @@
     "low": 0.0984,
     "close": 0.0984,
     "volume": 0.0,
-    "rd_value": -2.0609717
+    "rd_value": -2.0609717,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622500000,
@@ -7359,7 +8176,8 @@
     "low": 0.09833,
     "close": 0.09833,
     "volume": 1594.6,
-    "rd_value": -2.130465
+    "rd_value": -2.130465,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622560000,
@@ -7368,7 +8186,8 @@
     "low": 0.09833,
     "close": 0.09837,
     "volume": 134.3,
-    "rd_value": -2.135075
+    "rd_value": -2.135075,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622620000,
@@ -7377,7 +8196,8 @@
     "low": 0.09818,
     "close": 0.09818,
     "volume": 2205.2,
-    "rd_value": -2.1608598
+    "rd_value": -2.1608598,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622680000,
@@ -7386,7 +8206,8 @@
     "low": 0.09819,
     "close": 0.09823,
     "volume": 1605.2,
-    "rd_value": -2.2547581
+    "rd_value": -2.2547581,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622740000,
@@ -7395,7 +8216,8 @@
     "low": 0.09783,
     "close": 0.098,
     "volume": 8079.4,
-    "rd_value": -2.2702782
+    "rd_value": -2.2702782,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622800000,
@@ -7404,7 +8226,8 @@
     "low": 0.09809,
     "close": 0.09809,
     "volume": 0.0,
-    "rd_value": -2.2566602
+    "rd_value": -2.2566602,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622860000,
@@ -7413,7 +8236,8 @@
     "low": 0.09813,
     "close": 0.09813,
     "volume": 796.6,
-    "rd_value": -2.2575026
+    "rd_value": -2.2575026,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622920000,
@@ -7422,7 +8246,8 @@
     "low": 0.09802,
     "close": 0.09802,
     "volume": 99.8,
-    "rd_value": -2.2878158
+    "rd_value": -2.2878158,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770622980000,
@@ -7431,7 +8256,8 @@
     "low": 0.09787,
     "close": 0.09787,
     "volume": 2208.9,
-    "rd_value": -2.3254638
+    "rd_value": -2.3254638,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623040000,
@@ -7440,7 +8266,8 @@
     "low": 0.09781,
     "close": 0.09781,
     "volume": 76.6,
-    "rd_value": -2.348335
+    "rd_value": -2.348335,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623100000,
@@ -7449,7 +8276,8 @@
     "low": 0.09792,
     "close": 0.09805,
     "volume": 3453.9,
-    "rd_value": -2.315124
+    "rd_value": -2.315124,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623160000,
@@ -7458,7 +8286,8 @@
     "low": 0.09805,
     "close": 0.09814,
     "volume": 1826.6,
-    "rd_value": -2.2892025
+    "rd_value": -2.2892025,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623220000,
@@ -7467,7 +8296,8 @@
     "low": 0.09794,
     "close": 0.09794,
     "volume": 247.3,
-    "rd_value": -2.2881806
+    "rd_value": -2.2881806,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623280000,
@@ -7476,7 +8306,8 @@
     "low": 0.09813,
     "close": 0.09815,
     "volume": 1485.5,
-    "rd_value": -2.2641332
+    "rd_value": -2.2641332,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623340000,
@@ -7485,7 +8316,8 @@
     "low": 0.09809,
     "close": 0.09809,
     "volume": 0.0,
-    "rd_value": -2.2769597
+    "rd_value": -2.2769597,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623400000,
@@ -7494,7 +8326,8 @@
     "low": 0.09806,
     "close": 0.09806,
     "volume": 316.4,
-    "rd_value": -2.2422347
+    "rd_value": -2.2422347,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623460000,
@@ -7503,7 +8336,8 @@
     "low": 0.09803,
     "close": 0.09815,
     "volume": 1334.1,
-    "rd_value": -2.2310922
+    "rd_value": -2.2310922,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623520000,
@@ -7512,7 +8346,8 @@
     "low": 0.09808,
     "close": 0.09808,
     "volume": 790.6,
-    "rd_value": -2.2273333
+    "rd_value": -2.2273333,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623580000,
@@ -7521,7 +8356,8 @@
     "low": 0.09808,
     "close": 0.09827,
     "volume": 1621.1,
-    "rd_value": -2.1968634
+    "rd_value": -2.1968634,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623640000,
@@ -7530,7 +8366,8 @@
     "low": 0.09818,
     "close": 0.09818,
     "volume": 71.0,
-    "rd_value": -2.177484
+    "rd_value": -2.177484,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623700000,
@@ -7539,7 +8376,8 @@
     "low": 0.09803,
     "close": 0.09803,
     "volume": 2178.3,
-    "rd_value": -2.2327454
+    "rd_value": -2.2327454,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623760000,
@@ -7548,7 +8386,8 @@
     "low": 0.09799,
     "close": 0.09811,
     "volume": 674.2,
-    "rd_value": -2.2465014
+    "rd_value": -2.2465014,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623820000,
@@ -7557,7 +8396,8 @@
     "low": 0.09795,
     "close": 0.09795,
     "volume": 257.1,
-    "rd_value": -2.2528727
+    "rd_value": -2.2528727,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623880000,
@@ -7566,7 +8406,8 @@
     "low": 0.09795,
     "close": 0.09795,
     "volume": 1032.2,
-    "rd_value": -2.278587
+    "rd_value": -2.278587,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770623940000,
@@ -7575,7 +8416,8 @@
     "low": 0.09795,
     "close": 0.09807,
     "volume": 500.0,
-    "rd_value": -2.258204
+    "rd_value": -2.258204,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624000000,
@@ -7584,7 +8426,8 @@
     "low": 0.09787,
     "close": 0.09807,
     "volume": 2092.2,
-    "rd_value": -2.478087
+    "rd_value": -2.478087,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624060000,
@@ -7593,7 +8436,8 @@
     "low": 0.09789,
     "close": 0.09803,
     "volume": 2670.0,
-    "rd_value": -2.4844642
+    "rd_value": -2.4844642,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624120000,
@@ -7602,7 +8446,8 @@
     "low": 0.09795,
     "close": 0.09797,
     "volume": 325.5,
-    "rd_value": -2.5276952
+    "rd_value": -2.5276952,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624180000,
@@ -7611,7 +8456,8 @@
     "low": 0.09783,
     "close": 0.09797,
     "volume": 4173.5,
-    "rd_value": -2.513746
+    "rd_value": -2.513746,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624240000,
@@ -7620,7 +8466,8 @@
     "low": 0.09791,
     "close": 0.09791,
     "volume": 1558.4,
-    "rd_value": -2.4979703
+    "rd_value": -2.4979703,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624300000,
@@ -7629,7 +8476,8 @@
     "low": 0.09791,
     "close": 0.09791,
     "volume": 0.0,
-    "rd_value": -2.5359123
+    "rd_value": -2.5359123,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624360000,
@@ -7638,7 +8486,8 @@
     "low": 0.09772,
     "close": 0.09772,
     "volume": 393.5,
-    "rd_value": -2.5606723
+    "rd_value": -2.5606723,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624420000,
@@ -7647,7 +8496,8 @@
     "low": 0.09772,
     "close": 0.09772,
     "volume": 0.0,
-    "rd_value": -2.5964663
+    "rd_value": -2.5964663,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624480000,
@@ -7656,7 +8506,8 @@
     "low": 0.09772,
     "close": 0.09778,
     "volume": 130.5,
-    "rd_value": -2.5842965
+    "rd_value": -2.5842965,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624540000,
@@ -7665,7 +8516,8 @@
     "low": 0.09778,
     "close": 0.09805,
     "volume": 11568.4,
-    "rd_value": -2.519605
+    "rd_value": -2.519605,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624600000,
@@ -7674,7 +8526,8 @@
     "low": 0.09797,
     "close": 0.09804,
     "volume": 859.9,
-    "rd_value": -2.5017524
+    "rd_value": -2.5017524,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624660000,
@@ -7683,7 +8536,8 @@
     "low": 0.09762,
     "close": 0.09767,
     "volume": 25244.0,
-    "rd_value": -2.5597582
+    "rd_value": -2.5597582,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624720000,
@@ -7692,7 +8546,8 @@
     "low": 0.09774,
     "close": 0.09794,
     "volume": 1292.1,
-    "rd_value": -2.5725358
+    "rd_value": -2.5725358,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624780000,
@@ -7701,7 +8556,8 @@
     "low": 0.09781,
     "close": 0.09786,
     "volume": 494.6,
-    "rd_value": -2.5613341
+    "rd_value": -2.5613341,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624840000,
@@ -7710,7 +8566,8 @@
     "low": 0.09786,
     "close": 0.09786,
     "volume": 0.0,
-    "rd_value": -2.5510676
+    "rd_value": -2.5510676,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624900000,
@@ -7719,7 +8576,8 @@
     "low": 0.09778,
     "close": 0.09778,
     "volume": 178.8,
-    "rd_value": -2.7293386
+    "rd_value": -2.7293386,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770624960000,
@@ -7728,7 +8586,8 @@
     "low": 0.09778,
     "close": 0.09778,
     "volume": 0.0,
-    "rd_value": -2.8250868
+    "rd_value": -2.8250868,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625020000,
@@ -7737,7 +8596,8 @@
     "low": 0.09737,
     "close": 0.09754,
     "volume": 5773.3,
-    "rd_value": -2.8663414
+    "rd_value": -2.8663414,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625080000,
@@ -7746,7 +8606,8 @@
     "low": 0.09728,
     "close": 0.09754,
     "volume": 7461.3,
-    "rd_value": -2.8522365
+    "rd_value": -2.8522365,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625140000,
@@ -7755,7 +8616,8 @@
     "low": 0.0975,
     "close": 0.09754,
     "volume": 1004.3,
-    "rd_value": -2.8243184
+    "rd_value": -2.8243184,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625200000,
@@ -7764,7 +8626,8 @@
     "low": 0.09754,
     "close": 0.09781,
     "volume": 393.1,
-    "rd_value": -2.8071449
+    "rd_value": -2.8071449,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625260000,
@@ -7773,7 +8636,8 @@
     "low": 0.09756,
     "close": 0.09756,
     "volume": 1329.6,
-    "rd_value": -2.830022
+    "rd_value": -2.830022,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625320000,
@@ -7782,7 +8646,8 @@
     "low": 0.09738,
     "close": 0.09738,
     "volume": 411.5,
-    "rd_value": -2.8694737
+    "rd_value": -2.8694737,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625380000,
@@ -7791,7 +8656,8 @@
     "low": 0.09751,
     "close": 0.09751,
     "volume": 601.7,
-    "rd_value": -2.855403
+    "rd_value": -2.855403,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625440000,
@@ -7800,7 +8666,8 @@
     "low": 0.09751,
     "close": 0.09751,
     "volume": 0.0,
-    "rd_value": -2.8856108
+    "rd_value": -2.8856108,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625500000,
@@ -7809,7 +8676,8 @@
     "low": 0.09739,
     "close": 0.09741,
     "volume": 103.5,
-    "rd_value": -2.966949
+    "rd_value": -2.966949,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625560000,
@@ -7818,7 +8686,8 @@
     "low": 0.09732,
     "close": 0.09741,
     "volume": 3006.2,
-    "rd_value": -2.977779
+    "rd_value": -2.977779,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625620000,
@@ -7827,7 +8696,8 @@
     "low": 0.09701,
     "close": 0.09711,
     "volume": 15514.2,
-    "rd_value": -3.0835888
+    "rd_value": -3.0835888,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625680000,
@@ -7836,7 +8706,8 @@
     "low": 0.09699,
     "close": 0.09708,
     "volume": 835.7,
-    "rd_value": -3.14041
+    "rd_value": -3.14041,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625740000,
@@ -7845,7 +8716,8 @@
     "low": 0.09679,
     "close": 0.09692,
     "volume": 4874.1,
-    "rd_value": -3.172272
+    "rd_value": -3.172272,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625800000,
@@ -7854,7 +8726,8 @@
     "low": 0.09692,
     "close": 0.09692,
     "volume": 0.0,
-    "rd_value": -3.4323702
+    "rd_value": -3.4323702,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625860000,
@@ -7863,7 +8736,8 @@
     "low": 0.0965,
     "close": 0.0965,
     "volume": 21062.7,
-    "rd_value": -3.5388825
+    "rd_value": -3.5388825,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625920000,
@@ -7872,7 +8746,8 @@
     "low": 0.09625,
     "close": 0.09625,
     "volume": 6809.4,
-    "rd_value": -3.6019344
+    "rd_value": -3.6019344,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770625980000,
@@ -7881,7 +8756,8 @@
     "low": 0.0963,
     "close": 0.0963,
     "volume": 6525.7,
-    "rd_value": -3.616956
+    "rd_value": -3.616956,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626040000,
@@ -7890,7 +8766,8 @@
     "low": 0.09613,
     "close": 0.09635,
     "volume": 4515.4,
-    "rd_value": -3.6033664
+    "rd_value": -3.6033664,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626100000,
@@ -7899,7 +8776,8 @@
     "low": 0.09656,
     "close": 0.09696,
     "volume": 8588.2,
-    "rd_value": -3.37402
+    "rd_value": -3.37402,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626160000,
@@ -7908,7 +8786,8 @@
     "low": 0.09695,
     "close": 0.09698,
     "volume": 2835.8,
-    "rd_value": -3.2941837
+    "rd_value": -3.2941837,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626220000,
@@ -7917,7 +8796,8 @@
     "low": 0.09699,
     "close": 0.09703,
     "volume": 127.7,
-    "rd_value": -3.279014
+    "rd_value": -3.279014,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626280000,
@@ -7926,7 +8806,8 @@
     "low": 0.09703,
     "close": 0.09721,
     "volume": 190.8,
-    "rd_value": -3.2398727
+    "rd_value": -3.2398727,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626340000,
@@ -7935,7 +8816,8 @@
     "low": 0.09718,
     "close": 0.09725,
     "volume": 111.3,
-    "rd_value": -3.2256856
+    "rd_value": -3.2256856,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626400000,
@@ -7944,7 +8826,8 @@
     "low": 0.09708,
     "close": 0.09711,
     "volume": 910.8,
-    "rd_value": -3.1426988
+    "rd_value": -3.1426988,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626460000,
@@ -7953,7 +8836,8 @@
     "low": 0.09711,
     "close": 0.09711,
     "volume": 0.0,
-    "rd_value": -3.1155908
+    "rd_value": -3.1155908,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626520000,
@@ -7962,7 +8846,8 @@
     "low": 0.09722,
     "close": 0.09731,
     "volume": 2938.9,
-    "rd_value": -3.0691335
+    "rd_value": -3.0691335,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626580000,
@@ -7971,7 +8856,8 @@
     "low": 0.09729,
     "close": 0.09729,
     "volume": 2220.1,
-    "rd_value": -3.0633295
+    "rd_value": -3.0633295,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626640000,
@@ -7980,7 +8866,8 @@
     "low": 0.09721,
     "close": 0.09724,
     "volume": 1557.7,
-    "rd_value": -3.089832
+    "rd_value": -3.089832,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626700000,
@@ -7989,7 +8876,8 @@
     "low": 0.09708,
     "close": 0.09708,
     "volume": 1201.9,
-    "rd_value": -3.0231168
+    "rd_value": -3.0231168,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626760000,
@@ -7998,7 +8886,8 @@
     "low": 0.09714,
     "close": 0.09736,
     "volume": 1123.0,
-    "rd_value": -2.9951165
+    "rd_value": -2.9951165,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626820000,
@@ -8007,7 +8896,8 @@
     "low": 0.09725,
     "close": 0.09735,
     "volume": 210.4,
-    "rd_value": -2.9653
+    "rd_value": -2.9653,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626880000,
@@ -8016,7 +8906,8 @@
     "low": 0.09735,
     "close": 0.09735,
     "volume": 0.0,
-    "rd_value": -2.9456685
+    "rd_value": -2.9456685,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770626940000,
@@ -8025,7 +8916,8 @@
     "low": 0.09735,
     "close": 0.09735,
     "volume": 0.0,
-    "rd_value": -2.9445183
+    "rd_value": -2.9445183,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627000000,
@@ -8034,7 +8926,8 @@
     "low": 0.09724,
     "close": 0.09724,
     "volume": 595.9,
-    "rd_value": -2.973753
+    "rd_value": -2.973753,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627060000,
@@ -8043,7 +8936,8 @@
     "low": 0.09718,
     "close": 0.09718,
     "volume": 769.0,
-    "rd_value": -3.0224323
+    "rd_value": -3.0224323,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627120000,
@@ -8052,7 +8946,8 @@
     "low": 0.09708,
     "close": 0.09708,
     "volume": 0.0,
-    "rd_value": -3.0507553
+    "rd_value": -3.0507553,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627180000,
@@ -8061,7 +8956,8 @@
     "low": 0.09708,
     "close": 0.09708,
     "volume": 0.0,
-    "rd_value": -3.0328941
+    "rd_value": -3.0328941,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627240000,
@@ -8070,7 +8966,8 @@
     "low": 0.09704,
     "close": 0.09704,
     "volume": 1390.4,
-    "rd_value": -3.045517
+    "rd_value": -3.045517,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627300000,
@@ -8079,7 +8976,8 @@
     "low": 0.09704,
     "close": 0.09704,
     "volume": 0.0,
-    "rd_value": -2.9720278
+    "rd_value": -2.9720278,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627360000,
@@ -8088,7 +8986,8 @@
     "low": 0.09748,
     "close": 0.09748,
     "volume": 652.4,
-    "rd_value": -2.8868468
+    "rd_value": -2.8868468,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627420000,
@@ -8097,7 +8996,8 @@
     "low": 0.09748,
     "close": 0.09751,
     "volume": 110.7,
-    "rd_value": -2.8830004
+    "rd_value": -2.8830004,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627480000,
@@ -8106,7 +9006,8 @@
     "low": 0.09725,
     "close": 0.09725,
     "volume": 5455.5,
-    "rd_value": -2.937326
+    "rd_value": -2.937326,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627540000,
@@ -8115,7 +9016,8 @@
     "low": 0.09718,
     "close": 0.09724,
     "volume": 111.5,
-    "rd_value": -2.986058
+    "rd_value": -2.986058,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627600000,
@@ -8124,7 +9026,8 @@
     "low": 0.09722,
     "close": 0.09722,
     "volume": 1023.4,
-    "rd_value": -3.1141987
+    "rd_value": -3.1141987,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627660000,
@@ -8133,7 +9036,8 @@
     "low": 0.09722,
     "close": 0.0973,
     "volume": 766.3,
-    "rd_value": -3.1019516
+    "rd_value": -3.1019516,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627720000,
@@ -8142,7 +9046,8 @@
     "low": 0.09727,
     "close": 0.09727,
     "volume": 2000.0,
-    "rd_value": -3.1506634
+    "rd_value": -3.1506634,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627780000,
@@ -8151,7 +9056,8 @@
     "low": 0.09695,
     "close": 0.09707,
     "volume": 800.8,
-    "rd_value": -3.1919403
+    "rd_value": -3.1919403,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627840000,
@@ -8160,7 +9066,8 @@
     "low": 0.09704,
     "close": 0.09707,
     "volume": 1135.3,
-    "rd_value": -3.1731513
+    "rd_value": -3.1731513,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627900000,
@@ -8169,7 +9076,8 @@
     "low": 0.09698,
     "close": 0.09698,
     "volume": 1660.3,
-    "rd_value": -3.1715078
+    "rd_value": -3.1715078,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770627960000,
@@ -8178,7 +9086,8 @@
     "low": 0.09711,
     "close": 0.09711,
     "volume": 0.0,
-    "rd_value": -3.1619878
+    "rd_value": -3.1619878,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628020000,
@@ -8187,7 +9096,8 @@
     "low": 0.09708,
     "close": 0.09716,
     "volume": 395.6,
-    "rd_value": -3.159867
+    "rd_value": -3.159867,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628080000,
@@ -8196,7 +9106,8 @@
     "low": 0.09699,
     "close": 0.09699,
     "volume": 579.8,
-    "rd_value": -3.1789927
+    "rd_value": -3.1789927,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628140000,
@@ -8205,7 +9116,8 @@
     "low": 0.09704,
     "close": 0.09726,
     "volume": 1348.5,
-    "rd_value": -3.1639264
+    "rd_value": -3.1639264,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628200000,
@@ -8214,7 +9126,8 @@
     "low": 0.09695,
     "close": 0.09695,
     "volume": 1433.8,
-    "rd_value": -3.2345505
+    "rd_value": -3.2345505,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628260000,
@@ -8223,7 +9136,8 @@
     "low": 0.09696,
     "close": 0.09696,
     "volume": 0.0,
-    "rd_value": -3.2471766
+    "rd_value": -3.2471766,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628320000,
@@ -8232,7 +9146,8 @@
     "low": 0.09696,
     "close": 0.09696,
     "volume": 0.0,
-    "rd_value": -3.2459354
+    "rd_value": -3.2459354,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628380000,
@@ -8241,7 +9156,8 @@
     "low": 0.09692,
     "close": 0.09692,
     "volume": 3871.8,
-    "rd_value": -3.2474682
+    "rd_value": -3.2474682,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628440000,
@@ -8250,7 +9166,8 @@
     "low": 0.09696,
     "close": 0.09696,
     "volume": 0.0,
-    "rd_value": -3.2619343
+    "rd_value": -3.2619343,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628500000,
@@ -8259,7 +9176,8 @@
     "low": 0.09686,
     "close": 0.09686,
     "volume": 0.0,
-    "rd_value": -3.4528203
+    "rd_value": -3.4528203,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628560000,
@@ -8268,7 +9186,8 @@
     "low": 0.09673,
     "close": 0.09673,
     "volume": 2129.6,
-    "rd_value": -3.47371
+    "rd_value": -3.47371,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628620000,
@@ -8277,7 +9196,8 @@
     "low": 0.09644,
     "close": 0.09644,
     "volume": 2000.0,
-    "rd_value": -3.5306134
+    "rd_value": -3.5306134,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628680000,
@@ -8286,7 +9206,8 @@
     "low": 0.09651,
     "close": 0.09666,
     "volume": 120.1,
-    "rd_value": -3.536646
+    "rd_value": -3.536646,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628740000,
@@ -8295,7 +9216,8 @@
     "low": 0.09648,
     "close": 0.09658,
     "volume": 1905.0,
-    "rd_value": -3.5325103
+    "rd_value": -3.5325103,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628800000,
@@ -8304,7 +9226,8 @@
     "low": 0.09658,
     "close": 0.09685,
     "volume": 1517.6,
-    "rd_value": -3.471006
+    "rd_value": -3.471006,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628860000,
@@ -8313,7 +9236,8 @@
     "low": 0.09685,
     "close": 0.09685,
     "volume": 0.0,
-    "rd_value": -3.4225733
+    "rd_value": -3.4225733,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628920000,
@@ -8322,7 +9246,8 @@
     "low": 0.09685,
     "close": 0.09685,
     "volume": 0.0,
-    "rd_value": -3.4203935
+    "rd_value": -3.4203935,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770628980000,
@@ -8331,7 +9256,8 @@
     "low": 0.09689,
     "close": 0.09689,
     "volume": 0.0,
-    "rd_value": -3.4052794
+    "rd_value": -3.4052794,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629040000,
@@ -8340,7 +9266,8 @@
     "low": 0.09681,
     "close": 0.09681,
     "volume": 26.8,
-    "rd_value": -3.4188304
+    "rd_value": -3.4188304,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629100000,
@@ -8349,7 +9276,8 @@
     "low": 0.09676,
     "close": 0.09694,
     "volume": 1212.9,
-    "rd_value": -3.461838
+    "rd_value": -3.461838,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629160000,
@@ -8358,7 +9286,8 @@
     "low": 0.09685,
     "close": 0.09685,
     "volume": 1902.5,
-    "rd_value": -3.4485824
+    "rd_value": -3.4485824,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629220000,
@@ -8367,7 +9296,8 @@
     "low": 0.09683,
     "close": 0.09683,
     "volume": 73.4,
-    "rd_value": -3.5028117
+    "rd_value": -3.5028117,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629280000,
@@ -8376,7 +9306,8 @@
     "low": 0.0966,
     "close": 0.09665,
     "volume": 7905.8,
-    "rd_value": -3.5246396
+    "rd_value": -3.5246396,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629340000,
@@ -8385,7 +9316,8 @@
     "low": 0.09598,
     "close": 0.09613,
     "volume": 72013.0,
-    "rd_value": -3.5889673
+    "rd_value": -3.5889673,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629400000,
@@ -8394,7 +9326,8 @@
     "low": 0.09572,
     "close": 0.09589,
     "volume": 25414.0,
-    "rd_value": -3.958286
+    "rd_value": -3.958286,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629460000,
@@ -8403,7 +9336,8 @@
     "low": 0.09583,
     "close": 0.09601,
     "volume": 10890.2,
-    "rd_value": -4.0205674
+    "rd_value": -4.0205674,
+    "symbol": "SCRT"
   },
   {
     "timestamp": 1770629520000,
@@ -8412,6 +9346,7 @@
     "low": 0.096,
     "close": 0.096,
     "volume": 0.0,
-    "rd_value": -3.996818
+    "rd_value": -3.996818,
+    "symbol": "SCRT"
   }
 ]

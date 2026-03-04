@@ -4,14 +4,16 @@ const path = require('path');
 const app = express();
 app.use(express.json());
 
+// Функция для получения временной метки в ISO формате (UTC)
+const getTimestamp = () => new Date().toISOString();
+
 // Загружаем демо-данные
-const dataPath = path.join(__dirname, 'data', 'btcusdt_demo.json');
+const dataPath = path.join(__dirname, 'data', 'demo_data.json');
 const rawData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
 
-// Извлекаем символ из первой записи (если есть), иначе используем запасной
+// Извлекаем символ из первой записи
 const symbol = rawData[0]?.symbol || "UNKNOWN";
 
-// Преобразуем в удобный формат: массив объектов с полями
 const historicalData = rawData.map(item => ({
     timestamp: item.timestamp,
     open: item.open,
@@ -22,20 +24,18 @@ const historicalData = rawData.map(item => ({
     rd_value: item.rd_value
 }));
 
-// Переменная для хранения текущего индекса
-let currentIndex = 60; // начинаем с 60, чтобы сразу отдавать READY
+let currentIndex = 60; // сразу READY
 
-// Эндпоинт для получения окна фичей
 app.get('/api/ml/ds/feature-windows', (req, res) => {
     if (currentIndex < 60) {
         return res.json({
             timeframe: "1m",
             lookbackSteps: 60,
             featureColumns: ["rd_value", "open", "high", "low", "close", "volume"],
-            generatedAt: new Date().toISOString(),
+            generatedAt: getTimestamp(),
             items: [
                 {
-                    symbol: symbol,  // используем переменную symbol
+                    symbol: symbol,
                     state: "WARMUP",
                     reason: "not_enough_points",
                     pointsCollected: currentIndex,
@@ -61,10 +61,10 @@ app.get('/api/ml/ds/feature-windows', (req, res) => {
         timeframe: "1m",
         lookbackSteps: 60,
         featureColumns: ["rd_value", "open", "high", "low", "close", "volume"],
-        generatedAt: new Date().toISOString(),
+        generatedAt: getTimestamp(),
         items: [
             {
-                symbol: symbol,  // используем переменную symbol
+                symbol: symbol,
                 state: "READY",
                 reason: null,
                 pointsCollected: 60,
@@ -83,15 +83,14 @@ app.get('/api/ml/ds/feature-windows', (req, res) => {
     res.json(response);
 });
 
-// Эндпоинт приёма сигналов
 app.post('/api/signals/ingest', (req, res) => {
     const { symbol, timestamp, signal, price, rating, source } = req.body;
     if (!symbol || !timestamp || !signal || !price || !rating || !source) {
         return res.status(400).json({ error: "Missing required fields" });
     }
-    console.log(`\n[PLATFORM] 🚀 ПОЛУЧЕН СИГНАЛ ОТ ML!`);
-    console.log(`Торговая пара: ${symbol} | Сигнал: ${signal} | Цена: ${price} | Уверенность: ${(rating*100).toFixed(1)}% | Режим: ${source}`);
+    console.log(`\n[${getTimestamp()}] 🚀 ПОЛУЧЕН СИГНАЛ ОТ ML!`);
+    console.log(`[${getTimestamp()}] Торговая пара: ${symbol} | Сигнал: ${signal} | Цена: ${price} | Уверенность: ${(rating*100).toFixed(1)}% | Режим: ${source}`);
     res.status(200).json({ success: true, message: "Signal accepted" });
 });
 
-app.listen(3000, () => console.log('✅ Мок-платформа с реальными данными запущена на http://localhost:3000'));
+app.listen(3000, () => console.log(`[${getTimestamp()}] ✅ Мок-платформа с реальными данными запущена на http://localhost:3000`));

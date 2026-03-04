@@ -147,16 +147,16 @@ pip install -r requirements.txt
   ```
 - Для демо рекомендуется использовать символ с большим количеством непрерывных данных, например `SCRT`, `AXS` или `LQTY`. Мы протестировали `SCRT` – он даёт отрезок более 900 строк.
 
-**Команда для запуска:**
+**Команда для запуска (Пример для символа SCRT):**
 
 Если ваши исходные данные лежат в стандартной папке `data/raw/dataset_rework`:
 ```bash
-python scripts/prepare_demo_data.py --symbol SCRT --output mock/data/btcusdt_demo.json
+python scripts/prepare_demo_data.py --symbol SCRT --output mock/data/demo_data.json
 ```
 
 Если данные находятся в другом месте, укажите путь через `--data-dir`:
 ```bash
-python scripts/prepare_demo_data.py --symbol SCRT --output mock/data/btcusdt_demo.json --data-dir /полный/путь/к/dataset_rework
+python scripts/prepare_demo_data.py --symbol SCRT --output mock/data/demo_data.json --data-dir /полный/путь/к/dataset_rework
 ```
 
 **Дополнительные параметры:**

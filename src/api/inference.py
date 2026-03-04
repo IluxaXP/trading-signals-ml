@@ -10,14 +10,14 @@ sys.path.append(str(BASE_DIR))
 
 from src.features.feature_pipeline import add_features
 
-# Пути к артефактам
 MODEL_PATH = BASE_DIR / 'models' / 'champion_hackathon_tp_sl_1_05.joblib'
 FEATURES_FILE = BASE_DIR / 'models' / 'features_selected_tp_sl_1_05.txt'
 
-# Глобальные переменные для загруженных компонентов
 _model = None
 _scaler = None
 _selected_features = None
+_buy_threshold = 0.6
+_sell_threshold = 0.4
 
 def _load_artifacts():
     global _model, _scaler, _selected_features
@@ -25,7 +25,6 @@ def _load_artifacts():
         bundle = joblib.load(MODEL_PATH)
         _model = bundle.get("model")
         _scaler = bundle.get("scaler")
-        # Всегда читаем список фичей из файла, чтобы избежать несоответствий
         with open(FEATURES_FILE, 'r') as f:
             _selected_features = [line.strip() for line in f if line.strip()]
         if _model is None or _scaler is None or _selected_features is None:
@@ -33,47 +32,47 @@ def _load_artifacts():
 
 def predict(window_df: pd.DataFrame) -> tuple:
     """
-    Принимает DataFrame с историей (минимум 60 строк) и возвращает (signal, confidence).
-    DataFrame должен содержать колонки:
-        timestamp, symbol, open, high, low, close, volume, rd_value
+    Возвращает (signal, confidence), где:
+        signal = 1 (BUY), -1 (SELL) или 0 (HOLD)
+        confidence = вероятность соответствующего класса (для BUY/SELL) или вероятность BUY для HOLD.
     """
     _load_artifacts()
 
     df = window_df.copy()
 
-    # Переименовываем close -> close_price, если нужно
     if 'close' in df.columns and 'close_price' not in df.columns:
         df.rename(columns={'close': 'close_price'}, inplace=True)
 
-    # Добавляем колонку datetime, если её нет (необходимо для time-фичей)
     if 'datetime' not in df.columns and 'timestamp' in df.columns:
         df['datetime'] = pd.to_datetime(df['timestamp'], unit='ms')
 
-    # Добавляем фичи через feature_pipeline
-    # Для add_features требуется колонка session_key. Если её нет – создаём фиктивную.
     if 'session_key' not in df.columns:
         df['session_key'] = 'dummy'
 
     df_feat, _ = add_features(df, session_key_col='session_key')
-
-    # Берём последнюю строку (текущий момент)
     last_row = df_feat.iloc[-1:]
-
-    # Выбираем только нужные фичи (передаём DataFrame с именами колонок)
     X = last_row[_selected_features].copy()
 
-    # Масштабируем (scaler ожидает DataFrame с такими же именами)
-    X_scaled = _scaler.transform(X)  # на выходе numpy array
+    X_scaled = pd.DataFrame(
+        _scaler.transform(X),
+        columns=_selected_features,
+        index=X.index
+    )
 
-    # Предсказание вероятностей
-    proba = _model.predict_proba(X_scaled)[0]
-    classes = _model.classes_          # например [-1, 0, 1]
+    proba = _model.predict_proba(X_scaled)[0]          # массив вероятностей
+    classes = _model.classes_
 
-    pred_class = classes[np.argmax(proba)]
-    confidence = np.max(proba)
+    # Индекс класса 1 (BUY)
+    buy_idx = np.where(classes == 1)[0]
+    if len(buy_idx) == 0:
+        raise ValueError("Класс 1 (BUY) не найден в модели")
+    buy_prob = proba[buy_idx[0]]
 
-    # Если класс = 0 или уверенность ниже порога (0.5), возвращаем HOLD
-    if pred_class == 0 or confidence < 0.5:
-        return 0, confidence
-
-    return pred_class, confidence
+    # Применяем пороги
+    if buy_prob >= _buy_threshold:
+        return 1, buy_prob
+    elif buy_prob <= _sell_threshold:
+        # Уверенность в SELL = 1 - buy_prob (если модель бинарная)
+        return -1, 1 - buy_prob
+    else:
+        return 0, buy_prob   # HOLD
