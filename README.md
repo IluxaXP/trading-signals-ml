@@ -233,6 +233,7 @@ docker-compose up --build
 - `02_TARGET_RESEARCH_CONCLUSIONS.md` – выбор `tp_sl_1_05`.
 - `08_FEATURES_SOURCES_AND_RATIONALE.md` – описание базовых фичей и их отбор.
 - `05_PIPELINE_CONCLUSIONS.md` – итоги пайплайна.
+- `10_PRODUCTION_MODEL_LightGBM_SEQ.md` - как считаются фичи/окна/сессии, как устроен бэктест и почему результаты честно отражают будущий запуск на реальных данных.
 
 ---
 
