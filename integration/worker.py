@@ -21,13 +21,15 @@ sys.path.append(str(BASE_DIR))
 
 from src.api.inference import predict
 from integration.config import (
-    API_BASE,
-    API_USERNAME,
-    API_PASSWORD,
+    DATA_API_BASE,
+    DATA_USERNAME,
+    DATA_PASSWORD,
+    SIGNAL_API_BASE,
+    SIGNAL_USERNAME,
+    SIGNAL_PASSWORD,
     POLL_INTERVAL,
     REQUEST_TIMEOUT,
     SIGNAL_SOURCE,
-    CONFIDENCE_THRESHOLD,   # оставлен для совместимости, но не используется в логике
     get_mode_name,
     is_production,
 )
@@ -38,12 +40,8 @@ def log(msg):
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]
     print(f"[{ts}] {msg}")
 
-# ---------- Функция логирования входных данных ----------
 def log_features_to_file(symbol, features, window_end):
-    """
-    Сохраняет полученное окно признаков в CSV-файл.
-    Файлы создаются в папке logs/ с именем {symbol}_{YYYY-MM-DD}.csv.
-    """
+    """Сохраняет полученное окно признаков в CSV-файл."""
     log_dir = Path(__file__).parent / 'logs'
     log_dir.mkdir(exist_ok=True)
     date_str = datetime.fromtimestamp(window_end / 1000).strftime('%Y-%m-%d')
@@ -53,17 +51,15 @@ def log_features_to_file(symbol, features, window_end):
         writer = csv.writer(f)
         if not file_exists:
             writer.writerow(['timestamp', 'rd_value', 'open', 'high', 'low', 'close', 'volume'])
-        # Восстанавливаем приблизительные временные метки для каждой строки (от earliest к latest)
         for i, row in enumerate(features):
-            # i=0 – самая старая минута, i=59 – самая новая (window_end)
             ts = window_end - (59 - i) * 60000
             writer.writerow([ts] + row)
 
 def get_feature_windows():
-    auth = (API_USERNAME, API_PASSWORD) if is_production() else None
+    auth = (DATA_USERNAME, DATA_PASSWORD) if DATA_USERNAME else None
     try:
         response = requests.get(
-            f"{API_BASE}/api/ml/ds/feature-windows?readyOnly=true",
+            f"{DATA_API_BASE}/api/ml/ds/feature-windows?readyOnly=true",
             timeout=REQUEST_TIMEOUT,
             auth=auth,
         )
@@ -75,10 +71,10 @@ def get_feature_windows():
 
 def send_signal(payload):
     payload["source"] = SIGNAL_SOURCE
-    auth = (API_USERNAME, API_PASSWORD) if is_production() else None
+    auth = (SIGNAL_USERNAME, SIGNAL_PASSWORD) if SIGNAL_USERNAME else None
     try:
         response = requests.post(
-            f"{API_BASE}/api/signals/ingest",
+            f"{SIGNAL_API_BASE}/api/signals/ingest",
             json=payload,
             timeout=REQUEST_TIMEOUT,
             auth=auth,
@@ -109,7 +105,7 @@ def run_iteration():
         features = item["features"]
         window_end = item.get("windowEndTimestamp")
 
-        # ----- Логирование сырых данных (если включено) -----
+        # Логирование сырых данных (если включено)
         if os.getenv('LOG_FEATURES', 'false').lower() == 'true':
             try:
                 log_features_to_file(symbol, features, window_end)
@@ -160,17 +156,22 @@ def main():
     mode = get_mode_name()
     log(f"🚀 Worker запущен в режиме: {mode}")
     if is_production():
-        log(f"   API: {API_BASE} (авторизация: {API_USERNAME})")
-        if API_USERNAME == 'dataset':
-            log("   ⚠️ Профиль 'dataset' — отправка сигналов НЕВОЗМОЖНА (POST /ingest запрещён).")
-        else:
-            log(f"   ✅ Сигналы будут отправляться с источником {SIGNAL_SOURCE} (теневой режим).")
+        log(f"   Данные: {DATA_API_BASE} (авторизация: {DATA_USERNAME})")
     else:
-        log(f"   API: {API_BASE} (мок-сервер, без авторизации)")
-        log("   ✅ Сигналы отправляются на локальный мок-сервер.")
+        log(f"   Данные: {DATA_API_BASE} (мок-сервер, без авторизации)")
+
+    if SIGNAL_API_BASE == DATA_API_BASE:
+        if SIGNAL_USERNAME:
+            log(f"   Сигналы: {SIGNAL_API_BASE} (туда же, источник {SIGNAL_SOURCE})")
+        else:
+            log(f"   Сигналы: {SIGNAL_API_BASE} (без авторизации)")
+    else:
+        log(f"   Сигналы: {SIGNAL_API_BASE} (локальный мок-сервер, без авторизации)")
+
     log(f"   Интервал опроса: {POLL_INTERVAL} сек")
     if os.getenv('LOG_FEATURES', 'false').lower() == 'true':
         log("   📁 Логирование входных окон включено (папка logs/)")
+
     while True:
         run_iteration()
         time.sleep(POLL_INTERVAL)
