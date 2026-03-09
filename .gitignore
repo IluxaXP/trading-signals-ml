@@ -244,3 +244,10 @@ experiments/
 # Temporary files
 *.tmp
 temp/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
